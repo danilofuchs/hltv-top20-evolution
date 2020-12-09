@@ -1,0 +1,27 @@
+{
+  "name": "hltv-top20-evolution",
+  "version": "1.0.0",
+  "description": "HLTV.org Top 20 Ranking evolution",
+  "main": "src/index.tsx",
+  "repository": "https://github.com/danilofuchs/hltv-top20-evolution",
+  "author": "danilofuchs",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@nivo/bump": "^0.66.0",
+    "@nivo/core": "^0.66.0",
+    "next": "10.0.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.11",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.1.2"
+  }
+}
