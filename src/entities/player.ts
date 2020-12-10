@@ -2,12 +2,12 @@ export interface Player {
   name: string;
   country: string | null;
   rankings: {
-    "2013": string | null;
-    "2014": string | null;
-    "2015": string | null;
-    "2016": string | null;
-    "2017": string | null;
-    "2018": string | null;
-    "2019": string | null;
+    "2013": number | null;
+    "2014": number | null;
+    "2015": number | null;
+    "2016": number | null;
+    "2017": number | null;
+    "2018": number | null;
+    "2019": number | null;
   };
 }
