@@ -1,0 +1,873 @@
+[
+  {
+    "name": "GeT_RiGhT",
+    "country": "SE",
+    "rankings": {
+      "2013": 1,
+      "2014": 1,
+      "2015": 11,
+      "2016": 18,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "f0rest",
+    "country": "SE",
+    "rankings": {
+      "2013": 2,
+      "2014": 7,
+      "2015": 16,
+      "2016": 7,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "shox",
+    "country": null,
+    "rankings": {
+      "2013": 3,
+      "2014": 8,
+      "2015": 13,
+      "2016": 6,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Dosia",
+    "country": null,
+    "rankings": {
+      "2013": 4,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "NBK",
+    "country": null,
+    "rankings": {
+      "2013": 5,
+      "2014": 17,
+      "2015": 9,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Xizt",
+    "country": "SE",
+    "rankings": {
+      "2013": 6,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "ScreaM",
+    "country": null,
+    "rankings": {
+      "2013": 7,
+      "2014": null,
+      "2015": null,
+      "2016": 9,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "JW",
+    "country": "SE",
+    "rankings": {
+      "2013": 8,
+      "2014": 5,
+      "2015": 10,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Hiko",
+    "country": null,
+    "rankings": {
+      "2013": 9,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "GuardiaN",
+    "country": null,
+    "rankings": {
+      "2013": 10,
+      "2014": 11,
+      "2015": 2,
+      "2016": 17,
+      "2017": 9,
+      "2018": 11,
+      "2019": null
+    }
+  },
+  {
+    "name": "friberg",
+    "country": "SE",
+    "rankings": {
+      "2013": 11,
+      "2014": 14,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "kennyS",
+    "country": null,
+    "rankings": {
+      "2013": 12,
+      "2014": 6,
+      "2015": 6,
+      "2016": 13,
+      "2017": 7,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "flusha",
+    "country": "SE",
+    "rankings": {
+      "2013": 13,
+      "2014": 2,
+      "2015": 5,
+      "2016": 10,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Nico",
+    "country": null,
+    "rankings": {
+      "2013": 14,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "markeloff",
+    "country": null,
+    "rankings": {
+      "2013": 15,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Edward",
+    "country": null,
+    "rankings": {
+      "2013": 16,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "SmithZz",
+    "country": null,
+    "rankings": {
+      "2013": 17,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "dupreeh",
+    "country": null,
+    "rankings": {
+      "2013": 18,
+      "2014": 16,
+      "2015": 12,
+      "2016": null,
+      "2017": 10,
+      "2018": 5,
+      "2019": 16
+    }
+  },
+  {
+    "name": "pasha",
+    "country": null,
+    "rankings": {
+      "2013": 19,
+      "2014": 3,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Xyp9x",
+    "country": null,
+    "rankings": {
+      "2013": 20,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 13,
+      "2018": 13,
+      "2019": 14
+    }
+  },
+  {
+    "name": "Snax",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 4,
+      "2015": 4,
+      "2016": 5,
+      "2017": 20,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "KRIMZ",
+    "country": "SE",
+    "rankings": {
+      "2013": null,
+      "2014": 9,
+      "2015": 7,
+      "2016": null,
+      "2017": null,
+      "2018": 9,
+      "2019": 17
+    }
+  },
+  {
+    "name": "Happy",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 10,
+      "2015": 8,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "olofmeister",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 12,
+      "2015": 1,
+      "2016": 8,
+      "2017": 19,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "byali",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 13,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "apEX",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 15,
+      "2015": 18,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "dupreeh",
+    "country": null,
+    "rankings": {
+      "2013": 18,
+      "2014": 16,
+      "2015": 12,
+      "2016": null,
+      "2017": 10,
+      "2018": 5,
+      "2019": 16
+    }
+  },
+  {
+    "name": "swag",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 18,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "kioShiMa",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 19,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "device",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": 20,
+      "2015": 3,
+      "2016": 3,
+      "2017": 5,
+      "2018": 2,
+      "2019": 3
+    }
+  },
+  {
+    "name": "flamie",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": 14,
+      "2016": 12,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "cajunb",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": 15,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "NEO",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": 17,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "allu",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": 19,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Skadoodle",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": 20,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "coldzera",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 1,
+      "2017": 1,
+      "2018": 10,
+      "2019": null
+    }
+  },
+  {
+    "name": "FalleN",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 2,
+      "2017": 6,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "s1mple",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 4,
+      "2017": 8,
+      "2018": 1,
+      "2019": 2
+    }
+  },
+  {
+    "name": "NiKo",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 11,
+      "2017": 2,
+      "2018": 3,
+      "2019": 11
+    }
+  },
+  {
+    "name": "Magisk",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 14,
+      "2017": null,
+      "2018": 7,
+      "2019": 5
+    }
+  },
+  {
+    "name": "fer",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 15,
+      "2017": 3,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "Kjaerbye",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 16,
+      "2017": 15,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "fnx",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 19,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "dennis",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": 20,
+      "2017": null,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "rain",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 4,
+      "2018": 18,
+      "2019": null
+    }
+  },
+  {
+    "name": "Hobbit",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 11,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "EliGE",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 12,
+      "2018": 15,
+      "2019": 4
+    }
+  },
+  {
+    "name": "k0nfig",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 14,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "oskar",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 16,
+      "2018": 14,
+      "2019": null
+    }
+  },
+  {
+    "name": "AdreN",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 17,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "boltz",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": 18,
+      "2018": null,
+      "2019": null
+    }
+  },
+  {
+    "name": "electronic",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 4,
+      "2019": 6
+    }
+  },
+  {
+    "name": "NAF",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 6,
+      "2019": 7
+    }
+  },
+  {
+    "name": "gla1ve",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 8,
+      "2019": null
+    }
+  },
+  {
+    "name": "Twistzz",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 12,
+      "2019": 9
+    }
+  },
+  {
+    "name": "suNny",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 16,
+      "2019": null
+    }
+  },
+  {
+    "name": "autimatic",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 17,
+      "2019": null
+    }
+  },
+  {
+    "name": "ropz",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 19,
+      "2019": 10
+    }
+  },
+  {
+    "name": "valde",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": 20,
+      "2019": null
+    }
+  },
+  {
+    "name": "ZywOo",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 1
+    }
+  },
+  {
+    "name": "Brehze",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 8
+    }
+  },
+  {
+    "name": "woxic",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 12
+    }
+  },
+  {
+    "name": "sergej",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 13
+    }
+  },
+  {
+    "name": "jks",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 15
+    }
+  },
+  {
+    "name": "CeRq",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 18
+    }
+  },
+  {
+    "name": "Brollan",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 19
+    }
+  },
+  {
+    "name": "Ethan",
+    "country": null,
+    "rankings": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2016": null,
+      "2017": null,
+      "2018": null,
+      "2019": 20
+    }
+  }
+]
