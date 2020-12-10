@@ -7,6 +7,7 @@ Evolution of HTLV.org CS:GO players ranking across time.
 First, run the development server:
 
 ```bash
+yarn install
 yarn dev
 ```
 
@@ -20,5 +21,8 @@ This [Google Sheets document](https://docs.google.com/spreadsheets/d/1xDqUbElQVN
 - Fill in the rankings for the year
 - Add missing players to the main sheet
 - Export this sheet to `scripts/players.csv`
-- Run `yarn generate`
+- `cd scripts`
+- `yarn install`
+- `yarn generate`
+- Add references to the new year wherever necessary
 - :tada:
