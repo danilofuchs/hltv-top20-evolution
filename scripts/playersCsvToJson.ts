@@ -12,13 +12,8 @@ const writeFile = util.promisify(fs.writeFile);
 interface CsvRow {
   Player: string;
   Country: string | null;
-  2013: number | null;
-  2014: number | null;
-  2015: number | null;
-  2016: number | null;
-  2017: number | null;
-  2018: number | null;
-  2019: number | null;
+
+  [year: number]: number | null;
 }
 
 const importCsv = (csv: string): CsvRow[] =>
@@ -30,15 +25,20 @@ const importCsv = (csv: string): CsvRow[] =>
 const parseRow = (row: CsvRow): Player => ({
   name: row.Player,
   country: row.Country,
-  rankings: {
-    "2013": row["2013"],
-    "2014": row["2014"],
-    "2015": row["2015"],
-    "2016": row["2016"],
-    "2017": row["2017"],
-    "2018": row["2018"],
-    "2019": row["2019"],
-  },
+  rankings: Object.entries(row)
+    .filter(
+      ([label, _value]) =>
+        !Number.isNaN(parseInt(label)) &&
+        label.startsWith("20") &&
+        label.length === 4
+    )
+    .map(
+      ([year, place]) => ({
+        year: parseInt(year),
+        place: place ? parseInt(place) : null,
+      }),
+      {}
+    ),
 });
 
 const currentDir = path.dirname(url.fileURLToPath(import.meta.url));
