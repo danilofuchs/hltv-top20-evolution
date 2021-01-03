@@ -1,52 +1,115 @@
 import {
-  XYPlot,
-  LineSeries,
-  LabelSeries,
-  VerticalGridLines,
-  HorizontalGridLines,
-  XAxis,
-  YAxis,
-} from "react-vis";
+  VictoryAxis,
+  VictoryChart,
+  VictoryLabel,
+  VictoryLine,
+  VictoryVoronoiContainer,
+} from "victory";
 import playersJson from "@src/data/players.json";
-import { Player } from "@src/entities/player";
+import { Player, PlayerRank } from "@src/entities/player";
+import React from "react";
+import { getPlayerColor } from "@src/utils/color";
 
 const players = playersJson as Player[];
+const playersWithColor = players.map((player) => ({
+  ...player,
+  color: getPlayerColor(player.name), //getPlayerColor(index, players.length),
+}));
 
-const years = new Set(players[0].rankings.map((rank) => rank.year));
+const playersWithLabels: Player[] = playersWithColor.map((player) => {
+  const rankings: PlayerRank[] = [];
+  for (let i = 0; i < player.rankings.length; i++) {
+    if (player.rankings[i].place !== null) {
+      if (i === 0) {
+        // First year
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      } else if (player.rankings[i - 1].place === null) {
+        // Just after a gap
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      } else if (
+        player.rankings[i + 1] &&
+        player.rankings[i + 1].place === null
+      ) {
+        // Just before a gap
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      } else if (i === player.rankings.length - 1) {
+        // Last year
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      }
+      rankings.push({ ...player.rankings[i], shouldLabel: false });
+    } else {
+      rankings.push({ ...player.rankings[i], shouldLabel: false });
+    }
+  }
 
-const yTickValues = new Array(20).fill(0).map((_, i) => i + 1);
-const xTickValues = Array.from(years.values()).sort((a, b) => a - b);
+  return {
+    ...player,
+    rankings,
+  };
+});
 
-const buildDataForPlayer = (player: Player): any[] => {
-  return player.rankings.map((rank) => ({
-    x: rank.year,
-    y: rank.place as number,
-    // label: player.name,
-  }));
-};
+// Add padding so the lines stay longer at the year
+const playersWithPadding: Player[] = playersWithLabels.map((player) => ({
+  ...player,
+  rankings: player.rankings.flatMap((ranking) => [
+    { ...ranking, year: ranking.year - 0.25, shouldLabel: false },
+    ranking,
+    { ...ranking, year: ranking.year + 0.25, shouldLabel: false },
+  ]),
+}));
+
+const rankingMap: Record<string, string> = {};
+
+for (const player of players) {
+  for (const ranking of player.rankings) {
+    if (ranking.place === null) {
+      continue;
+    }
+    rankingMap[`${ranking.year}_${ranking.place}`] = player.name;
+  }
+}
 
 interface Props {}
 export function BumpChart(props: Props) {
   return (
-    <XYPlot height={400} width={800} yDomain={[20, 1]} margin={40}>
-      <VerticalGridLines tickValues={xTickValues} />
-      <HorizontalGridLines tickValues={yTickValues} />
-      <XAxis tickValues={xTickValues} tickFormat={(tick) => tick.toString()} />
-      <YAxis tickValues={yTickValues} />
-      {players.map((player) => (
-        <LineSeries
-          data={buildDataForPlayer(player)}
-          getNull={(d) => d.y !== null}
-          curve={"curveMonotoneX"}
-          key={`${player.name}_line`}
+    <VictoryChart
+      height={600}
+      width={800}
+      domain={{ y: [1, 20] }}
+      domainPadding={15}
+      containerComponent={<VictoryVoronoiContainer />}
+    >
+      <VictoryAxis
+        dependentAxis
+        tickCount={20}
+        invertAxis
+        style={{
+          grid: {
+            stroke: "#e0e0e0",
+          },
+        }}
+      />
+      <VictoryAxis tickFormat={(year) => year.toString()} />
+      {playersWithPadding.map((player) => (
+        <VictoryLine
+          data={player.rankings}
+          x="year"
+          y="place"
+          labels={(data) => (data.datum.shouldLabel ? player.name : null)}
+          style={{
+            data: {
+              stroke: player.color,
+              strokeWidth: (data) => (data.active ? "4px" : "2px"),
+              opacity: (data) => (data.active ? "100%" : "60%"),
+            },
+            labels: {
+              opacity: (data) => (data.active ? "100%" : "60%"),
+            },
+          }}
+          labelComponent={<VictoryLabel dy={-3} />}
+          interpolation="monotoneX"
         />
       ))}
-      {players.map((player) => (
-        <LabelSeries
-          data={buildDataForPlayer(player)}
-          key={`${player.name}_label`}
-        />
-      ))}
-    </XYPlot>
+    </VictoryChart>
   );
 }
