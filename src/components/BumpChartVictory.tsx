@@ -2,12 +2,14 @@ import {
   Curve,
   VictoryAxis,
   VictoryChart,
+  VictoryLabel,
   VictoryLine,
+  VictoryScatter,
   VictoryTooltip,
   VictoryVoronoiContainer,
 } from "victory";
 import playersJson from "@src/data/players.json";
-import { Player } from "@src/entities/player";
+import { Player, PlayerRank } from "@src/entities/player";
 import React from "react";
 
 const players = playersJson as Player[];
@@ -21,11 +23,35 @@ const playersWithPadding: Player[] = players.map((player) => ({
   ]),
 }));
 
+// Label only first appearances after a gap
+interface PlayerRankWithLabel extends PlayerRank {
+  shouldLabel: boolean;
+}
+const playersWithLabels: Player[] = players.map((player) => {
+  const rankings: PlayerRankWithLabel[] = [];
+  for (let i = 0; i < player.rankings.length; i++) {
+    if (player.rankings[i].place !== null) {
+      if (i === 0) {
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      } else if (player.rankings[i - 1].place === null) {
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      }
+    } else {
+      rankings.push({ ...player.rankings[i], shouldLabel: false });
+    }
+  }
+
+  return {
+    ...player,
+    rankings,
+  };
+});
+
 interface Props {}
 export function BumpChartVictory(props: Props) {
   return (
     <VictoryChart
-      height={400}
+      height={600}
       width={800}
       domain={{ y: [1, 20] }}
       domainPadding={10}
@@ -53,14 +79,20 @@ export function BumpChartVictory(props: Props) {
               }}
             />
           }
-          colorScale="warm"
           interpolation="monotoneX"
           dataComponent={<Curve />}
         />
       ))}
-      {/* {players.map((player) => (
-        <LabelSeries data={buildDataForPlayer(player)} />
-      ))} */}
+      {playersWithLabels.map((player) => (
+        <VictoryScatter
+          data={player.rankings}
+          x="year"
+          y="place"
+          labels={(data) => (data.datum.shouldLabel ? player.name : null)}
+          labelComponent={<VictoryLabel dy={-3} />}
+          dataComponent={<></>}
+        />
+      ))}
     </VictoryChart>
   );
 }
