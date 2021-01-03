@@ -1,34 +1,23 @@
 import {
-  Curve,
   VictoryAxis,
   VictoryChart,
   VictoryLabel,
   VictoryLine,
-  VictoryScatter,
-  VictoryTooltip,
   VictoryVoronoiContainer,
 } from "victory";
 import playersJson from "@src/data/players.json";
 import { Player, PlayerRank } from "@src/entities/player";
 import React from "react";
+import { getPlayerColor } from "@src/utils/color";
 
 const players = playersJson as Player[];
-// Add padding so the lines stay longer at the year
-const playersWithPadding: Player[] = players.map((player) => ({
+const playersWithColor = players.map((player) => ({
   ...player,
-  rankings: player.rankings.flatMap((ranking) => [
-    { ...ranking, year: ranking.year - 0.25 },
-    ranking,
-    { ...ranking, year: ranking.year + 0.25 },
-  ]),
+  color: getPlayerColor(player.name), //getPlayerColor(index, players.length),
 }));
 
-// Label only first appearances after a gap
-interface PlayerRankWithLabel extends PlayerRank {
-  shouldLabel: boolean;
-}
-const playersWithLabels: Player[] = players.map((player) => {
-  const rankings: PlayerRankWithLabel[] = [];
+const playersWithLabels: Player[] = playersWithColor.map((player) => {
+  const rankings: PlayerRank[] = [];
   for (let i = 0; i < player.rankings.length; i++) {
     if (player.rankings[i].place !== null) {
       if (i === 0) {
@@ -47,6 +36,7 @@ const playersWithLabels: Player[] = players.map((player) => {
         // Last year
         rankings.push({ ...player.rankings[i], shouldLabel: true });
       }
+      rankings.push({ ...player.rankings[i], shouldLabel: false });
     } else {
       rankings.push({ ...player.rankings[i], shouldLabel: false });
     }
@@ -58,6 +48,27 @@ const playersWithLabels: Player[] = players.map((player) => {
   };
 });
 
+// Add padding so the lines stay longer at the year
+const playersWithPadding: Player[] = playersWithLabels.map((player) => ({
+  ...player,
+  rankings: player.rankings.flatMap((ranking) => [
+    { ...ranking, year: ranking.year - 0.25, shouldLabel: false },
+    ranking,
+    { ...ranking, year: ranking.year + 0.25, shouldLabel: false },
+  ]),
+}));
+
+const rankingMap: Record<string, string> = {};
+
+for (const player of players) {
+  for (const ranking of player.rankings) {
+    if (ranking.place === null) {
+      continue;
+    }
+    rankingMap[`${ranking.year}_${ranking.place}`] = player.name;
+  }
+}
+
 interface Props {}
 export function BumpChartVictory(props: Props) {
   return (
@@ -65,10 +76,8 @@ export function BumpChartVictory(props: Props) {
       height={600}
       width={800}
       domain={{ y: [1, 20] }}
-      domainPadding={10}
-      containerComponent={
-        <VictoryVoronoiContainer portalZIndex={1000} mouseFollowTooltips />
-      }
+      domainPadding={15}
+      containerComponent={<VictoryVoronoiContainer />}
     >
       <VictoryAxis dependentAxis tickCount={20} invertAxis />
       <VictoryAxis tickFormat={(year) => year.toString()} />
@@ -77,31 +86,19 @@ export function BumpChartVictory(props: Props) {
           data={player.rankings}
           x="year"
           y="place"
-          labels={() => player.name}
+          labels={(data) => (data.datum.shouldLabel ? player.name : null)}
           style={{
             data: {
-              stroke: (args) => (args.active ? "tomato" : "black"),
+              stroke: player.color,
+              strokeWidth: (data) => (data.active ? "4px" : "2px"),
+              opacity: (data) => (data.active ? "100%" : "60%"),
+            },
+            labels: {
+              opacity: (data) => (data.active ? "100%" : "60%"),
             },
           }}
-          labelComponent={
-            <VictoryTooltip
-              flyoutStyle={{
-                stroke: (args) => (args.active ? "tomato" : "black"),
-              }}
-            />
-          }
-          interpolation="monotoneX"
-          dataComponent={<Curve />}
-        />
-      ))}
-      {playersWithLabels.map((player) => (
-        <VictoryScatter
-          data={player.rankings}
-          x="year"
-          y="place"
-          labels={(data) => (data.datum.shouldLabel ? player.name : null)}
           labelComponent={<VictoryLabel dy={-3} />}
-          dataComponent={<></>}
+          interpolation="monotoneX"
         />
       ))}
     </VictoryChart>
