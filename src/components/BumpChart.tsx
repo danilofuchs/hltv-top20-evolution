@@ -15,7 +15,7 @@ interface Props {
 export function BumpChart(props: Props) {
   const { players } = props;
 
-  const playersWithColor = useMemo(
+  const playersWithColor: Player[] = useMemo(
     () =>
       players.map((player) => ({
         ...player,
@@ -89,12 +89,14 @@ export function BumpChart(props: Props) {
         style={{
           grid: {
             stroke: "#e0e0e0",
+            strokeDasharray: "4 1",
           },
         }}
       />
       <VictoryAxis tickFormat={(year) => year.toString()} />
       {playersWithPadding.map((player) => (
         <VictoryLine
+          key={player.name}
           data={player.rankings}
           x="year"
           y="place"
