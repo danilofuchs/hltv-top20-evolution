@@ -1,4 +1,5 @@
 import {
+  Curve,
   VictoryAxis,
   VictoryChart,
   VictoryLine,
@@ -10,6 +11,15 @@ import { Player } from "@src/entities/player";
 import React from "react";
 
 const players = playersJson as Player[];
+// Add padding so the lines stay longer at the year
+const playersWithPadding: Player[] = players.map((player) => ({
+  ...player,
+  rankings: player.rankings.flatMap((ranking) => [
+    { ...ranking, year: ranking.year - 0.25 },
+    ranking,
+    { ...ranking, year: ranking.year + 0.25 },
+  ]),
+}));
 
 interface Props {}
 export function BumpChartVictory(props: Props) {
@@ -17,14 +27,15 @@ export function BumpChartVictory(props: Props) {
     <VictoryChart
       height={400}
       width={800}
-      domain={{ y: [20, 1] }}
+      domain={{ y: [1, 20] }}
+      domainPadding={10}
       containerComponent={
         <VictoryVoronoiContainer portalZIndex={1000} mouseFollowTooltips />
       }
     >
-      <VictoryAxis dependentAxis tickCount={20} />
+      <VictoryAxis dependentAxis tickCount={20} invertAxis />
       <VictoryAxis tickFormat={(year) => year.toString()} />
-      {players.map((player) => (
+      {playersWithPadding.map((player) => (
         <VictoryLine
           data={player.rankings}
           x="year"
@@ -44,7 +55,7 @@ export function BumpChartVictory(props: Props) {
           }
           colorScale="warm"
           interpolation="monotoneX"
-          // dataComponent={<Curve />}
+          dataComponent={<Curve />}
         />
       ))}
       {/* {players.map((player) => (
