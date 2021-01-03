@@ -32,8 +32,19 @@ const playersWithLabels: Player[] = players.map((player) => {
   for (let i = 0; i < player.rankings.length; i++) {
     if (player.rankings[i].place !== null) {
       if (i === 0) {
+        // First year
         rankings.push({ ...player.rankings[i], shouldLabel: true });
       } else if (player.rankings[i - 1].place === null) {
+        // Just after a gap
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      } else if (
+        player.rankings[i + 1] &&
+        player.rankings[i + 1].place === null
+      ) {
+        // Just before a gap
+        rankings.push({ ...player.rankings[i], shouldLabel: true });
+      } else if (i === player.rankings.length - 1) {
+        // Last year
         rankings.push({ ...player.rankings[i], shouldLabel: true });
       }
     } else {
