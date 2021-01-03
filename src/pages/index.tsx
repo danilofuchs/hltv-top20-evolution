@@ -28,19 +28,30 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href="https://github.com/danilofuchs/hltv-top20-evolution"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Made by @danilofuchs{" "}
-          <img
-            src="/images/github/Github-Mark-32px.png"
-            srcSet="/images/github/Github-Mark-32px.png 1x, /images/github/Github-Mark-64px.png 2x, /images/github/Github-Mark-120px-plus.png 3x"
-            alt="Github Logo"
-            className={styles.logo}
-          />
-        </a>
+        <div className={styles.footerGithub}>
+          <a
+            href="https://github.com/danilofuchs/hltv-top20-evolution"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Made by @danilofuchs{" "}
+            <img
+              src="/images/github/Github-Mark-32px.png"
+              srcSet="/images/github/Github-Mark-32px.png 1x, /images/github/Github-Mark-64px.png 2x, /images/github/Github-Mark-120px-plus.png 3x"
+              alt="Github Logo"
+              className={styles.logo}
+            />
+          </a>
+        </div>
+        <div className={styles.footerVictory}>
+          <a
+            href="https://formidable.com/open-source/victory/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Graphs made using Victory
+          </a>
+        </div>
       </footer>
     </div>
   );

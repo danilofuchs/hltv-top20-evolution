@@ -23,16 +23,23 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.footer img {
-  margin-left: 0.5rem;
+  flex-direction: column;
 }
 
 .footer a {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.footerGithub img {
+  margin-left: 0.5rem;
+}
+
+.footerVictory {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  color: #636363;
 }
 
 .title a {
