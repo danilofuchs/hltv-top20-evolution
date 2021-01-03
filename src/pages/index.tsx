@@ -1,6 +1,7 @@
 import Head from "next/head";
 import styles from "@src/styles/Home.module.css";
 import { BumpChart } from "@src/components/BumpChart";
+import playersJson from "@src/data/players.json";
 
 export default function Home() {
   return (
@@ -22,7 +23,7 @@ export default function Home() {
         </h1>
 
         <div className={styles.card}>
-          <BumpChart />
+          <BumpChart players={playersJson} />
         </div>
       </main>
 
