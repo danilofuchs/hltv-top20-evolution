@@ -16,7 +16,8 @@
     "next": "10.0.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-vis": "^1.11.7"
+    "react-vis": "^1.11.7",
+    "victory": "^35.4.4"
   },
   "devDependencies": {
     "@types/node": "^14.14.19",

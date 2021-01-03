@@ -38,10 +38,14 @@ export function BumpChart(props: Props) {
           data={buildDataForPlayer(player)}
           getNull={(d) => d.y !== null}
           curve={"curveMonotoneX"}
+          key={`${player.name}_line`}
         />
       ))}
       {players.map((player) => (
-        <LabelSeries data={buildDataForPlayer(player)} />
+        <LabelSeries
+          data={buildDataForPlayer(player)}
+          key={`${player.name}_label`}
+        />
       ))}
     </XYPlot>
   );
