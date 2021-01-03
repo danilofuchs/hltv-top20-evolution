@@ -1,59 +1,120 @@
-import { Bump, BumpInputSerie } from "@nivo/bump";
-import players from "@src/data/players.json";
-import { Player } from "@src/entities/player";
+import {
+  VictoryAxis,
+  VictoryChart,
+  VictoryLabel,
+  VictoryLine,
+  VictoryVoronoiContainer,
+} from "victory";
+import { Player, PlayerRank } from "@src/entities/player";
+import React, { useMemo } from "react";
+import { getPlayerColor } from "@src/utils/color";
 
-const data: BumpInputSerie[] = (players as Player[]).map((player) => ({
-  id: player.name,
-  name: player.name,
-  data: [
-    {
-      x: 2013,
-      y: player.rankings[2013],
-    },
-    {
-      x: 2014,
-      y: player.rankings[2014],
-    },
-    {
-      x: 2015,
-      y: player.rankings[2015],
-    },
-    {
-      x: 2016,
-      y: player.rankings[2016],
-    },
-    {
-      x: 2017,
-      y: player.rankings[2017],
-    },
-    {
-      x: 2018,
-      y: player.rankings[2018],
-    },
-    {
-      x: 2019,
-      y: player.rankings[2019],
-    },
-  ],
-}));
-
-interface Props {}
+interface Props {
+  players: Player[];
+}
 export function BumpChart(props: Props) {
+  const { players } = props;
+
+  const playersWithColor: Player[] = useMemo(
+    () =>
+      players.map((player) => ({
+        ...player,
+        color: getPlayerColor(player.name),
+      })),
+    [players]
+  );
+
+  const playersWithLabels: Player[] = useMemo(
+    () =>
+      playersWithColor.map((player) => {
+        const rankings: PlayerRank[] = [];
+        for (let i = 0; i < player.rankings.length; i++) {
+          if (player.rankings[i].place !== null) {
+            if (i === 0) {
+              // First year
+              rankings.push({ ...player.rankings[i], shouldLabel: true });
+            } else if (player.rankings[i - 1].place === null) {
+              // Just after a gap
+              rankings.push({ ...player.rankings[i], shouldLabel: true });
+            } else if (
+              player.rankings[i + 1] &&
+              player.rankings[i + 1].place === null
+            ) {
+              // Just before a gap
+              rankings.push({ ...player.rankings[i], shouldLabel: true });
+            } else if (i === player.rankings.length - 1) {
+              // Last year
+              rankings.push({ ...player.rankings[i], shouldLabel: true });
+            }
+            rankings.push({ ...player.rankings[i], shouldLabel: false });
+          } else {
+            rankings.push({ ...player.rankings[i], shouldLabel: false });
+          }
+        }
+
+        return {
+          ...player,
+          rankings,
+        };
+      }),
+    [playersWithColor]
+  );
+
+  // Add padding so the lines stay longer at the year
+  const playersWithPadding: Player[] = useMemo(
+    () =>
+      playersWithLabels.map((player) => ({
+        ...player,
+        rankings: player.rankings.flatMap((ranking) => [
+          { ...ranking, year: ranking.year - 0.25, shouldLabel: false },
+          ranking,
+          { ...ranking, year: ranking.year + 0.25, shouldLabel: false },
+        ]),
+      })),
+    [playersWithLabels]
+  );
+
   return (
-    <Bump
-      data={data}
-      height={400}
+    <VictoryChart
+      height={600}
       width={800}
-      margin={{ top: 40, right: 100, bottom: 40, left: 60 }}
-      enableGridY={false}
-      axisBottom={{
-        tickSize: 5,
-        tickPadding: 5,
-        tickRotation: 0,
-        legend: "",
-        legendPosition: "middle",
-        legendOffset: 32,
-      }}
-    />
+      domain={{ y: [1, 20] }}
+      domainPadding={15}
+      containerComponent={<VictoryVoronoiContainer />}
+    >
+      <VictoryAxis
+        dependentAxis
+        tickCount={20}
+        invertAxis
+        style={{
+          grid: {
+            stroke: "#e0e0e0",
+            strokeDasharray: "4 1",
+          },
+        }}
+      />
+      <VictoryAxis tickFormat={(year) => year.toString()} />
+      {playersWithPadding.map((player) => (
+        <VictoryLine
+          key={player.name}
+          data={player.rankings}
+          x="year"
+          y="place"
+          labels={(data) => (data.datum.shouldLabel ? player.name : null)}
+          style={{
+            data: {
+              stroke: player.color,
+              strokeWidth: (data) => (data.active ? "4px" : "2px"),
+              opacity: (data) => (data.active ? "100%" : "60%"),
+            },
+            labels: {
+              opacity: (data) => (data.active ? "100%" : "60%"),
+            },
+          }}
+          labelComponent={<VictoryLabel dy={-3} />}
+          interpolation="monotoneX"
+        />
+      ))}
+    </VictoryChart>
   );
 }
