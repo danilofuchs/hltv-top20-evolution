@@ -80,7 +80,7 @@ export function BumpChart(props: Props) {
       width={800}
       domain={{ y: [1, 20] }}
       domainPadding={15}
-      containerComponent={<VictoryVoronoiContainer />}
+      containerComponent={<VictoryVoronoiContainer activateLabels={false} />}
     >
       <VictoryAxis
         dependentAxis
@@ -104,10 +104,8 @@ export function BumpChart(props: Props) {
           style={{
             data: {
               stroke: player.color,
-              strokeWidth: (data) => (data.active ? "4px" : "2px"),
-              opacity: (data) => (data.active ? "100%" : "60%"),
-            },
-            labels: {
+              strokeWidth: (data) => (data.active ? "5px" : "2px"),
+              strokeLinecap: "round",
               opacity: (data) => (data.active ? "100%" : "60%"),
             },
           }}
