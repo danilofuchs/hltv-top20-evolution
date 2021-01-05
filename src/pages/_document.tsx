@@ -14,8 +14,16 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
+          <meta
+            name="description"
+            content="Compare Player rankings across HLTV.org Top 20"
+          />
+          <meta
+            name="keywords"
+            content="CS:GO, HLTV, Gamer, Chart, Counter Strike"
+          />
           <link rel="icon" href="/favicon.ico" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
 
