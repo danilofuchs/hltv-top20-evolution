@@ -1,5 +1,5 @@
 import React from "react";
-import { GitHubLogo } from "@src/assets/GithubLogo";
+import { GitHubLogo } from "@src/assets/GitHubLogo";
 import styles from "./Footer.module.css";
 
 export function Footer() {
