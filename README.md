@@ -2,6 +2,8 @@
 
 Evolution of HTLV.org CS:GO players ranking across time.
 
+![Screenshot](./docs/screenshot.png)
+
 ## Getting Started
 
 First, run the development server:

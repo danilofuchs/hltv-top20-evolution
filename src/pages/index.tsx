@@ -49,7 +49,7 @@ export default function Home() {
             <BumpChart players={players} onPlayerClick={onPlayerClick} />
           </div>
           <div className={styles.playerCard}>
-            {selectedPlayer && <PlayerCard player={selectedPlayer} />}
+            <PlayerCard player={selectedPlayer} />
           </div>
         </div>
       </main>

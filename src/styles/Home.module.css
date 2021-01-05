@@ -43,7 +43,7 @@
     "chart"
     "player";
 
-  gap: 2rem;
+  gap: 1rem;
 
   display: grid;
   align-items: flex-start;

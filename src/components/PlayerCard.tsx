@@ -1,9 +1,23 @@
+import Image from "next/image";
 import { Player } from "@src/entities/player";
 import clsx from "clsx";
 import styles from "./PlayerCard.module.css";
+import React from "react";
+import { Avatar } from "@src/assets/Avatar";
 
-export function PlayerCard(props: { player: Player }) {
+export function PlayerCard(props: { player: Player | null }) {
   const { player } = props;
+
+  if (!player) {
+    return (
+      <div className={styles.card}>
+        <Avatar />
+        <p className={styles.ign}>
+          Select a player on the graph to see details
+        </p>
+      </div>
+    );
+  }
 
   return (
     <a
