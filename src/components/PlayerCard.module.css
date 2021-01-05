@@ -1,0 +1,61 @@
+.card {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.playerCard {
+  display: grid;
+  row-gap: 0.5rem;
+
+  width: 100%;
+
+  transition: box-shadow 100ms linear;
+
+  cursor: pointer;
+}
+
+.playerCard:hover {
+  box-shadow: -2px 2px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.divider {
+  width: 100%;
+  border-bottom: solid #eaeaea 1px;
+}
+
+.photo {
+  height: 300px;
+}
+
+.subtitle {
+  display: flex;
+
+  align-items: center;
+}
+
+.ign {
+  margin: 0;
+}
+
+.name {
+  margin: 0;
+  font-weight: normal;
+}
+
+.flag {
+  height: 12px;
+  width: 18px;
+  margin-right: 0.5rem;
+}

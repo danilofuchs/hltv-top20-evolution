@@ -1,4 +1,5 @@
 import {
+  Curve,
   VictoryAxis,
   VictoryChart,
   VictoryLabel,
@@ -6,27 +7,18 @@ import {
   VictoryVoronoiContainer,
 } from "victory";
 import { Player, PlayerRank } from "@src/entities/player";
-import React, { useMemo } from "react";
-import { getPlayerColor } from "@src/utils/color";
+import React, { useCallback, useMemo } from "react";
 
 interface Props {
   players: Player[];
+  onPlayerClick: (player: Player) => void;
 }
 export function BumpChart(props: Props) {
   const { players } = props;
 
-  const playersWithColor: Player[] = useMemo(
-    () =>
-      players.map((player) => ({
-        ...player,
-        color: getPlayerColor(player.ign),
-      })),
-    [players]
-  );
-
   const playersWithLabels: Player[] = useMemo(
     () =>
-      playersWithColor.map((player) => {
+      players.map((player) => {
         const rankings: PlayerRank[] = [];
         for (let i = 0; i < player.rankings.length; i++) {
           if (player.rankings[i].place !== null) {
@@ -57,7 +49,7 @@ export function BumpChart(props: Props) {
           rankings,
         };
       }),
-    [playersWithColor]
+    [players]
   );
 
   // Add padding so the lines stay longer at the year
@@ -74,13 +66,27 @@ export function BumpChart(props: Props) {
     [playersWithLabels]
   );
 
+  const onActivated = useCallback((points: any[]) => {
+    for (const point of points) {
+      if (point.year && point.place && point.childName) {
+        const ign = point.childName;
+        const player = players.find((player) => player.ign === ign);
+        if (player) {
+          return props.onPlayerClick(player);
+        }
+      }
+    }
+  }, []);
+
   return (
     <VictoryChart
       height={600}
       width={800}
       domain={{ y: [1, 20] }}
       domainPadding={15}
-      containerComponent={<VictoryVoronoiContainer activateLabels={false} />}
+      containerComponent={
+        <VictoryVoronoiContainer voronoiPadding={5} onActivated={onActivated} />
+      }
     >
       <VictoryAxis
         dependentAxis
@@ -98,9 +104,12 @@ export function BumpChart(props: Props) {
         <VictoryLine
           key={player.name}
           data={player.rankings}
+          name={player.ign}
           x="year"
           y="place"
           labels={(data) => (data.datum.shouldLabel ? player.ign : null)}
+          dataComponent={<Curve />}
+          labelComponent={<VictoryLabel dy={-3} />}
           style={{
             data: {
               stroke: player.color,
@@ -109,7 +118,6 @@ export function BumpChart(props: Props) {
               opacity: (data) => (data.active ? "100%" : "60%"),
             },
           }}
-          labelComponent={<VictoryLabel dy={-3} />}
           interpolation="monotoneX"
         />
       ))}

@@ -36,6 +36,10 @@
   margin-left: 0.5rem;
 }
 
+.logo {
+  height: 1.5em;
+}
+
 .footerVictory {
   margin-top: 0.5rem;
   font-size: 0.875rem;
@@ -61,12 +65,25 @@
 }
 
 .content {
-  display: flex;
-  align-items: center;
+  grid-template-columns: auto;
+  grid-template-rows: auto auto;
+  grid-template-areas:
+    "chart"
+    "player";
+
+  gap: 2rem;
+
+  display: grid;
+  align-items: flex-start;
   justify-content: center;
-  flex-wrap: wrap;
-  max-width: 800px;
-  margin-top: 3rem;
+}
+
+@media only screen and (min-width: 1000px) {
+  .content {
+    grid-template-columns: 350px auto;
+    grid-template-rows: auto;
+    grid-template-areas: "player chart";
+  }
 }
 
 .card {
@@ -87,6 +104,10 @@
   line-height: 1.5;
 }
 
-.logo {
-  height: 1.5em;
+.chartCard {
+  grid-area: chart;
+}
+
+.playerCard {
+  grid-area: player;
 }
