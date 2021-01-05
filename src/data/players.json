@@ -1,7 +1,9 @@
 [
   {
-    "name": "GeT_RiGhT",
-    "country": "SE",
+    "ign": "GeT_RiGhT",
+    "id": 39,
+    "name": "Christopher Alesund",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/tOUnhieNSc0wvyCqMRVoZ1.png?ixlib=java-2.1.0&w=400&s=292eef3d2f09e8d2fb480ab3ea375c29",
     "rankings": [
       {
         "year": 2013,
@@ -31,11 +33,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/39/GeT_RiGhT"
   },
   {
-    "name": "f0rest",
-    "country": "SE",
+    "ign": "f0rest",
+    "id": 29,
+    "name": "Patrik Lindberg",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/cilWNYYOmZrCNuJlEWjpFE.png?ixlib=java-2.1.0&w=400&s=39a5094b0c7057cbab36057a79689908",
     "rankings": [
       {
         "year": 2013,
@@ -65,11 +71,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/29/f0rest"
   },
   {
-    "name": "shox",
-    "country": null,
+    "ign": "shox",
+    "id": 1225,
+    "name": "Richard Papillon",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/vgwzHW5kdd6XEze5SpR2sT.png?ixlib=java-2.1.0&w=400&s=15ab3a560f1a5169b34cf9e426d0fc7d",
     "rankings": [
       {
         "year": 2013,
@@ -99,11 +109,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/1225/shox"
   },
   {
-    "name": "Dosia",
-    "country": null,
+    "ign": "Dosia",
+    "id": 735,
+    "name": "Mihail Stolyarov",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Whxy5k6mOJrWMCjZnGxJwH.png?ixlib=java-2.1.0&w=400&s=c896f53a2ee62f312f969092ed14f669",
     "rankings": [
       {
         "year": 2013,
@@ -133,11 +147,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "RU",
+    "profileUrl": "https://www.hltv.org/player/735/Dosia"
   },
   {
-    "name": "NBK",
-    "country": null,
+    "ign": "NBK",
+    "id": 7168,
+    "name": "Nathan Schmitt",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Efb2Dp-r2bXZOwPvOnzYRW.png?ixlib=java-2.1.0&w=400&s=8d303067f535eec84b3a3ca44deb7c92",
     "rankings": [
       {
         "year": 2013,
@@ -167,11 +185,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/7168/NBK-"
   },
   {
-    "name": "Xizt",
-    "country": "SE",
+    "ign": "Xizt",
+    "id": 884,
+    "name": "Richard Landström",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Qgnv-BdISCQ2oRoPEbzLJD.png?ixlib=java-2.1.0&w=400&s=aa1753f75f87d5532552c05dba652a46",
     "rankings": [
       {
         "year": 2013,
@@ -201,11 +223,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/884/Xizt"
   },
   {
-    "name": "ScreaM",
-    "country": null,
+    "ign": "ScreaM",
+    "id": 7390,
+    "name": "Adil Benrlitom",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/N1faCY2NjTEOOAs5swFC-w.png?ixlib=java-2.1.0&w=400&s=aac082a0ad9be15ea1ed2775a869c5be",
     "rankings": [
       {
         "year": 2013,
@@ -235,11 +261,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "BE",
+    "profileUrl": "https://www.hltv.org/player/7390/ScreaM"
   },
   {
-    "name": "JW",
-    "country": "SE",
+    "ign": "JW",
+    "id": 3849,
+    "name": "Jesper Wecksell",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/zGHfw0fq7JFJYovYF4v5ra.png?ixlib=java-2.1.0&w=400&s=6065ac05f126850f8c3bc77920f2e7b0",
     "rankings": [
       {
         "year": 2013,
@@ -269,11 +299,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/3849/JW"
   },
   {
-    "name": "Hiko",
-    "country": null,
+    "ign": "Hiko",
+    "id": 2644,
+    "name": "Spencer Martin",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/JvnyPJj7CRPKhbRvF8pHNf.png?ixlib=java-2.1.0&w=400&s=92dab4f9bdfd3d2d187ff53b7b41b3b7",
     "rankings": [
       {
         "year": 2013,
@@ -303,11 +337,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "US",
+    "profileUrl": "https://www.hltv.org/player/2644/Hiko"
   },
   {
-    "name": "GuardiaN",
-    "country": null,
+    "ign": "GuardiaN",
+    "id": 2757,
+    "name": "Ladislav Kovács",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/I3eh3mlTGHWvcXt2to6yLs.png?ixlib=java-2.1.0&w=400&s=b2d208c93db05a49734daf0729be8956",
     "rankings": [
       {
         "year": 2013,
@@ -337,11 +375,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SK",
+    "profileUrl": "https://www.hltv.org/player/2757/GuardiaN"
   },
   {
-    "name": "friberg",
-    "country": "SE",
+    "ign": "friberg",
+    "id": 7148,
+    "name": "Adam Friberg",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/ma_lMqr-erV1QpkRtk6Ut9.png?ixlib=java-2.1.0&w=400&s=df8e42cf98e794c0edeb67eda6602cbb",
     "rankings": [
       {
         "year": 2013,
@@ -371,11 +413,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/7148/friberg"
   },
   {
-    "name": "kennyS",
-    "country": null,
+    "ign": "kennyS",
+    "id": 7167,
+    "name": "Kenny Schrub",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/DulKNc1UHhKgT8CBJUXj1q.png?ixlib=java-2.1.0&w=400&s=e2fad8e8accb7a2ee2113a500696d99c",
     "rankings": [
       {
         "year": 2013,
@@ -405,11 +451,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/7167/kennyS"
   },
   {
-    "name": "flusha",
-    "country": "SE",
+    "ign": "flusha",
+    "id": 3055,
+    "name": "Robin Rönnquist",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/S35vnoWyREYiqso3sqlVTS.png?ixlib=java-2.1.0&w=400&s=c0c6ec63955e667838f3ade0d8ffce7b",
     "rankings": [
       {
         "year": 2013,
@@ -439,11 +489,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/3055/flusha"
   },
   {
-    "name": "Nico",
-    "country": null,
+    "ign": "Nico",
+    "id": 13602,
+    "name": "Nico Tamjidi",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/FlbQqyEQuNqUXhy0U-NMW0.png?ixlib=java-2.1.0&w=400&s=c144238e5304e939e71e23988723188a",
     "rankings": [
       {
         "year": 2013,
@@ -473,11 +527,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/13602/nicoodoz"
   },
   {
-    "name": "markeloff",
-    "country": null,
+    "ign": "markeloff",
+    "id": 338,
+    "name": "Yegor Markelov",
+    "image": "https://img-cdn.hltv.org/gallerypicture/bfxBxQQfLC1TpT1debW5Fl.jpg?bg=3e4c54&h=400&ixlib=java-2.1.0&rect=35%2C0%2C465%2C465&w=400&s=1e73bbd0ad0f41d5024eda59f8b6fc60",
     "rankings": [
       {
         "year": 2013,
@@ -507,11 +565,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "UA",
+    "profileUrl": "https://www.hltv.org/player/338/markeloff"
   },
   {
-    "name": "Edward",
-    "country": null,
+    "ign": "Edward",
+    "id": 483,
+    "name": "Ioann Sukhariev",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/zjXbmsy5Ec2tPtIgMFMfeS.png?ixlib=java-2.1.0&w=400&s=b485f819792566a3f9b585864552b629",
     "rankings": [
       {
         "year": 2013,
@@ -541,11 +603,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "UA",
+    "profileUrl": "https://www.hltv.org/player/483/Edward"
   },
   {
-    "name": "SmithZz",
-    "country": null,
+    "ign": "SmithZz",
+    "id": 7170,
+    "name": "Edouard Dubourdeaux",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/GPEEjMU8NLwa54a0s6VdlD.png?ixlib=java-2.1.0&w=400&s=50854a88f5ac3764f1373710e3e1e8ac",
     "rankings": [
       {
         "year": 2013,
@@ -575,11 +641,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/7170/SmithZz"
   },
   {
-    "name": "dupreeh",
-    "country": null,
+    "ign": "dupreeh",
+    "id": 7398,
+    "name": "Peter Rasmussen",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/ZLG0M9-Y1Qh3fpcVlKiPSq.png?ixlib=java-2.1.0&w=400&s=96533ebb271bcf9e923ad3a61574d723",
     "rankings": [
       {
         "year": 2013,
@@ -609,11 +679,15 @@
         "year": 2019,
         "place": 16
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/7398/dupreeh"
   },
   {
-    "name": "pasha",
-    "country": null,
+    "ign": "pasha",
+    "id": 317,
+    "name": "Jarosław Jarząbkowski",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/2IRJdkkn4wQxpZT2ohADFQ.png?ixlib=java-2.1.0&w=400&s=b3093b50705aa5654549f9a4c7e82bfe",
     "rankings": [
       {
         "year": 2013,
@@ -643,11 +717,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "PL",
+    "profileUrl": "https://www.hltv.org/player/317/pashaBiceps"
   },
   {
-    "name": "Xyp9x",
-    "country": null,
+    "ign": "Xyp9x",
+    "id": 4954,
+    "name": "Andreas Højsleth",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/OVhRUsvJAkuLroQLfDdqGb.png?ixlib=java-2.1.0&w=400&s=22c3958846f10065e40447be33cf14eb",
     "rankings": [
       {
         "year": 2013,
@@ -677,11 +755,15 @@
         "year": 2019,
         "place": 14
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/4954/Xyp9x"
   },
   {
-    "name": "Snax",
-    "country": null,
+    "ign": "Snax",
+    "id": 2553,
+    "name": "Janusz Pogorzelski",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/bvVOvSGDeUcv0VWop2IZRX.png?ixlib=java-2.1.0&w=400&s=1ef88cdbd8dda53ffff98db0f4971430",
     "rankings": [
       {
         "year": 2013,
@@ -711,11 +793,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "PL",
+    "profileUrl": "https://www.hltv.org/player/2553/Snax"
   },
   {
-    "name": "KRIMZ",
-    "country": "SE",
+    "ign": "KRIMZ",
+    "id": 7528,
+    "name": "Freddy Johansson",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/g5A5GCbxUeq9WdZRIABPji.png?ixlib=java-2.1.0&w=400&s=b8c620fcf11fcaf89f3e69f5a47c8103",
     "rankings": [
       {
         "year": 2013,
@@ -745,11 +831,15 @@
         "year": 2019,
         "place": 17
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/7528/KRIMZ"
   },
   {
-    "name": "Happy",
-    "country": null,
+    "ign": "Happy",
+    "id": 7429,
+    "name": "Vincent Schopenhauer",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/aTavjE6s8uq_PDW_IwBc7N.png?ixlib=java-2.1.0&w=400&s=4e10fe69a2a8ae476a4003ce054f0388",
     "rankings": [
       {
         "year": 2013,
@@ -779,11 +869,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/7429/Happy"
   },
   {
-    "name": "olofmeister",
-    "country": null,
+    "ign": "olofmeister",
+    "id": 885,
+    "name": "Olof Kajbjer",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/pH2FhZMnX4NzfjTuHsyqwt.png?ixlib=java-2.1.0&w=400&s=7354b2a6223151d170a94a8e940cf389",
     "rankings": [
       {
         "year": 2013,
@@ -813,11 +907,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/885/olofmeister"
   },
   {
-    "name": "byali",
-    "country": null,
+    "ign": "byali",
+    "id": 5386,
+    "name": "Paweł Bieliński",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/5lk7ENBKcmCFoLdt6IzZPM.png?ixlib=java-2.1.0&w=400&s=456c1c3d68099c68b6c3a6f7e039d6a1",
     "rankings": [
       {
         "year": 2013,
@@ -847,11 +945,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "PL",
+    "profileUrl": "https://www.hltv.org/player/5386/byali"
   },
   {
-    "name": "apEX",
-    "country": null,
+    "ign": "apEX",
+    "id": 7322,
+    "name": "Dan Madesclaire",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/mVjijFaqyDTO2FI0ZejcP8.png?ixlib=java-2.1.0&w=400&s=dd36959aa17db61f2f3da626ad8123e7",
     "rankings": [
       {
         "year": 2013,
@@ -881,45 +983,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/7322/apEX"
   },
   {
-    "name": "dupreeh",
-    "country": null,
-    "rankings": [
-      {
-        "year": 2013,
-        "place": 18
-      },
-      {
-        "year": 2014,
-        "place": 16
-      },
-      {
-        "year": 2015,
-        "place": 12
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": 10
-      },
-      {
-        "year": 2018,
-        "place": 5
-      },
-      {
-        "year": 2019,
-        "place": 16
-      }
-    ]
-  },
-  {
-    "name": "swag",
-    "country": null,
+    "ign": "swag",
+    "id": 5021,
+    "name": "Braxton Pierce",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/4o1Je4itCj0J3W4A4O13ON.png?ixlib=java-2.1.0&w=400&s=c213e959cd0cb8070afcc78b126a3b15",
     "rankings": [
       {
         "year": 2013,
@@ -949,11 +1021,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "US",
+    "profileUrl": "https://www.hltv.org/player/5021/swag"
   },
   {
-    "name": "kioShiMa",
-    "country": null,
+    "ign": "kioShiMa",
+    "id": 4959,
+    "name": "Fabien Fiey",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/7v3kxUHbbF_CD7ambNzCIk.png?ixlib=java-2.1.0&w=400&s=1c28cda0036145ab94999d6488489dc4",
     "rankings": [
       {
         "year": 2013,
@@ -983,11 +1059,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/4959/kioShiMa"
   },
   {
-    "name": "device",
-    "country": null,
+    "ign": "device",
+    "id": 7592,
+    "name": "Nicolai Reedtz",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/-PPxNP8BP10A1rTwKnzHDw.png?ixlib=java-2.1.0&w=400&s=4a55e94fab2f420a6763e63e4d379076",
     "rankings": [
       {
         "year": 2013,
@@ -1017,11 +1097,15 @@
         "year": 2019,
         "place": 3
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/7592/device"
   },
   {
-    "name": "flamie",
-    "country": null,
+    "ign": "flamie",
+    "id": 7594,
+    "name": "Egor Vasilyev",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/G_8at4LFNilIDpyfjdzA2M.png?ixlib=java-2.1.0&w=400&s=56c00fc06ae71b2c33e27c2225c2bd5e",
     "rankings": [
       {
         "year": 2013,
@@ -1051,11 +1135,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "RU",
+    "profileUrl": "https://www.hltv.org/player/7594/flamie"
   },
   {
-    "name": "cajunb",
-    "country": null,
+    "ign": "cajunb",
+    "id": 2469,
+    "name": "René Borg",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/LfJUQomhrHmiHoxhVP_nt6.png?ixlib=java-2.1.0&w=400&s=0fd35b55531bad8d517c9d3e472d9b41",
     "rankings": [
       {
         "year": 2013,
@@ -1085,11 +1173,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/2469/cajunb"
   },
   {
-    "name": "NEO",
-    "country": null,
+    "ign": "NEO",
+    "id": 165,
+    "name": "Filip Kubski",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Dtie1BObTOS4tyZg4dnbGg.png?ixlib=java-2.1.0&w=400&s=1b2d9b5ce01b1b71c326e43c9a7b5e42",
     "rankings": [
       {
         "year": 2013,
@@ -1119,11 +1211,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "PL",
+    "profileUrl": "https://www.hltv.org/player/165/NEO"
   },
   {
-    "name": "allu",
-    "country": null,
+    "ign": "allu",
+    "id": 695,
+    "name": "Aleksi Jalli",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/5kX6vHZyET7WnPT9VZeje_.png?ixlib=java-2.1.0&w=400&s=56a5d8dddad10a14e913a4ac9fff2363",
     "rankings": [
       {
         "year": 2013,
@@ -1153,11 +1249,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FI",
+    "profileUrl": "https://www.hltv.org/player/695/allu"
   },
   {
-    "name": "Skadoodle",
-    "country": null,
+    "ign": "Skadoodle",
+    "id": 7440,
+    "name": "Tyler Latham",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/B7sQ4zEQD21KO1ahJMufzF.png?ixlib=java-2.1.0&w=400&s=770f85f9c6562b9c32e2322f747a7b23",
     "rankings": [
       {
         "year": 2013,
@@ -1187,11 +1287,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "US",
+    "profileUrl": "https://www.hltv.org/player/7440/Skadoodle"
   },
   {
-    "name": "coldzera",
-    "country": null,
+    "ign": "coldzera",
+    "id": 9216,
+    "name": "Marcelo David",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/q1FEKlj4Xp2IjCQ8bTTfzK.png?ixlib=java-2.1.0&w=400&s=37310575c10a3364302f8d30cd48fc9a",
     "rankings": [
       {
         "year": 2013,
@@ -1221,11 +1325,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/9216/coldzera"
   },
   {
-    "name": "FalleN",
-    "country": null,
+    "ign": "FalleN",
+    "id": 2023,
+    "name": "Gabriel Toledo",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/E0C5tDBWbs8moyn4CeUM7k.png?ixlib=java-2.1.0&w=400&s=de8c251219e1c8b201cc48d847d09d60",
     "rankings": [
       {
         "year": 2013,
@@ -1255,11 +1363,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/2023/FalleN"
   },
   {
-    "name": "s1mple",
-    "country": null,
+    "ign": "s1mple",
+    "id": 7998,
+    "name": "Aleksandr Kostyliev",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/dSLivBe1epSlYLu6pSG3xf.png?ixlib=java-2.1.0&w=400&s=7eda113193754102b9264da672809578",
     "rankings": [
       {
         "year": 2013,
@@ -1289,11 +1401,15 @@
         "year": 2019,
         "place": 2
       }
-    ]
+    ],
+    "country": "UA",
+    "profileUrl": "https://www.hltv.org/player/7998/s1mple"
   },
   {
-    "name": "NiKo",
-    "country": null,
+    "ign": "NiKo",
+    "id": 3741,
+    "name": "Nikola Kovač",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/SCtIOZvt98WoZNgw8VGAQ4.png?ixlib=java-2.1.0&w=400&s=bfdefc07140162f3c84005536b935dd3",
     "rankings": [
       {
         "year": 2013,
@@ -1323,11 +1439,15 @@
         "year": 2019,
         "place": 11
       }
-    ]
+    ],
+    "country": "BA",
+    "profileUrl": "https://www.hltv.org/player/3741/NiKo"
   },
   {
-    "name": "Magisk",
-    "country": null,
+    "ign": "Magisk",
+    "id": 9032,
+    "name": "Emil Reif",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/MlU-FvS0jxq7tGkQZmuy9F.png?ixlib=java-2.1.0&w=400&s=5a14b8b67ed91d2c3a553d807e724ba4",
     "rankings": [
       {
         "year": 2013,
@@ -1357,11 +1477,15 @@
         "year": 2019,
         "place": 5
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/9032/Magisk"
   },
   {
-    "name": "fer",
-    "country": null,
+    "ign": "fer",
+    "id": 8564,
+    "name": "Fernando Alvarenga",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/SCMOFHFHPg_Fy2mPuYcS4r.png?ixlib=java-2.1.0&w=400&s=baefdca10445f103eaaef864c5214feb",
     "rankings": [
       {
         "year": 2013,
@@ -1391,11 +1515,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/8564/fer"
   },
   {
-    "name": "Kjaerbye",
-    "country": null,
+    "ign": "Kjaerbye",
+    "id": 8394,
+    "name": "Markus Kjærbye",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/PhZv4LP7teu3UGER2c8lAt.png?ixlib=java-2.1.0&w=400&s=a4644f97cd6e825cea79c2de43694faf",
     "rankings": [
       {
         "year": 2013,
@@ -1425,11 +1553,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/8394/Kjaerbye"
   },
   {
-    "name": "fnx",
-    "country": null,
+    "ign": "fnx",
+    "id": 557,
+    "name": "Lincoln Lau",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/UjFv1NBK1RCWmH50U3z-7F.png?ixlib=java-2.1.0&w=400&s=db0c935f79c9769df6541555001b01ee",
     "rankings": [
       {
         "year": 2013,
@@ -1459,11 +1591,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/557/fnx"
   },
   {
-    "name": "dennis",
-    "country": null,
+    "ign": "dennis",
+    "id": 1146,
+    "name": "Dennis Edman",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/RvtQuWYcInDcsyhbFGzLz0.png?ixlib=java-2.1.0&w=400&s=8a4dd0eabce2c99b7c5d82dbded9f89b",
     "rankings": [
       {
         "year": 2013,
@@ -1493,11 +1629,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/1146/dennis"
   },
   {
-    "name": "rain",
-    "country": null,
+    "ign": "rain",
+    "id": 8183,
+    "name": "Håvard Nygaard",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Qj0K3f_vvbGB_MdWOex9da.png?ixlib=java-2.1.0&w=400&s=a8e955b70340f9248cccd22443a159fe",
     "rankings": [
       {
         "year": 2013,
@@ -1527,11 +1667,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "NO",
+    "profileUrl": "https://www.hltv.org/player/8183/rain"
   },
   {
-    "name": "Hobbit",
-    "country": null,
+    "ign": "Hobbit",
+    "id": 8528,
+    "name": "Abay Khasenov",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/urrrsrA1bxzO4aLVrDcB_a.png?ixlib=java-2.1.0&w=400&s=1c37688dbbef68b1668db7fbe515c2f4",
     "rankings": [
       {
         "year": 2013,
@@ -1561,11 +1705,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "KZ",
+    "profileUrl": "https://www.hltv.org/player/8528/Hobbit"
   },
   {
-    "name": "EliGE",
-    "country": null,
+    "ign": "EliGE",
+    "id": 8738,
+    "name": "Jonathan Jablonowski",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/YQMbQk5HIRApZFVG3rujIr.png?ixlib=java-2.1.0&w=400&s=81e5207f607d4c7ebe4400ab8c4b1b76",
     "rankings": [
       {
         "year": 2013,
@@ -1595,11 +1743,15 @@
         "year": 2019,
         "place": 4
       }
-    ]
+    ],
+    "country": "US",
+    "profileUrl": "https://www.hltv.org/player/8738/EliGE"
   },
   {
-    "name": "k0nfig",
-    "country": null,
+    "ign": "k0nfig",
+    "id": 9078,
+    "name": "Kristian Wienecke",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?ixlib=java-2.1.0&w=400&s=3926066063bc495572739b363d6e7e57",
     "rankings": [
       {
         "year": 2013,
@@ -1629,11 +1781,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/9078/k0nfig"
   },
   {
-    "name": "oskar",
-    "country": null,
+    "ign": "oskar",
+    "id": 798,
+    "name": "Tomáš Šťastný",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/U3OugaqzyPwtWVpLxbZm0O.png?ixlib=java-2.1.0&w=400&s=7df9b9f52163dae03847976ea4894109",
     "rankings": [
       {
         "year": 2013,
@@ -1663,11 +1819,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "CZ",
+    "profileUrl": "https://www.hltv.org/player/798/oskar"
   },
   {
-    "name": "AdreN",
-    "country": null,
+    "ign": "AdreN",
+    "id": 334,
+    "name": "Dauren Kystaubayev",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/f5RelpQ3Q8piOfP3yFozE8.png?ixlib=java-2.1.0&w=400&s=0637304f8e89955df24e50d634530400",
     "rankings": [
       {
         "year": 2013,
@@ -1697,11 +1857,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "KZ",
+    "profileUrl": "https://www.hltv.org/player/334/AdreN"
   },
   {
-    "name": "boltz",
-    "country": null,
+    "ign": "boltz",
+    "id": 8568,
+    "name": "Ricardo Prass",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Tm_nIDsmGZXt2fD4yJPfVx.png?ixlib=java-2.1.0&w=400&s=536e052a5c8baa803af21d7d9531385b",
     "rankings": [
       {
         "year": 2013,
@@ -1731,11 +1895,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/8568/boltz"
   },
   {
-    "name": "electronic",
-    "country": null,
+    "ign": "electronic",
+    "id": 8918,
+    "name": "Denis Sharipov",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/B1PLJOPtXYCKXEy0peFT2A.png?ixlib=java-2.1.0&w=400&s=7368b948e89242a5d76566d5c6726f22",
     "rankings": [
       {
         "year": 2013,
@@ -1765,11 +1933,15 @@
         "year": 2019,
         "place": 6
       }
-    ]
+    ],
+    "country": "RU",
+    "profileUrl": "https://www.hltv.org/player/8918/electronic"
   },
   {
-    "name": "NAF",
-    "country": null,
+    "ign": "NAF",
+    "id": 8520,
+    "name": "Keith Markovic",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/vgRnVqGhGuPULEh6zsqa8_.png?ixlib=java-2.1.0&w=400&s=fcfcbe389a5b6f388468c9db9c4431ca",
     "rankings": [
       {
         "year": 2013,
@@ -1799,11 +1971,15 @@
         "year": 2019,
         "place": 7
       }
-    ]
+    ],
+    "country": "CA",
+    "profileUrl": "https://www.hltv.org/player/8520/NAF"
   },
   {
-    "name": "gla1ve",
-    "country": null,
+    "ign": "gla1ve",
+    "id": 7412,
+    "name": "Lukas Rossander",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/XrOWRACzHSb71Dul1WFXyo.png?ixlib=java-2.1.0&w=400&s=418c18e543618d5c2de30ea34206ed5b",
     "rankings": [
       {
         "year": 2013,
@@ -1833,11 +2009,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/7412/gla1ve"
   },
   {
-    "name": "Twistzz",
-    "country": null,
+    "ign": "Twistzz",
+    "id": 10394,
+    "name": "Russel Van Dulken",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/AwTGJ2itqXDRWIR21BdFDX.png?ixlib=java-2.1.0&w=400&s=264a7b498c3258fbce1f13f6740a4b8a",
     "rankings": [
       {
         "year": 2013,
@@ -1867,11 +2047,15 @@
         "year": 2019,
         "place": 9
       }
-    ]
+    ],
+    "country": "CA",
+    "profileUrl": "https://www.hltv.org/player/10394/Twistzz"
   },
   {
-    "name": "suNny",
-    "country": null,
+    "ign": "suNny",
+    "id": 5479,
+    "name": "Miikka Kemppi",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/S1ocfmrCezvIcUfanbrBLk.png?ixlib=java-2.1.0&w=400&s=9bc33cad620aad1f3cfd99d6c44a2f95",
     "rankings": [
       {
         "year": 2013,
@@ -1901,11 +2085,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "FI",
+    "profileUrl": "https://www.hltv.org/player/5479/suNny"
   },
   {
-    "name": "autimatic",
-    "country": null,
+    "ign": "autimatic",
+    "id": 8735,
+    "name": "Timothy Ta",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/AzlEZTCCL0fy5_fe2NY1zI.png?ixlib=java-2.1.0&w=400&s=049de4803b82905f51471f471fd37898",
     "rankings": [
       {
         "year": 2013,
@@ -1935,11 +2123,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "US",
+    "profileUrl": "https://www.hltv.org/player/8735/autimatic"
   },
   {
-    "name": "ropz",
-    "country": null,
+    "ign": "ropz",
+    "id": 11816,
+    "name": "Robin Kool",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/XQFIc6MIYUmKeNZkJJDe9p.png?ixlib=java-2.1.0&w=400&s=a56ca06fe539246da203540d7dd893eb",
     "rankings": [
       {
         "year": 2013,
@@ -1969,11 +2161,15 @@
         "year": 2019,
         "place": 10
       }
-    ]
+    ],
+    "country": "EE",
+    "profileUrl": "https://www.hltv.org/player/11816/ropz"
   },
   {
-    "name": "valde",
-    "country": null,
+    "ign": "valde",
+    "id": 9031,
+    "name": "Valdemar Bjørn Vangså",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/TF69_F-myC56vtIk6nOoYa.png?ixlib=java-2.1.0&w=400&s=48f2ea3c3640a664d9e27c69a554feed",
     "rankings": [
       {
         "year": 2013,
@@ -2003,11 +2199,15 @@
         "year": 2019,
         "place": null
       }
-    ]
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/9031/valde"
   },
   {
-    "name": "ZywOo",
-    "country": null,
+    "ign": "ZywOo",
+    "id": 11893,
+    "name": "Mathieu Herbaut",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/mxdFjJ-XPIwD6Nsg5TIHtt.png?ixlib=java-2.1.0&w=400&s=f5459b192878149745e7dd1255fd494c",
     "rankings": [
       {
         "year": 2013,
@@ -2037,11 +2237,15 @@
         "year": 2019,
         "place": 1
       }
-    ]
+    ],
+    "country": "FR",
+    "profileUrl": "https://www.hltv.org/player/11893/ZywOo"
   },
   {
-    "name": "Brehze",
-    "country": null,
+    "ign": "Brehze",
+    "id": 9136,
+    "name": "Vincent Cayonte",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/BJUbRqoT5oxtYivntZD-Mm.png?ixlib=java-2.1.0&w=400&s=081fdf41947af28c187dd7eb9db0512a",
     "rankings": [
       {
         "year": 2013,
@@ -2071,11 +2275,15 @@
         "year": 2019,
         "place": 8
       }
-    ]
+    ],
+    "country": "US",
+    "profileUrl": "https://www.hltv.org/player/9136/Brehze"
   },
   {
-    "name": "woxic",
-    "country": null,
+    "ign": "woxic",
+    "id": 8574,
+    "name": "Özgür Eker",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/iBaDcTTxzaitqkTlKcCGs0.png?ixlib=java-2.1.0&w=400&s=69853a603f1a29470c458e68371cd185",
     "rankings": [
       {
         "year": 2013,
@@ -2105,11 +2313,15 @@
         "year": 2019,
         "place": 12
       }
-    ]
+    ],
+    "country": "TR",
+    "profileUrl": "https://www.hltv.org/player/8574/woxic"
   },
   {
-    "name": "sergej",
-    "country": null,
+    "ign": "sergej",
+    "id": 11916,
+    "name": "Jere Salo",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/7g0pv6d7gg6rRz4xS9ZkMp.png?ixlib=java-2.1.0&w=400&s=6658e141e43d5af5f656d99b20d1af6b",
     "rankings": [
       {
         "year": 2013,
@@ -2139,11 +2351,15 @@
         "year": 2019,
         "place": 13
       }
-    ]
+    ],
+    "country": "FI",
+    "profileUrl": "https://www.hltv.org/player/11916/sergej"
   },
   {
-    "name": "jks",
-    "country": null,
+    "ign": "jks",
+    "id": 4679,
+    "name": "Justin Savage",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?ixlib=java-2.1.0&w=400&s=fe1bd5fd944e38ade9d36ec9fef7fbbc",
     "rankings": [
       {
         "year": 2013,
@@ -2173,11 +2389,15 @@
         "year": 2019,
         "place": 15
       }
-    ]
+    ],
+    "country": "AU",
+    "profileUrl": "https://www.hltv.org/player/4679/jks"
   },
   {
-    "name": "CeRq",
-    "country": null,
+    "ign": "CeRq",
+    "id": 11219,
+    "name": "Tsvetelin Dimitrov",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/4YmrqWuRd_0DDVjw3QvY9Z.png?ixlib=java-2.1.0&w=400&s=4e8381dabe8e114c2aa1a418d703b008",
     "rankings": [
       {
         "year": 2013,
@@ -2207,11 +2427,15 @@
         "year": 2019,
         "place": 18
       }
-    ]
+    ],
+    "country": "BG",
+    "profileUrl": "https://www.hltv.org/player/11219/CeRq"
   },
   {
-    "name": "Brollan",
-    "country": null,
+    "ign": "Brollan",
+    "id": 13666,
+    "name": "Ludvig Brolin",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/-i36IRt7p_72sbT3mOsEms.png?ixlib=java-2.1.0&w=400&s=a4008d11524f143eb5936c9b9ccf36b0",
     "rankings": [
       {
         "year": 2013,
@@ -2241,11 +2465,15 @@
         "year": 2019,
         "place": 19
       }
-    ]
+    ],
+    "country": "SE",
+    "profileUrl": "https://www.hltv.org/player/13666/Brollan"
   },
   {
-    "name": "Ethan",
-    "country": null,
+    "ign": "Ethan",
+    "id": 10671,
+    "name": "Ethan Arnold",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/nDllzFfgWtELdebd026uQi.png?ixlib=java-2.1.0&w=400&s=73684a01447ccebd44405fe5c91ef1af",
     "rankings": [
       {
         "year": 2013,
@@ -2275,6 +2503,8 @@
         "year": 2019,
         "place": 20
       }
-    ]
+    ],
+    "country": "US",
+    "profileUrl": "https://www.hltv.org/player/10671/Ethan"
   }
 ]

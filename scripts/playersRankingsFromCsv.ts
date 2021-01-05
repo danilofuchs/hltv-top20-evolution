@@ -1,13 +1,19 @@
-import fs from "fs";
-import util from "util";
-import path from "path";
-import url from "url";
+import * as fs from "fs";
+import * as util from "util";
+import * as path from "path";
+import * as url from "url";
 // @ts-ignore
 import papai from "papaparse";
-import { Player } from "@src/entities/player";
+
+export interface PlayerRankings {
+  ign: string;
+  rankings: {
+    year: number;
+    place: number | null;
+  }[];
+}
 
 const readFile = util.promisify(fs.readFile);
-const writeFile = util.promisify(fs.writeFile);
 
 interface CsvRow {
   Player: string;
@@ -22,9 +28,8 @@ const importCsv = (csv: string): CsvRow[] =>
     dynamicTyping: true,
   }).data;
 
-const parseRow = (row: CsvRow): Player => ({
-  name: row.Player,
-  country: row.Country,
+const parseRow = (row: CsvRow): PlayerRankings => ({
+  ign: row.Player,
   rankings: Object.entries(row)
     .filter(
       ([label, _value]) =>
@@ -43,19 +48,17 @@ const parseRow = (row: CsvRow): Player => ({
 
 const currentDir = path.dirname(url.fileURLToPath(import.meta.url));
 
-(async () => {
+export const playersRankingsFromCsv = async () => {
   const inputPath = path.join(currentDir, "./players.csv");
   const file = await readFile(inputPath);
-  console.log(`Importing CSV from ${inputPath}`);
+  console.log(`===== Importing CSV from ${inputPath} =====`);
 
   const rows = importCsv(file.toString());
   console.log(`Read ${rows.length} rows`);
 
   const players = rows.map(parseRow);
 
-  const json = JSON.stringify(players, null, 2);
+  console.log("===== Parsed data from CSV =====");
 
-  const outDir = path.join(currentDir, "../src/data/players.json");
-  console.log(`Saving JSON to ${outDir}`);
-  await writeFile(outDir, json);
-})();
+  return players;
+};

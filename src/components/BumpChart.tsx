@@ -19,7 +19,7 @@ export function BumpChart(props: Props) {
     () =>
       players.map((player) => ({
         ...player,
-        color: getPlayerColor(player.name),
+        color: getPlayerColor(player.ign),
       })),
     [players]
   );
@@ -100,7 +100,7 @@ export function BumpChart(props: Props) {
           data={player.rankings}
           x="year"
           y="place"
-          labels={(data) => (data.datum.shouldLabel ? player.name : null)}
+          labels={(data) => (data.datum.shouldLabel ? player.ign : null)}
           style={{
             data: {
               stroke: player.color,

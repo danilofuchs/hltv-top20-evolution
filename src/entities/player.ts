@@ -1,7 +1,12 @@
 export interface Player {
-  name: string;
-  country: string | null;
+  /** In-game name */
+  ign: string;
   rankings: PlayerRank[];
+  id?: number;
+  name?: string;
+  image?: string;
+  country?: string;
+  profileUrl?: string;
   color?: string;
 }
 
