@@ -1,4 +1,5 @@
-import Image from "next/image";
+import React from "react";
+import { GitHubLogo } from "@src/assets/GithubLogo";
 import styles from "./Footer.module.css";
 
 export function Footer() {
@@ -11,14 +12,7 @@ export function Footer() {
           rel="noopener noreferrer"
         >
           <span>Made by @danilofuchs </span>
-          <Image
-            src="/images/github/Github-Mark-120px-plus.png"
-            width={24}
-            height={24}
-            layout="fixed"
-            alt="Github Logo"
-            className={styles.logo}
-          />
+          <GitHubLogo />
         </a>
       </div>
       <div className={styles.victory}>
