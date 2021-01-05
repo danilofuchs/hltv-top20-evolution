@@ -65,6 +65,8 @@
 }
 
 .content {
+  margin-top: 5rem;
+
   grid-template-columns: auto;
   grid-template-rows: auto auto;
   grid-template-areas:
