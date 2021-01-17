@@ -30,8 +30,14 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
+}
+
+@media only screen and (min-width: 1000px) {
+  .title {
+    font-size: 4rem;
+  }
 }
 
 .content {

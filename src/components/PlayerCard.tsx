@@ -4,6 +4,7 @@ import clsx from "clsx";
 import styles from "./PlayerCard.module.css";
 import React from "react";
 import { Avatar } from "@src/assets/Avatar";
+import { getCountryFlagSrc } from "@src/utils/country";
 
 export function PlayerCard(props: { player: Player | null }) {
   const { player } = props;
@@ -30,10 +31,12 @@ export function PlayerCard(props: { player: Player | null }) {
       <img className={styles.photo} src={player.image} />
       <h2 className={styles.ign}>{player.ign}</h2>
       <div className={styles.subtitle}>
-        <img
-          className={styles.flag}
-          src={`https://www.hltv.org/img/static/flags/30x20/${player.country}.gif`}
-        />
+        {player.country && (
+          <img
+            className={styles.flag}
+            src={getCountryFlagSrc(player.country)}
+          />
+        )}
         <h3 className={styles.name}>{player.name}</h3>
       </div>
       <div className={styles.divider} />

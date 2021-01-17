@@ -39,7 +39,9 @@
 
 .photo {
   height: 300px;
-  max-width: 100%;
+  object-fit: contain;
+
+  box-sizing: border-box;
 }
 
 .subtitle {
@@ -58,7 +60,7 @@
 }
 
 .flag {
-  height: 12px;
-  width: 18px;
+  height: 22px;
+  width: 22px;
   margin-right: 0.5rem;
 }

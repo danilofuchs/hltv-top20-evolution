@@ -10,7 +10,6 @@ import styles from "./index.module.css";
 import { BumpChart } from "@src/components/BumpChart";
 import { PlayerCard } from "@src/components/PlayerCard";
 import { Footer } from "@src/components/Footer";
-import { CountriesChart } from "@src/components/CountriesChart";
 
 export default function Home() {
   const players: Player[] = useMemo(
@@ -51,9 +50,6 @@ export default function Home() {
           </div>
           <div className={styles.playerCard}>
             <PlayerCard player={selectedPlayer} />
-          </div>
-          <div>
-            <CountriesChart players={players} />
           </div>
         </div>
       </main>
