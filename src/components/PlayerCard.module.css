@@ -21,11 +21,23 @@
   display: grid;
   row-gap: 0.5rem;
 
+  max-width: 350px;
+
+  justify-items: center;
+
   grid-auto-rows: min-content;
 
   transition: box-shadow 100ms linear;
 
   cursor: pointer;
+}
+
+@media only screen and (min-width: 1000px) {
+  .playerCard {
+    max-width: unset;
+
+    justify-items: start;
+  }
 }
 
 .playerCard:hover {
@@ -38,10 +50,16 @@
 }
 
 .photo {
-  height: 300px;
+  height: 200px;
   object-fit: contain;
 
   box-sizing: border-box;
+}
+
+@media only screen and (min-width: 1000px) {
+  .photo {
+    height: 300px;
+  }
 }
 
 .subtitle {

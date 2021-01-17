@@ -11,7 +11,7 @@ export function PlayerCard(props: { player: Player | null }) {
 
   if (!player) {
     return (
-      <div className={styles.card}>
+      <div className={clsx(styles.card, styles.playerCard)}>
         <Avatar />
         <p className={styles.ign}>
           Select a player on the graph to see details
