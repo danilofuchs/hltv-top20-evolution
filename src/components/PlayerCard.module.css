@@ -28,8 +28,6 @@
   grid-auto-rows: min-content;
 
   transition: box-shadow 100ms linear;
-
-  cursor: pointer;
 }
 
 @media only screen and (min-width: 1000px) {
@@ -68,8 +66,13 @@
 }
 
 .ign {
-  margin: 0;
+  display: block;
+
+  margin: 0.75rem 0;
+
   color: var(--link-color);
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .name {

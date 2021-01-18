@@ -100,7 +100,7 @@ export function BumpChart(props: Props) {
 
   const baseStyle = {
     fontFamily: '"Poppins", sans-serif',
-    fontSize: "11px",
+    fontSize: 11,
     fontWeight: "500",
   };
 
@@ -123,14 +123,14 @@ export function BumpChart(props: Props) {
             stroke: "#e0e0e0",
             strokeDasharray: "4 1",
           },
-          tickLabels: { ...baseStyle, fontSize: "1rem" },
+          tickLabels: { ...baseStyle, fontSize: 16 },
         }}
       />
       <VictoryAxis
         tickFormat={(year) => year.toString()}
         tickValues={years}
         style={{
-          tickLabels: { ...baseStyle, fontSize: "1rem" },
+          tickLabels: { ...baseStyle, fontSize: 16 },
         }}
       />
       {playersWithPadding.map((player) => (

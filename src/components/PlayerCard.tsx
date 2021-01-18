@@ -20,15 +20,19 @@ export function PlayerCard(props: { player: Player | null }) {
   }
 
   return (
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href={player.profileUrl}
+    <div
       className={clsx(styles.card, styles.playerCard)}
       style={{ borderColor: player.color }}
     >
       <img className={styles.photo} src={player.image} />
-      <h2 className={styles.ign}>{player.ign}</h2>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href={player.profileUrl}
+        className={styles.ign}
+      >
+        {player.ign}
+      </a>
       <div className={styles.subtitle}>
         {player.country && (
           <img
@@ -62,6 +66,6 @@ export function PlayerCard(props: { player: Player | null }) {
             )
         )}
       </ul>
-    </a>
+    </div>
   );
 }
