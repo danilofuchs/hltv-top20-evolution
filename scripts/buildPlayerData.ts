@@ -2,7 +2,7 @@ import * as fs from "fs";
 import * as util from "util";
 import * as path from "path";
 import * as url from "url";
-import { playersRankingsFromCsv } from "./playersRankingsFromCsv.js";
+import { playersRankingsFromJson } from "./playersRankingsFromJson.js";
 import { fetchPlayers } from "./fetchPlayerData.js";
 import type { Player } from "../src/entities/player";
 
@@ -11,7 +11,7 @@ const writeFile = util.promisify(fs.writeFile);
 const currentDir = path.dirname(url.fileURLToPath(import.meta.url));
 
 (async () => {
-  const playersRankings = await playersRankingsFromCsv();
+  const playersRankings = await playersRankingsFromJson();
 
   const igns = playersRankings.map((player) => player.ign);
 

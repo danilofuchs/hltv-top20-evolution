@@ -1,0 +1,620 @@
+{
+  "rankings": [
+    {
+      "year": 2013,
+      "article": "https://www.hltv.org/news/11895/top-20-players-of-2013-ranking",
+      "placings": [
+        {
+          "player": "GeT_RiGhT",
+          "place": 1,
+          "article": "https://www.hltv.org/news/11966-top-20-players-of-2013-get-right-1"
+        },
+        {
+          "player": "f0rest",
+          "place": 2,
+          "article": "https://www.hltv.org/news/11964-top-20-players-of-2013-f0rest-2"
+        },
+        {
+          "player": "shox",
+          "place": 3,
+          "article": "https://www.hltv.org/news/11955-top-20-players-of-2013-shox-3"
+        },
+        {
+          "player": "Dosia",
+          "place": 4,
+          "article": "https://www.hltv.org/news/11948-top-20-players-of-2013-dosia-4"
+        },
+        {
+          "player": "NBK",
+          "place": 5,
+          "article": "https://www.hltv.org/news/11944-top-20-players-of-2013-nbk-5"
+        },
+        {
+          "player": "Xizt",
+          "place": 6,
+          "article": "https://www.hltv.org/news/11941-top-20-players-of-2013-xizt-6"
+        },
+        {
+          "player": "ScreaM",
+          "place": 7,
+          "article": "https://www.hltv.org/news/11935-top-20-players-of-2013-scream-7"
+        },
+        {
+          "player": "JW",
+          "place": 8,
+          "article": "https://www.hltv.org/news/11934-top-20-players-of-2013-jw-8"
+        },
+        {
+          "player": "Hiko",
+          "place": 9,
+          "article": "https://www.hltv.org/news/11929-top-20-players-of-2013-hiko-9"
+        },
+        {
+          "player": "GuardiaN",
+          "place": 10,
+          "article": "https://www.hltv.org/news/11926-top-20-players-of-2013-guardian-10"
+        },
+        {
+          "player": "friberg",
+          "place": 11,
+          "article": "https://www.hltv.org/news/11919-top-20-players-of-2013-friberg-11"
+        },
+        {
+          "player": "kennyS",
+          "place": 12,
+          "article": "https://www.hltv.org/news/11918-top-20-players-of-2013-kennys-12"
+        },
+        {
+          "player": "flusha",
+          "place": 13,
+          "article": "https://www.hltv.org/news/11914-top-20-players-of-2013-flusha-13"
+        },
+        {
+          "player": "Nico",
+          "place": 14,
+          "article": "https://www.hltv.org/news/11913-top-20-players-of-2013-nico-14"
+        },
+        {
+          "player": "markeloff",
+          "place": 15,
+          "article": "https://www.hltv.org/news/11908-top-20-players-of-2013-markeloff-15"
+        },
+        {
+          "player": "Edward",
+          "place": 16,
+          "article": "https://www.hltv.org/news/11906-top-20-players-of-2013-edward-16"
+        },
+        {
+          "player": "SmithZz",
+          "place": 17,
+          "article": "https://www.hltv.org/news/11904-top-20-players-of-2013-smithzz-17"
+        },
+        {
+          "player": "dupreeh",
+          "place": 18,
+          "article": "https://www.hltv.org/news/11899-top-20-players-of-2013-dupreeh-18"
+        },
+        {
+          "player": "pasha",
+          "place": 19,
+          "article": "https://www.hltv.org/news/11898-top-20-players-of-2013-pasha-19"
+        },
+        {
+          "player": "Xyp9x",
+          "place": 20,
+          "article": "https://www.hltv.org/news/11896-top-20-players-of-2013-xyp9x-20"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "placings": [
+        {
+          "place": 1,
+          "player": "GeT_RiGhT"
+        },
+        {
+          "place": 2,
+          "player": "flusha"
+        },
+        {
+          "place": 3,
+          "player": "pasha"
+        },
+        {
+          "place": 4,
+          "player": "Snax"
+        },
+        {
+          "place": 5,
+          "player": "JW"
+        },
+        {
+          "place": 6,
+          "player": "kennyS"
+        },
+        {
+          "place": 7,
+          "player": "f0rest"
+        },
+        {
+          "place": 8,
+          "player": "shox"
+        },
+        {
+          "place": 9,
+          "player": "KRiMZ"
+        },
+        {
+          "place": 10,
+          "player": "Happy"
+        },
+        {
+          "place": 11,
+          "player": "GuardiaN"
+        },
+        {
+          "place": 12,
+          "player": "olofmeister"
+        },
+        {
+          "place": 13,
+          "player": "byali"
+        },
+        {
+          "place": 14,
+          "player": "friberg"
+        },
+        {
+          "place": 15,
+          "player": "apEX"
+        },
+        {
+          "place": 16,
+          "player": "dupreeh"
+        },
+        {
+          "place": 17,
+          "player": "NBK"
+        },
+        {
+          "place": 18,
+          "player": "swag"
+        },
+        {
+          "place": 19,
+          "player": "kioShiMa"
+        },
+        {
+          "place": 20,
+          "player": "device"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "placings": [
+        {
+          "place": 1,
+          "player": "olofmeister"
+        },
+        {
+          "place": 2,
+          "player": "GuardiaN"
+        },
+        {
+          "place": 3,
+          "player": "device"
+        },
+        {
+          "place": 4,
+          "player": "Snax"
+        },
+        {
+          "place": 5,
+          "player": "flusha"
+        },
+        {
+          "place": 6,
+          "player": "kennyS"
+        },
+        {
+          "place": 7,
+          "player": "KRIMZ"
+        },
+        {
+          "place": 8,
+          "player": "Happy"
+        },
+        {
+          "place": 9,
+          "player": "NBK"
+        },
+        {
+          "place": 10,
+          "player": "JW"
+        },
+        {
+          "place": 11,
+          "player": "GeT_RiGhT"
+        },
+        {
+          "place": 12,
+          "player": "dupreeh"
+        },
+        {
+          "place": 13,
+          "player": "shox"
+        },
+        {
+          "place": 14,
+          "player": "flamie"
+        },
+        {
+          "place": 15,
+          "player": "cajunb"
+        },
+        {
+          "place": 16,
+          "player": "f0rest"
+        },
+        {
+          "place": 17,
+          "player": "NEO"
+        },
+        {
+          "place": 18,
+          "player": "apEX"
+        },
+        {
+          "place": 19,
+          "player": "allu"
+        },
+        {
+          "place": 20,
+          "player": "Skadoodle"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "placings": [
+        {
+          "place": 1,
+          "player": "coldzera"
+        },
+        {
+          "place": 2,
+          "player": "FalleN"
+        },
+        {
+          "place": 3,
+          "player": "device"
+        },
+        {
+          "place": 4,
+          "player": "s1mple"
+        },
+        {
+          "place": 5,
+          "player": "Snax"
+        },
+        {
+          "place": 6,
+          "player": "shox"
+        },
+        {
+          "place": 7,
+          "player": "f0rest"
+        },
+        {
+          "place": 8,
+          "player": "olofmeister"
+        },
+        {
+          "place": 9,
+          "player": "ScreaM"
+        },
+        {
+          "place": 10,
+          "player": "flusha"
+        },
+        {
+          "place": 11,
+          "player": "NiKo"
+        },
+        {
+          "place": 12,
+          "player": "flamie"
+        },
+        {
+          "place": 13,
+          "player": "kennyS"
+        },
+        {
+          "place": 14,
+          "player": "Magisk"
+        },
+        {
+          "place": 15,
+          "player": "fer"
+        },
+        {
+          "place": 16,
+          "player": "Kjaerbye"
+        },
+        {
+          "place": 17,
+          "player": "GuardiaN"
+        },
+        {
+          "place": 18,
+          "player": "GeT_RiGhT"
+        },
+        {
+          "place": 19,
+          "player": "fnx"
+        },
+        {
+          "place": 20,
+          "player": "dennis"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "placings": [
+        {
+          "place": 1,
+          "player": "coldzera"
+        },
+        {
+          "place": 2,
+          "player": "NiKo"
+        },
+        {
+          "place": 3,
+          "player": "fer"
+        },
+        {
+          "place": 4,
+          "player": "rain"
+        },
+        {
+          "place": 5,
+          "player": "device"
+        },
+        {
+          "place": 6,
+          "player": "FalleN"
+        },
+        {
+          "place": 7,
+          "player": "kennyS"
+        },
+        {
+          "place": 8,
+          "player": "s1mple"
+        },
+        {
+          "place": 9,
+          "player": "GuardiaN"
+        },
+        {
+          "place": 10,
+          "player": "dupreeh"
+        },
+        {
+          "place": 11,
+          "player": "Hobbit"
+        },
+        {
+          "place": 12,
+          "player": "EliGE"
+        },
+        {
+          "place": 13,
+          "player": "Xyp9x"
+        },
+        {
+          "place": 14,
+          "player": "k0nfig"
+        },
+        {
+          "place": 15,
+          "player": "Kjaerbye"
+        },
+        {
+          "place": 16,
+          "player": "oskar"
+        },
+        {
+          "place": 17,
+          "player": "AdreN"
+        },
+        {
+          "place": 18,
+          "player": "boltz"
+        },
+        {
+          "place": 19,
+          "player": "olofmeister"
+        },
+        {
+          "place": 20,
+          "player": "Snax"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "placings": [
+        {
+          "place": 1,
+          "player": "s1mple"
+        },
+        {
+          "place": 2,
+          "player": "device"
+        },
+        {
+          "place": 3,
+          "player": "NiKo"
+        },
+        {
+          "place": 4,
+          "player": "electronic"
+        },
+        {
+          "place": 5,
+          "player": "dupreeh"
+        },
+        {
+          "place": 6,
+          "player": "NAF"
+        },
+        {
+          "place": 7,
+          "player": "Magisk"
+        },
+        {
+          "place": 8,
+          "player": "gla1ve"
+        },
+        {
+          "place": 9,
+          "player": "KRIMZ"
+        },
+        {
+          "place": 10,
+          "player": "coldzera"
+        },
+        {
+          "place": 11,
+          "player": "GuardiaN"
+        },
+        {
+          "place": 12,
+          "player": "Twistzz"
+        },
+        {
+          "place": 13,
+          "player": "Xyp9x"
+        },
+        {
+          "place": 14,
+          "player": "oskar"
+        },
+        {
+          "place": 15,
+          "player": "EliGE"
+        },
+        {
+          "place": 16,
+          "player": "suNny"
+        },
+        {
+          "place": 17,
+          "player": "autimatic"
+        },
+        {
+          "place": 18,
+          "player": "rain"
+        },
+        {
+          "place": 19,
+          "player": "ropz"
+        },
+        {
+          "place": 20,
+          "player": "valde"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "placings": [
+        {
+          "place": 1,
+          "player": "ZywOo"
+        },
+        {
+          "place": 2,
+          "player": "s1mple"
+        },
+        {
+          "place": 3,
+          "player": "device"
+        },
+        {
+          "place": 4,
+          "player": "EliGE"
+        },
+        {
+          "place": 5,
+          "player": "Magisk"
+        },
+        {
+          "place": 6,
+          "player": "electronic"
+        },
+        {
+          "place": 7,
+          "player": "NAF"
+        },
+        {
+          "place": 8,
+          "player": "Brehze"
+        },
+        {
+          "place": 9,
+          "player": "Twistzz"
+        },
+        {
+          "place": 10,
+          "player": "ropz"
+        },
+        {
+          "place": 11,
+          "player": "NiKo"
+        },
+        {
+          "place": 12,
+          "player": "woxic"
+        },
+        {
+          "place": 13,
+          "player": "sergej"
+        },
+        {
+          "place": 14,
+          "player": "Xyp9x"
+        },
+        {
+          "place": 15,
+          "player": "jks"
+        },
+        {
+          "place": 16,
+          "player": "dupreeh"
+        },
+        {
+          "place": 17,
+          "player": "KRIMZ"
+        },
+        {
+          "place": 18,
+          "player": "CeRq"
+        },
+        {
+          "place": 19,
+          "player": "Brollan"
+        },
+        {
+          "place": 20,
+          "player": "Ethan"
+        }
+      ]
+    }
+  ]
+}

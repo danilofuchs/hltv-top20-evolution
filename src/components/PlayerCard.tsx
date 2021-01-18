@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Player } from "@src/entities/player";
 import clsx from "clsx";
 import styles from "./PlayerCard.module.css";
