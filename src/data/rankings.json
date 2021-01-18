@@ -152,7 +152,7 @@
         },
         {
           "place": 9,
-          "player": "KRiMZ",
+          "player": "KRIMZ",
           "article": "https://www.hltv.org/news/13958-top-20-players-of-2014-krimz-9"
         },
         {
@@ -739,6 +739,109 @@
           "place": 20,
           "player": "Ethan",
           "article": "https://www.hltv.org/news/28751/top-20-players-of-2019-ethan-20"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "article": "https://www.hltv.org/news/30897/top-20-players-of-2020-introduction",
+      "placings": [
+        {
+          "place": 1,
+          "player": "ZywOo"
+        },
+        {
+          "place": 2,
+          "player": "s1mple"
+        },
+        {
+          "place": 3,
+          "player": "device"
+        },
+        {
+          "place": 4,
+          "player": "NiKo",
+          "article": "https://www.hltv.org/news/31000/top-20-players-of-2020-niko-4"
+        },
+        {
+          "place": 5,
+          "player": "electronic",
+          "article": "https://www.hltv.org/news/30998/top-20-players-of-2020-electronic-5"
+        },
+        {
+          "place": 6,
+          "player": "blameF",
+          "article": "https://www.hltv.org/news/30990/top-20-players-of-2020-blamef-6"
+        },
+        {
+          "place": 7,
+          "player": "ropz",
+          "article": "https://www.hltv.org/news/30978/top-20-players-of-2020-ropz-7"
+        },
+        {
+          "place": 8,
+          "player": "EliGE",
+          "article": "https://www.hltv.org/news/30969/top-20-players-of-2020-elige-8"
+        },
+        {
+          "place": 9,
+          "player": "dupreeh",
+          "article": "https://www.hltv.org/news/30958/top-20-players-of-2020-dupreeh-9"
+        },
+        {
+          "place": 10,
+          "player": "syrsoN",
+          "article": "https://www.hltv.org/news/30946/top-20-players-of-2020-syrson-10"
+        },
+        {
+          "place": 11,
+          "player": "Magisk",
+          "article": "https://www.hltv.org/news/30940/top-20-players-of-2020-magisk-11"
+        },
+        {
+          "place": 12,
+          "player": "stavn",
+          "article": "https://www.hltv.org/news/30935/top-20-players-of-2020-stavn-12"
+        },
+        {
+          "place": 13,
+          "player": "huNter-",
+          "article": "https://www.hltv.org/news/30931/top-20-players-of-2020-hunter-13"
+        },
+        {
+          "place": 14,
+          "player": "yuurih",
+          "article": "https://www.hltv.org/news/30925/top-20-players-of-2020-yuurih-14"
+        },
+        {
+          "place": 15,
+          "player": "Brollan",
+          "article": "https://www.hltv.org/news/30916/top-20-players-of-2020-brollan-15"
+        },
+        {
+          "place": 16,
+          "player": "HEN1",
+          "article": "https://www.hltv.org/news/30913/top-20-players-of-2020-hen1-16"
+        },
+        {
+          "place": 17,
+          "player": "KRIMZ",
+          "article": "https://www.hltv.org/news/30908/top-20-players-of-2020-krimz-17"
+        },
+        {
+          "place": 18,
+          "player": "KSCERATO",
+          "article": "https://www.hltv.org/news/30904/top-20-players-of-2020-kscerato-18"
+        },
+        {
+          "place": 19,
+          "player": "jks",
+          "article": "https://www.hltv.org/news/30902/top-20-players-of-2020-jks-19"
+        },
+        {
+          "place": 20,
+          "player": "Brehze",
+          "article": "https://www.hltv.org/news/30899/top-20-players-of-2020-brehze-20"
         }
       ]
     }

@@ -7,31 +7,23 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/11966-top-20-players-of-2013-get-right-1"
       },
       {
         "year": 2014,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/14010-top-20-players-of-2014-get-right-1"
       },
       {
         "year": 2015,
-        "place": 11
+        "place": 11,
+        "article": "https://www.hltv.org/news/16761-top-20-players-of-2015-get-right-11"
       },
       {
         "year": 2016,
-        "place": 18
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 18,
+        "article": "https://www.hltv.org/news/19567-top-20-players-of-2016-get-right-18"
       }
     ],
     "country": "SE",
@@ -45,31 +37,23 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/11964-top-20-players-of-2013-f0rest-2"
       },
       {
         "year": 2014,
-        "place": 7
+        "place": 7,
+        "article": "https://www.hltv.org/news/13975-top-20-players-of-2014-f0rest-7"
       },
       {
         "year": 2015,
-        "place": 16
+        "place": 16,
+        "article": "https://www.hltv.org/news/16723-top-20-players-of-2015-f0rest-16"
       },
       {
         "year": 2016,
-        "place": 7
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 7,
+        "article": "https://www.hltv.org/news/19625-top-20-players-of-2016-f0rest-7"
       }
     ],
     "country": "SE",
@@ -83,31 +67,23 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 3
+        "place": 3,
+        "article": "https://www.hltv.org/news/11955-top-20-players-of-2013-shox-3"
       },
       {
         "year": 2014,
-        "place": 8
+        "place": 8,
+        "article": "https://www.hltv.org/news/13969-top-20-players-of-2014-shox-8"
       },
       {
         "year": 2015,
-        "place": 13
+        "place": 13,
+        "article": "https://www.hltv.org/news/16746-top-20-players-of-2015-shox-13"
       },
       {
         "year": 2016,
-        "place": 6
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 6,
+        "article": "https://www.hltv.org/news/19636-top-20-players-of-2016-shox-6"
       }
     ],
     "country": "FR",
@@ -121,31 +97,8 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 4
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 4,
+        "article": "https://www.hltv.org/news/11948-top-20-players-of-2013-dosia-4"
       }
     ],
     "country": "RU",
@@ -159,31 +112,18 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 5
+        "place": 5,
+        "article": "https://www.hltv.org/news/11944-top-20-players-of-2013-nbk-5"
       },
       {
         "year": 2014,
-        "place": 17
+        "place": 17,
+        "article": "https://www.hltv.org/news/13919-top-20-players-of-2014-nbk-17"
       },
       {
         "year": 2015,
-        "place": 9
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 9,
+        "article": "https://www.hltv.org/news/16778-top-20-players-of-2015-nbk-9"
       }
     ],
     "country": "FR",
@@ -197,31 +137,8 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 6
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 6,
+        "article": "https://www.hltv.org/news/11941-top-20-players-of-2013-xizt-6"
       }
     ],
     "country": "SE",
@@ -235,31 +152,13 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 7
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
+        "place": 7,
+        "article": "https://www.hltv.org/news/11935-top-20-players-of-2013-scream-7"
       },
       {
         "year": 2016,
-        "place": 9
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 9,
+        "article": "https://www.hltv.org/news/19610-top-20-players-of-2016-scream-9"
       }
     ],
     "country": "BE",
@@ -273,31 +172,18 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 8
+        "place": 8,
+        "article": "https://www.hltv.org/news/11934-top-20-players-of-2013-jw-8"
       },
       {
         "year": 2014,
-        "place": 5
+        "place": 5,
+        "article": "https://www.hltv.org/news/13990-top-20-players-of-2014-jw-5"
       },
       {
         "year": 2015,
-        "place": 10
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 10,
+        "article": "https://www.hltv.org/news/16768-top-20-players-of-2015-jw-10"
       }
     ],
     "country": "SE",
@@ -311,31 +197,8 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 9
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 9,
+        "article": "https://www.hltv.org/news/11929-top-20-players-of-2013-hiko-9"
       }
     ],
     "country": "US",
@@ -349,31 +212,33 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 10
+        "place": 10,
+        "article": "https://www.hltv.org/news/11926-top-20-players-of-2013-guardian-10"
       },
       {
         "year": 2014,
-        "place": 11
+        "place": 11,
+        "article": "https://www.hltv.org/news/13944-top-20-players-of-2014-guardian-11"
       },
       {
         "year": 2015,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/16848-top-20-players-of-2015-guardian-2"
       },
       {
         "year": 2016,
-        "place": 17
+        "place": 17,
+        "article": "https://www.hltv.org/news/19570-top-20-players-of-2016-guardian-17"
       },
       {
         "year": 2017,
-        "place": 9
+        "place": 9,
+        "article": "https://www.hltv.org/news/22417/top-20-players-of-2017-guardian-9"
       },
       {
         "year": 2018,
-        "place": 11
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 11,
+        "article": "https://www.hltv.org/news/25796/top-20-players-of-2018-guardian-11"
       }
     ],
     "country": "SK",
@@ -387,31 +252,13 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 11
+        "place": 11,
+        "article": "https://www.hltv.org/news/11919-top-20-players-of-2013-friberg-11"
       },
       {
         "year": 2014,
-        "place": 14
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 14,
+        "article": "https://www.hltv.org/news/13931-top-20-players-of-2014-friberg-14"
       }
     ],
     "country": "SE",
@@ -425,31 +272,28 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 12
+        "place": 12,
+        "article": "https://www.hltv.org/news/11918-top-20-players-of-2013-kennys-12"
       },
       {
         "year": 2014,
-        "place": 6
+        "place": 6,
+        "article": "https://www.hltv.org/news/13985-top-20-players-of-2014-kennys-6"
       },
       {
         "year": 2015,
-        "place": 6
+        "place": 6,
+        "article": "https://www.hltv.org/news/16813-top-20-players-of-2015-kennys-6"
       },
       {
         "year": 2016,
-        "place": 13
+        "place": 13,
+        "article": "https://www.hltv.org/news/19587-top-20-players-of-2016-kennys-13"
       },
       {
         "year": 2017,
-        "place": 7
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 7,
+        "article": "https://www.hltv.org/news/22424/top-20-players-of-2017-kennys-7"
       }
     ],
     "country": "FR",
@@ -463,31 +307,23 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 13
+        "place": 13,
+        "article": "https://www.hltv.org/news/11914-top-20-players-of-2013-flusha-13"
       },
       {
         "year": 2014,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/13895-top-20-players-of-2014-flusha-2"
       },
       {
         "year": 2015,
-        "place": 5
+        "place": 5,
+        "article": "https://www.hltv.org/news/16819-top-20-players-of-2015-flusha-5"
       },
       {
         "year": 2016,
-        "place": 10
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 10,
+        "article": "https://www.hltv.org/news/19598-top-20-players-of-2016-flusha-10"
       }
     ],
     "country": "SE",
@@ -495,41 +331,18 @@
   },
   {
     "ign": "Nico",
-    "id": 7413,
-    "name": "Nicolaj Jensen",
-    "image": "https://img-cdn.hltv.org/gallerypicture/_6Z8NwSLG9Vd7PWTLAwklZ.jpg?bg=3e4c54&h=400&ixlib=java-2.1.0&rect=656%2C41%2C737%2C737&w=400&s=ae85808911b9ea5f1993746109cce7a3",
+    "id": 13602,
+    "name": "Nico Tamjidi",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/FlbQqyEQuNqUXhy0U-NMW0.png?ixlib=java-2.1.0&w=400&s=c144238e5304e939e71e23988723188a",
     "rankings": [
       {
         "year": 2013,
-        "place": 14
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 14,
+        "article": "https://www.hltv.org/news/11913-top-20-players-of-2013-nico-14"
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/7413/nico"
+    "profileUrl": "https://www.hltv.org/player/13602/nicoodoz"
   },
   {
     "ign": "markeloff",
@@ -539,31 +352,8 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 15
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 15,
+        "article": "https://www.hltv.org/news/11908-top-20-players-of-2013-markeloff-15"
       }
     ],
     "country": "UA",
@@ -577,31 +367,8 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 16
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 16,
+        "article": "https://www.hltv.org/news/11906-top-20-players-of-2013-edward-16"
       }
     ],
     "country": "UA",
@@ -615,31 +382,8 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 17
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 17,
+        "article": "https://www.hltv.org/news/11904-top-20-players-of-2013-smithzz-17"
       }
     ],
     "country": "FR",
@@ -653,31 +397,38 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 18
+        "place": 18,
+        "article": "https://www.hltv.org/news/11899-top-20-players-of-2013-dupreeh-18"
       },
       {
         "year": 2014,
-        "place": 16
+        "place": 16,
+        "article": "https://www.hltv.org/news/13924-top-20-players-of-2014-dupreeh-16"
       },
       {
         "year": 2015,
-        "place": 12
-      },
-      {
-        "year": 2016,
-        "place": null
+        "place": 12,
+        "article": "https://www.hltv.org/news/16752-top-20-players-of-2015-dupreeh-12"
       },
       {
         "year": 2017,
-        "place": 10
+        "place": 10,
+        "article": "https://www.hltv.org/news/22408/top-20-players-of-2017-dupreeh-10"
       },
       {
         "year": 2018,
-        "place": 5
+        "place": 5,
+        "article": "https://www.hltv.org/news/25835/top-20-players-of-2018-dupreeh-5"
       },
       {
         "year": 2019,
-        "place": 16
+        "place": 16,
+        "article": "https://www.hltv.org/news/28766/top-20-players-of-2019-dupreeh-16"
+      },
+      {
+        "year": 2020,
+        "place": 9,
+        "article": "https://www.hltv.org/news/30958/top-20-players-of-2020-dupreeh-9"
       }
     ],
     "country": "DK",
@@ -691,31 +442,13 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 19
+        "place": 19,
+        "article": "https://www.hltv.org/news/11898-top-20-players-of-2013-pasha-19"
       },
       {
         "year": 2014,
-        "place": 3
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 3,
+        "article": "https://www.hltv.org/news/14001-top-20-players-of-2014-pasha-3"
       }
     ],
     "country": "PL",
@@ -729,31 +462,23 @@
     "rankings": [
       {
         "year": 2013,
-        "place": 20
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
+        "place": 20,
+        "article": "https://www.hltv.org/news/11896-top-20-players-of-2013-xyp9x-20"
       },
       {
         "year": 2017,
-        "place": 13
+        "place": 13,
+        "article": "https://www.hltv.org/news/22391/top-20-players-of-2017-xyp9x-13"
       },
       {
         "year": 2018,
-        "place": 13
+        "place": 13,
+        "article": "https://www.hltv.org/news/25782/top-20-players-of-2018-xyp9x-13"
       },
       {
         "year": 2019,
-        "place": 14
+        "place": 14,
+        "article": "https://www.hltv.org/news/28786/top-20-players-of-2019-xyp9x-14"
       }
     ],
     "country": "DK",
@@ -766,32 +491,24 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/bvVOvSGDeUcv0VWop2IZRX.png?ixlib=java-2.1.0&w=400&s=1ef88cdbd8dda53ffff98db0f4971430",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 4
+        "place": 4,
+        "article": "https://www.hltv.org/news/13997-top-20-players-of-2014-snax-4"
       },
       {
         "year": 2015,
-        "place": 4
+        "place": 4,
+        "article": "https://www.hltv.org/news/16833-top-20-players-of-2015-snax-4"
       },
       {
         "year": 2016,
-        "place": 5
+        "place": 5,
+        "article": "https://www.hltv.org/news/19641-top-20-players-of-2016-snax-5"
       },
       {
         "year": 2017,
-        "place": 20
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 20,
+        "article": "https://www.hltv.org/news/22352/top-20-players-of-2017-snax-20"
       }
     ],
     "country": "PL",
@@ -804,32 +521,29 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/g5A5GCbxUeq9WdZRIABPji.png?ixlib=java-2.1.0&w=400&s=b8c620fcf11fcaf89f3e69f5a47c8103",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 9
+        "place": 9,
+        "article": "https://www.hltv.org/news/13958-top-20-players-of-2014-krimz-9"
       },
       {
         "year": 2015,
-        "place": 7
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
+        "place": 7,
+        "article": "https://www.hltv.org/news/16800-top-20-players-of-2015-krimz-7"
       },
       {
         "year": 2018,
-        "place": 9
+        "place": 9,
+        "article": "https://www.hltv.org/news/25813/top-20-players-of-2018-krimz-9"
       },
       {
         "year": 2019,
-        "place": 17
+        "place": 17,
+        "article": "https://www.hltv.org/news/28764/top-20-players-of-2019-krimz-17"
+      },
+      {
+        "year": 2020,
+        "place": 17,
+        "article": "https://www.hltv.org/news/30908/top-20-players-of-2020-krimz-17"
       }
     ],
     "country": "SE",
@@ -842,32 +556,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/aTavjE6s8uq_PDW_IwBc7N.png?ixlib=java-2.1.0&w=400&s=4e10fe69a2a8ae476a4003ce054f0388",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 10
+        "place": 10,
+        "article": "https://www.hltv.org/news/13950-top-20-players-of-2014-happy-10"
       },
       {
         "year": 2015,
-        "place": 8
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 8,
+        "article": "https://www.hltv.org/news/16785-top-20-players-of-2015-happy-8"
       }
     ],
     "country": "FR",
@@ -880,32 +576,24 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/pH2FhZMnX4NzfjTuHsyqwt.png?ixlib=java-2.1.0&w=400&s=7354b2a6223151d170a94a8e940cf389",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 12
+        "place": 12,
+        "article": "https://www.hltv.org/news/13938-top-20-players-of-2014-olofm-12"
       },
       {
         "year": 2015,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/16863-top-20-players-of-2015-olofmeister-1"
       },
       {
         "year": 2016,
-        "place": 8
+        "place": 8,
+        "article": "https://www.hltv.org/news/19619-top-20-players-of-2016-olofmeister-8"
       },
       {
         "year": 2017,
-        "place": 19
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 19,
+        "article": "https://www.hltv.org/news/22355/top-20-players-of-2017-olofmeister-19"
       }
     ],
     "country": "SE",
@@ -918,32 +606,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/5lk7ENBKcmCFoLdt6IzZPM.png?ixlib=java-2.1.0&w=400&s=456c1c3d68099c68b6c3a6f7e039d6a1",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 13
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 13,
+        "article": "https://www.hltv.org/news/13934-top-20-players-of-2014-byali-13"
       }
     ],
     "country": "PL",
@@ -956,32 +621,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/mVjijFaqyDTO2FI0ZejcP8.png?ixlib=java-2.1.0&w=400&s=dd36959aa17db61f2f3da626ad8123e7",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 15
+        "place": 15,
+        "article": "https://www.hltv.org/news/13927-top-20-players-of-2014-apex-15"
       },
       {
         "year": 2015,
-        "place": 18
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 18,
+        "article": "https://www.hltv.org/news/16710-top-20-players-of-2015-apex-18"
       }
     ],
     "country": "FR",
@@ -994,32 +641,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/4o1Je4itCj0J3W4A4O13ON.png?ixlib=java-2.1.0&w=400&s=c213e959cd0cb8070afcc78b126a3b15",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 18
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 18,
+        "article": "https://www.hltv.org/news/13913-top-20-players-of-2014-swag-18"
       }
     ],
     "country": "US",
@@ -1032,32 +656,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/7v3kxUHbbF_CD7ambNzCIk.png?ixlib=java-2.1.0&w=400&s=1c28cda0036145ab94999d6488489dc4",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 19
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 19,
+        "article": "https://www.hltv.org/news/13910-top-20-players-of-2014-kioshima-19"
       }
     ],
     "country": "FR",
@@ -1070,31 +671,37 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/-PPxNP8BP10A1rTwKnzHDw.png?ixlib=java-2.1.0&w=400&s=4a55e94fab2f420a6763e63e4d379076",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
         "year": 2014,
-        "place": 20
+        "place": 20,
+        "article": "https://www.hltv.org/news/13906-top-20-players-of-2014-device-20"
       },
       {
         "year": 2015,
-        "place": 3
+        "place": 3,
+        "article": "https://www.hltv.org/news/16841-top-20-players-of-2015-device-3"
       },
       {
         "year": 2016,
-        "place": 3
+        "place": 3,
+        "article": "https://www.hltv.org/news/19647-top-20-players-of-2016-device-3"
       },
       {
         "year": 2017,
-        "place": 5
+        "place": 5,
+        "article": "https://www.hltv.org/news/22465/top-20-players-of-2017-device-5"
       },
       {
         "year": 2018,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/25878/top-20-players-of-2018-device-2"
       },
       {
         "year": 2019,
+        "place": 3,
+        "article": "https://www.hltv.org/news/28864/top-20-players-of-2019-device-3"
+      },
+      {
+        "year": 2020,
         "place": 3
       }
     ],
@@ -1105,35 +712,17 @@
     "ign": "flamie",
     "id": 7594,
     "name": "Egor Vasilyev",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/G_8at4LFNilIDpyfjdzA2M.png?ixlib=java-2.1.0&w=400&s=56c00fc06ae71b2c33e27c2225c2bd5e",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/_SqhwqFW01KWm3Y47uoDgW.png?ixlib=java-2.1.0&w=400&s=fd7f7728b3e5fb1edd978a04d04ea115",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
         "year": 2015,
-        "place": 14
+        "place": 14,
+        "article": "https://www.hltv.org/news/16740-top-20-players-of-2015-flamie-14"
       },
       {
         "year": 2016,
-        "place": 12
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 12,
+        "article": "https://www.hltv.org/news/19591-top-20-players-of-2016-flamie-12"
       }
     ],
     "country": "RU",
@@ -1146,32 +735,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/LfJUQomhrHmiHoxhVP_nt6.png?ixlib=java-2.1.0&w=400&s=0fd35b55531bad8d517c9d3e472d9b41",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
         "year": 2015,
-        "place": 15
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 15,
+        "article": "https://www.hltv.org/news/16732-top-20-players-of-2015-cajunb-15"
       }
     ],
     "country": "DK",
@@ -1184,32 +750,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/Dtie1BObTOS4tyZg4dnbGg.png?ixlib=java-2.1.0&w=400&s=1b2d9b5ce01b1b71c326e43c9a7b5e42",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
         "year": 2015,
-        "place": 17
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 17,
+        "article": "https://www.hltv.org/news/16715-top-20-players-of-2015-neo-17"
       }
     ],
     "country": "PL",
@@ -1222,32 +765,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/5kX6vHZyET7WnPT9VZeje_.png?ixlib=java-2.1.0&w=400&s=56a5d8dddad10a14e913a4ac9fff2363",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
         "year": 2015,
-        "place": 19
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 19,
+        "article": "https://www.hltv.org/news/16707-top-20-players-of-2015-allu-19"
       }
     ],
     "country": "FI",
@@ -1260,32 +780,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/B7sQ4zEQD21KO1ahJMufzF.png?ixlib=java-2.1.0&w=400&s=770f85f9c6562b9c32e2322f747a7b23",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
         "year": 2015,
-        "place": 20
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 20,
+        "article": "https://www.hltv.org/news/16703-top-20-players-of-2015-skadoodle-20"
       }
     ],
     "country": "US",
@@ -1298,32 +795,19 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/q1FEKlj4Xp2IjCQ8bTTfzK.png?ixlib=java-2.1.0&w=400&s=37310575c10a3364302f8d30cd48fc9a",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/19662-top-20-players-of-2016-coldzera-1"
       },
       {
         "year": 2017,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/22516/top-20-players-of-2017-coldzera-1"
       },
       {
         "year": 2018,
-        "place": 10
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 10,
+        "article": "https://www.hltv.org/news/25809/top-20-players-of-2018-coldzera-10"
       }
     ],
     "country": "BR",
@@ -1336,32 +820,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/E0C5tDBWbs8moyn4CeUM7k.png?ixlib=java-2.1.0&w=400&s=de8c251219e1c8b201cc48d847d09d60",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/19655-top-20-players-of-2016-fallen-2"
       },
       {
         "year": 2017,
-        "place": 6
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 6,
+        "article": "https://www.hltv.org/news/22446/top-20-players-of-2017-fallen-6"
       }
     ],
     "country": "BR",
@@ -1371,34 +837,30 @@
     "ign": "s1mple",
     "id": 7998,
     "name": "Aleksandr Kostyliev",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/dSLivBe1epSlYLu6pSG3xf.png?ixlib=java-2.1.0&w=400&s=7eda113193754102b9264da672809578",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/QNTzHmdKTV1o6HWOQyWHdA.png?ixlib=java-2.1.0&w=400&s=b01c4fdb6b3cde55c6a7aac872bd175e",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 4
+        "place": 4,
+        "article": "https://www.hltv.org/news/19642-top-20-players-of-2016-s1mple-4"
       },
       {
         "year": 2017,
-        "place": 8
+        "place": 8,
+        "article": "https://www.hltv.org/news/22421/top-20-players-of-2017-s1mple-8"
       },
       {
         "year": 2018,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/25880/top-20-players-of-2018-s1mple-1"
       },
       {
         "year": 2019,
+        "place": 2,
+        "article": "https://www.hltv.org/news/28874/top-20-players-of-2019-s1mple-2"
+      },
+      {
+        "year": 2020,
         "place": 2
       }
     ],
@@ -1412,32 +874,29 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/SCtIOZvt98WoZNgw8VGAQ4.png?ixlib=java-2.1.0&w=400&s=bfdefc07140162f3c84005536b935dd3",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 11
+        "place": 11,
+        "article": "https://www.hltv.org/news/19593-top-20-players-of-2016-niko-11"
       },
       {
         "year": 2017,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/22510/top-20-players-of-2017-niko-2"
       },
       {
         "year": 2018,
-        "place": 3
+        "place": 3,
+        "article": "https://www.hltv.org/news/25861/top-20-players-of-2018-niko-3"
       },
       {
         "year": 2019,
-        "place": 11
+        "place": 11,
+        "article": "https://www.hltv.org/news/28814/top-20-players-of-2019-niko-11"
+      },
+      {
+        "year": 2020,
+        "place": 4,
+        "article": "https://www.hltv.org/news/31000/top-20-players-of-2020-niko-4"
       }
     ],
     "country": "BA",
@@ -1450,32 +909,24 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/MlU-FvS0jxq7tGkQZmuy9F.png?ixlib=java-2.1.0&w=400&s=5a14b8b67ed91d2c3a553d807e724ba4",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 14
-      },
-      {
-        "year": 2017,
-        "place": null
+        "place": 14,
+        "article": "https://www.hltv.org/news/19583-top-20-players-of-2016-magiskb0y-14"
       },
       {
         "year": 2018,
-        "place": 7
+        "place": 7,
+        "article": "https://www.hltv.org/news/25823/top-20-players-of-2018-magisk-7"
       },
       {
         "year": 2019,
-        "place": 5
+        "place": 5,
+        "article": "https://www.hltv.org/news/28847/top-20-players-of-2019-magisk-5"
+      },
+      {
+        "year": 2020,
+        "place": 11,
+        "article": "https://www.hltv.org/news/30940/top-20-players-of-2020-magisk-11"
       }
     ],
     "country": "DK",
@@ -1488,32 +939,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/SCMOFHFHPg_Fy2mPuYcS4r.png?ixlib=java-2.1.0&w=400&s=baefdca10445f103eaaef864c5214feb",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 15
+        "place": 15,
+        "article": "https://www.hltv.org/news/19581-top-20-players-of-2016-fer-15"
       },
       {
         "year": 2017,
-        "place": 3
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 3,
+        "article": "https://www.hltv.org/news/22504/top-20-players-of-2017-fer-3"
       }
     ],
     "country": "BR",
@@ -1526,32 +959,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/PhZv4LP7teu3UGER2c8lAt.png?ixlib=java-2.1.0&w=400&s=a4644f97cd6e825cea79c2de43694faf",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 16
+        "place": 16,
+        "article": "https://www.hltv.org/news/19575-top-20-players-of-2016-kjaerbye-16"
       },
       {
         "year": 2017,
-        "place": 15
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 15,
+        "article": "https://www.hltv.org/news/22371/top-20-players-of-2017-kjaerbye-15"
       }
     ],
     "country": "DK",
@@ -1564,32 +979,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/UjFv1NBK1RCWmH50U3z-7F.png?ixlib=java-2.1.0&w=400&s=db0c935f79c9769df6541555001b01ee",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 19
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 19,
+        "article": "https://www.hltv.org/news/19562-top-20-players-of-2016-fnx-19"
       }
     ],
     "country": "BR",
@@ -1602,32 +994,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/RvtQuWYcInDcsyhbFGzLz0.png?ixlib=java-2.1.0&w=400&s=8a4dd0eabce2c99b7c5d82dbded9f89b",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
         "year": 2016,
-        "place": 20
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 20,
+        "article": "https://www.hltv.org/news/19560-top-20-players-of-2016-dennis-20"
       }
     ],
     "country": "SE",
@@ -1640,32 +1009,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/Qj0K3f_vvbGB_MdWOex9da.png?ixlib=java-2.1.0&w=400&s=a8e955b70340f9248cccd22443a159fe",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
         "year": 2017,
-        "place": 4
+        "place": 4,
+        "article": "https://www.hltv.org/news/22481/top-20-players-of-2017-rain-4"
       },
       {
         "year": 2018,
-        "place": 18
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 18,
+        "article": "https://www.hltv.org/news/25754/top-20-players-of-2018-rain-18"
       }
     ],
     "country": "NO",
@@ -1678,32 +1029,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/urrrsrA1bxzO4aLVrDcB_a.png?ixlib=java-2.1.0&w=400&s=1c37688dbbef68b1668db7fbe515c2f4",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
         "year": 2017,
-        "place": 11
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 11,
+        "article": "https://www.hltv.org/news/22403/top-20-players-of-2017-hobbit-11"
       }
     ],
     "country": "KZ",
@@ -1716,32 +1044,24 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/YQMbQk5HIRApZFVG3rujIr.png?ixlib=java-2.1.0&w=400&s=81e5207f607d4c7ebe4400ab8c4b1b76",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
         "year": 2017,
-        "place": 12
+        "place": 12,
+        "article": "https://www.hltv.org/news/22395/top-20-players-of-2017-elige-12"
       },
       {
         "year": 2018,
-        "place": 15
+        "place": 15,
+        "article": "https://www.hltv.org/news/25770/top-20-players-of-2018-elige-15"
       },
       {
         "year": 2019,
-        "place": 4
+        "place": 4,
+        "article": "https://www.hltv.org/news/28858/top-20-players-of-2019-elige-4"
+      },
+      {
+        "year": 2020,
+        "place": 8,
+        "article": "https://www.hltv.org/news/30969/top-20-players-of-2020-elige-8"
       }
     ],
     "country": "US",
@@ -1754,32 +1074,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/C0YGPoEtdEQ3b-dz4lSAhh.png?ixlib=java-2.1.0&w=400&s=3926066063bc495572739b363d6e7e57",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
         "year": 2017,
-        "place": 14
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 14,
+        "article": "https://www.hltv.org/news/22382/top-20-players-of-2017-k0nfig-14"
       }
     ],
     "country": "DK",
@@ -1792,32 +1089,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/U3OugaqzyPwtWVpLxbZm0O.png?ixlib=java-2.1.0&w=400&s=7df9b9f52163dae03847976ea4894109",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
         "year": 2017,
-        "place": 16
+        "place": 16,
+        "article": "https://www.hltv.org/news/22367/top-20-players-of-2017-oskar-16"
       },
       {
         "year": 2018,
-        "place": 14
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 14,
+        "article": "https://www.hltv.org/news/25777/top-20-players-of-2018-oskar-14"
       }
     ],
     "country": "CZ",
@@ -1830,32 +1109,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/f5RelpQ3Q8piOfP3yFozE8.png?ixlib=java-2.1.0&w=400&s=0637304f8e89955df24e50d634530400",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
         "year": 2017,
-        "place": 17
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 17,
+        "article": "https://www.hltv.org/news/22360/top-20-players-of-2017-adren-17"
       }
     ],
     "country": "KZ",
@@ -1868,32 +1124,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/Tm_nIDsmGZXt2fD4yJPfVx.png?ixlib=java-2.1.0&w=400&s=536e052a5c8baa803af21d7d9531385b",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
         "year": 2017,
-        "place": 18
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 18,
+        "article": "https://www.hltv.org/news/22357/top-20-players-of-2017-boltz-18"
       }
     ],
     "country": "BR",
@@ -1903,35 +1136,22 @@
     "ign": "electronic",
     "id": 8918,
     "name": "Denis Sharipov",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/B1PLJOPtXYCKXEy0peFT2A.png?ixlib=java-2.1.0&w=400&s=7368b948e89242a5d76566d5c6726f22",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/cTjURwImqhm9D4BXDcQsBe.png?ixlib=java-2.1.0&w=400&s=4fc8cbbcba94b939a9885aad2bac421f",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 4
+        "place": 4,
+        "article": "https://www.hltv.org/news/25848/top-20-players-of-2018-electronic-4"
       },
       {
         "year": 2019,
-        "place": 6
+        "place": 6,
+        "article": "https://www.hltv.org/news/28840/top-20-players-of-2019-electronic-6"
+      },
+      {
+        "year": 2020,
+        "place": 5,
+        "article": "https://www.hltv.org/news/30998/top-20-players-of-2020-electronic-5"
       }
     ],
     "country": "RU",
@@ -1944,32 +1164,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/vgRnVqGhGuPULEh6zsqa8_.png?ixlib=java-2.1.0&w=400&s=fcfcbe389a5b6f388468c9db9c4431ca",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 6
+        "place": 6,
+        "article": "https://www.hltv.org/news/25827/top-20-players-of-2018-naf-6"
       },
       {
         "year": 2019,
-        "place": 7
+        "place": 7,
+        "article": "https://www.hltv.org/news/28837/top-20-players-of-2019-naf-7"
       }
     ],
     "country": "CA",
@@ -1982,32 +1184,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/XrOWRACzHSb71Dul1WFXyo.png?ixlib=java-2.1.0&w=400&s=418c18e543618d5c2de30ea34206ed5b",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 8
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 8,
+        "article": "https://www.hltv.org/news/25815/top-20-players-of-2018-gla1ve-8"
       }
     ],
     "country": "DK",
@@ -2020,32 +1199,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/AwTGJ2itqXDRWIR21BdFDX.png?ixlib=java-2.1.0&w=400&s=264a7b498c3258fbce1f13f6740a4b8a",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 12
+        "place": 12,
+        "article": "https://www.hltv.org/news/25790/top-20-players-of-2018-twistzz-12"
       },
       {
         "year": 2019,
-        "place": 9
+        "place": 9,
+        "article": "https://www.hltv.org/news/28822/top-20-players-of-2019-twistzz-9"
       }
     ],
     "country": "CA",
@@ -2058,32 +1219,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/S1ocfmrCezvIcUfanbrBLk.png?ixlib=java-2.1.0&w=400&s=9bc33cad620aad1f3cfd99d6c44a2f95",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 16
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 16,
+        "article": "https://www.hltv.org/news/25763/top-20-players-of-2018-sunny-16"
       }
     ],
     "country": "FI",
@@ -2096,32 +1234,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/AzlEZTCCL0fy5_fe2NY1zI.png?ixlib=java-2.1.0&w=400&s=049de4803b82905f51471f471fd37898",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 17
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 17,
+        "article": "https://www.hltv.org/news/25758/top-20-players-of-2018-autimatic-17"
       }
     ],
     "country": "US",
@@ -2134,32 +1249,19 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/XQFIc6MIYUmKeNZkJJDe9p.png?ixlib=java-2.1.0&w=400&s=a56ca06fe539246da203540d7dd893eb",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 19
+        "place": 19,
+        "article": "https://www.hltv.org/news/25749/top-20-players-of-2018-ropz-19"
       },
       {
         "year": 2019,
-        "place": 10
+        "place": 10,
+        "article": "https://www.hltv.org/news/28816/top-20-players-of-2019-ropz-10"
+      },
+      {
+        "year": 2020,
+        "place": 7,
+        "article": "https://www.hltv.org/news/30978/top-20-players-of-2020-ropz-7"
       }
     ],
     "country": "EE",
@@ -2172,32 +1274,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/TF69_F-myC56vtIk6nOoYa.png?ixlib=java-2.1.0&w=400&s=48f2ea3c3640a664d9e27c69a554feed",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
         "year": 2018,
-        "place": 20
-      },
-      {
-        "year": 2019,
-        "place": null
+        "place": 20,
+        "article": "https://www.hltv.org/news/25746/top-20-players-of-2018-valde-20"
       }
     ],
     "country": "DK",
@@ -2210,31 +1289,12 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/mxdFjJ-XPIwD6Nsg5TIHtt.png?ixlib=java-2.1.0&w=400&s=f5459b192878149745e7dd1255fd494c",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
+        "place": 1,
+        "article": "https://www.hltv.org/news/28877/top-20-players-of-2019-zywoo-1"
+      },
+      {
+        "year": 2020,
         "place": 1
       }
     ],
@@ -2248,32 +1308,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/BJUbRqoT5oxtYivntZD-Mm.png?ixlib=java-2.1.0&w=400&s=081fdf41947af28c187dd7eb9db0512a",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
-        "place": 8
+        "place": 8,
+        "article": "https://www.hltv.org/news/28827/top-20-players-of-2019-brehze-8"
+      },
+      {
+        "year": 2020,
+        "place": 20,
+        "article": "https://www.hltv.org/news/30899/top-20-players-of-2020-brehze-20"
       }
     ],
     "country": "US",
@@ -2286,32 +1328,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/iBaDcTTxzaitqkTlKcCGs0.png?ixlib=java-2.1.0&w=400&s=69853a603f1a29470c458e68371cd185",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
-        "place": 12
+        "place": 12,
+        "article": "https://www.hltv.org/news/28800/top-20-players-of-2019-woxic-12"
       }
     ],
     "country": "TR",
@@ -2324,32 +1343,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/7g0pv6d7gg6rRz4xS9ZkMp.png?ixlib=java-2.1.0&w=400&s=6658e141e43d5af5f656d99b20d1af6b",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
-        "place": 13
+        "place": 13,
+        "article": "https://www.hltv.org/news/28794/top-20-players-of-2019-sergej-13"
       }
     ],
     "country": "FI",
@@ -2362,32 +1358,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/_OoPp1FbcVxBpdltQcZMkg.png?ixlib=java-2.1.0&w=400&s=fe1bd5fd944e38ade9d36ec9fef7fbbc",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
-        "place": 15
+        "place": 15,
+        "article": "https://www.hltv.org/news/28777/top-20-players-of-2019-jks-15"
+      },
+      {
+        "year": 2020,
+        "place": 19,
+        "article": "https://www.hltv.org/news/30902/top-20-players-of-2020-jks-19"
       }
     ],
     "country": "AU",
@@ -2400,32 +1378,9 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/4YmrqWuRd_0DDVjw3QvY9Z.png?ixlib=java-2.1.0&w=400&s=4e8381dabe8e114c2aa1a418d703b008",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
-        "place": 18
+        "place": 18,
+        "article": "https://www.hltv.org/news/28754/top-20-players-of-2019-cerq-18"
       }
     ],
     "country": "BG",
@@ -2438,32 +1393,14 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/-i36IRt7p_72sbT3mOsEms.png?ixlib=java-2.1.0&w=400&s=a4008d11524f143eb5936c9b9ccf36b0",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
-        "place": 19
+        "place": 19,
+        "article": "https://www.hltv.org/news/28753/top-20-players-of-2019-brollan-19"
+      },
+      {
+        "year": 2020,
+        "place": 15,
+        "article": "https://www.hltv.org/news/30916/top-20-players-of-2020-brollan-15"
       }
     ],
     "country": "SE",
@@ -2476,35 +1413,117 @@
     "image": "https://img-cdn.hltv.org/playerbodyshot/nDllzFfgWtELdebd026uQi.png?ixlib=java-2.1.0&w=400&s=73684a01447ccebd44405fe5c91ef1af",
     "rankings": [
       {
-        "year": 2013,
-        "place": null
-      },
-      {
-        "year": 2014,
-        "place": null
-      },
-      {
-        "year": 2015,
-        "place": null
-      },
-      {
-        "year": 2016,
-        "place": null
-      },
-      {
-        "year": 2017,
-        "place": null
-      },
-      {
-        "year": 2018,
-        "place": null
-      },
-      {
         "year": 2019,
-        "place": 20
+        "place": 20,
+        "article": "https://www.hltv.org/news/28751/top-20-players-of-2019-ethan-20"
       }
     ],
     "country": "US",
     "profileUrl": "https://www.hltv.org/player/10671/Ethan"
+  },
+  {
+    "ign": "blameF",
+    "id": 15165,
+    "name": "Benjamin Bremer",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/EWA11zzEpgER2F1k0311MF.png?ixlib=java-2.1.0&w=400&s=254f187e9aa0e6b22c52b6179e7a9646",
+    "rankings": [
+      {
+        "year": 2020,
+        "place": 6,
+        "article": "https://www.hltv.org/news/30990/top-20-players-of-2020-blamef-6"
+      }
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/15165/blameF"
+  },
+  {
+    "ign": "syrsoN",
+    "id": 7266,
+    "name": "Florian Rische",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Ryh8TmyLFUZb7Fx9S8Rfbv.png?ixlib=java-2.1.0&w=400&s=3a1d19355248542dec1dd00eaa58057e",
+    "rankings": [
+      {
+        "year": 2020,
+        "place": 10,
+        "article": "https://www.hltv.org/news/30946/top-20-players-of-2020-syrson-10"
+      }
+    ],
+    "country": "DE",
+    "profileUrl": "https://www.hltv.org/player/7266/syrsoN"
+  },
+  {
+    "ign": "stavn",
+    "id": 10994,
+    "name": "Martin Lund",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/ebX1nyC7pzo5bLwDtkmabc.png?ixlib=java-2.1.0&w=400&s=b7d89bbe33cc30d2f3444f90a14fdf39",
+    "rankings": [
+      {
+        "year": 2020,
+        "place": 12,
+        "article": "https://www.hltv.org/news/30935/top-20-players-of-2020-stavn-12"
+      }
+    ],
+    "country": "DK",
+    "profileUrl": "https://www.hltv.org/player/10994/stavn"
+  },
+  {
+    "ign": "huNter-",
+    "id": 3972,
+    "name": "Nemanja Kovač",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/mKiTcXXfqNk0Xnc7nGqRHD.png?ixlib=java-2.1.0&w=400&s=37e518916484db99db38e90f47fab0de",
+    "rankings": [
+      {
+        "year": 2020,
+        "place": 13,
+        "article": "https://www.hltv.org/news/30931/top-20-players-of-2020-hunter-13"
+      }
+    ],
+    "country": "BA",
+    "profileUrl": "https://www.hltv.org/player/3972/huNter-"
+  },
+  {
+    "ign": "yuurih",
+    "id": 12553,
+    "name": "Yuri Santos",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/NHup0M7pTlwUQkqw6fr4TS.png?ixlib=java-2.1.0&w=400&s=d54f76f887b4bf6b27dd8d72554c6412",
+    "rankings": [
+      {
+        "year": 2020,
+        "place": 14,
+        "article": "https://www.hltv.org/news/30925/top-20-players-of-2020-yuurih-14"
+      }
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/12553/yuurih"
+  },
+  {
+    "ign": "HEN1",
+    "id": 8565,
+    "name": "Henrique Teles",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/EzvijKP3ouqz8NGwajAZhw.png?ixlib=java-2.1.0&w=400&s=17d5233ee597fd0d03afb4fa59bbd1ad",
+    "rankings": [
+      {
+        "year": 2020,
+        "place": 16,
+        "article": "https://www.hltv.org/news/30913/top-20-players-of-2020-hen1-16"
+      }
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/8565/HEN1"
+  },
+  {
+    "ign": "KSCERATO",
+    "id": 15631,
+    "name": "Kaike Cerato",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/NPTEZFDCgoIvdQ3SR5knzq.png?ixlib=java-2.1.0&w=400&s=e2ceac8963fa8b284b81fece4758b8ff",
+    "rankings": [
+      {
+        "year": 2020,
+        "place": 18,
+        "article": "https://www.hltv.org/news/30904/top-20-players-of-2020-kscerato-18"
+      }
+    ],
+    "country": "BR",
+    "profileUrl": "https://www.hltv.org/player/15631/KSCERATO"
   }
 ]
