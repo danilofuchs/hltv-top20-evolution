@@ -16,7 +16,6 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <title>HLTV.org Top 20 Evolution</title>
           <meta
             name="description"
             content="Player ranking evolution on HLTV Top 20, since 2013"
