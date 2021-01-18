@@ -43,8 +43,21 @@ export function PlayerCard(props: { player: Player | null }) {
         {player.rankings.map(
           (ranking) =>
             ranking.place && (
-              <li>
-                {ranking.year}: #{ranking.place}
+              <li key={ranking.year}>
+                {ranking.article ? (
+                  <a
+                    className={styles.rankingArticleLink}
+                    href={ranking.article}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {ranking.year}: #{ranking.place}
+                  </a>
+                ) : (
+                  <>
+                    {ranking.year}: #{ranking.place}
+                  </>
+                )}
               </li>
             )
         )}
