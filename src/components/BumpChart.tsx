@@ -111,7 +111,11 @@ export function BumpChart(props: Props) {
       domain={{ y: [1, 20] }}
       domainPadding={15}
       containerComponent={
-        <VictoryVoronoiContainer voronoiPadding={5} onActivated={onActivated} />
+        <VictoryVoronoiContainer
+          voronoiPadding={5}
+          onActivated={onActivated}
+          style={{ height: "unset" }}
+        />
       }
     >
       <VictoryAxis
