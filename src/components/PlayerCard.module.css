@@ -23,7 +23,7 @@
 
   max-width: 350px;
 
-  justify-items: center;
+  justify-items: start;
 
   grid-auto-rows: min-content;
 
@@ -35,8 +35,6 @@
 @media only screen and (min-width: 1000px) {
   .playerCard {
     max-width: unset;
-
-    justify-items: start;
   }
 }
 

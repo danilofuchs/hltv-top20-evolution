@@ -96,6 +96,12 @@ export function BumpChart(props: Props) {
     }
   }, []);
 
+  const baseStyle = {
+    fontFamily: '"Poppins", sans-serif',
+    fontSize: "11px",
+    fontWeight: "500",
+  };
+
   return (
     <VictoryChart
       height={600}
@@ -115,9 +121,15 @@ export function BumpChart(props: Props) {
             stroke: "#e0e0e0",
             strokeDasharray: "4 1",
           },
+          tickLabels: { ...baseStyle, fontSize: "1rem" },
         }}
       />
-      <VictoryAxis tickFormat={(year) => year.toString()} />
+      <VictoryAxis
+        tickFormat={(year) => year.toString()}
+        style={{
+          tickLabels: { ...baseStyle, fontSize: "1rem" },
+        }}
+      />
       {playersWithPadding.map((player) => (
         <VictoryLine
           key={player.name}
@@ -135,6 +147,7 @@ export function BumpChart(props: Props) {
               strokeLinecap: "round",
               opacity: (data) => (data.active ? "100%" : "60%"),
             },
+            labels: baseStyle,
           }}
           interpolation="monotoneX"
         />
