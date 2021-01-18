@@ -12,7 +12,7 @@ export interface Player {
 
 export interface PlayerRank {
   year: number;
-  place: number;
+  place: number | null;
   article?: string;
   shouldLabel?: boolean;
 }

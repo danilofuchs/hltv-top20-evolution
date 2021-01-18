@@ -6,19 +6,37 @@ import {
   VictoryLine,
   VictoryVoronoiContainer,
 } from "victory";
-import { Player, PlayerRank } from "@src/entities/player";
+import { Player, PlayerRank, YearRanking } from "@src/entities/player";
 import React, { useCallback, useMemo } from "react";
 
 interface Props {
   players: Player[];
+  rankings: YearRanking[];
   onPlayerClick: (player: Player) => void;
 }
 export function BumpChart(props: Props) {
-  const { players } = props;
+  const { players, rankings } = props;
+
+  const years = rankings.map((ranking) => ranking.year);
+
+  const playersWithHoles: Player[] = useMemo(
+    () =>
+      players.map((player) => ({
+        ...player,
+        rankings: years.map(
+          (year) =>
+            player.rankings.find((ranking) => ranking.year === year) || {
+              year,
+              place: null,
+            }
+        ),
+      })),
+    [players]
+  );
 
   const playersWithLabels: Player[] = useMemo(
     () =>
-      players.map((player) => {
+      playersWithHoles.map((player) => {
         const rankings: PlayerRank[] = [];
         for (let i = 0; i < player.rankings.length; i++) {
           if (player.rankings[i].place !== null) {
@@ -49,7 +67,7 @@ export function BumpChart(props: Props) {
           rankings,
         };
       }),
-    [players]
+    [playersWithHoles]
   );
 
   // Add padding so the lines stay longer at the year

@@ -3,6 +3,7 @@ import Head from "next/head";
 import clsx from "clsx";
 import { Player } from "@src/entities/player";
 import playersJson from "@src/data/players.json";
+import rankingsJson from "@src/data/rankings.json";
 
 import { getPlayerColor } from "@src/utils/color";
 import styles from "./index.module.css";
@@ -46,7 +47,11 @@ export default function Home() {
         </h1>
         <div className={styles.content}>
           <div className={clsx(styles.card, styles.chartCard)}>
-            <BumpChart players={players} onPlayerClick={onPlayerClick} />
+            <BumpChart
+              players={players}
+              rankings={rankingsJson.rankings}
+              onPlayerClick={onPlayerClick}
+            />
           </div>
           <div className={styles.playerCard}>
             <PlayerCard player={selectedPlayer} />
