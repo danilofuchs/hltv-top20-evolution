@@ -24,7 +24,7 @@ class MyDocument extends Document {
             name="keywords"
             content="CS:GO, HLTV, Gamer, Chart, Counter Strike"
           />
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/favicon.png" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
 
           <link
