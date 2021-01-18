@@ -50,6 +50,7 @@
 .photo {
   height: 200px;
   object-fit: contain;
+  justify-self: center;
 
   box-sizing: border-box;
 }
