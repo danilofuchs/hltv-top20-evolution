@@ -16,9 +16,10 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+          <title>HLTV.org Top 20 Evolution</title>
           <meta
             name="description"
-            content="Compare players evolution on HLTV Top 20"
+            content="Player ranking evolution on HLTV Top 20, since 2013"
           />
           <meta
             name="keywords"
@@ -27,13 +28,10 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.png" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <meta property="og:locale" content="en_US" />
-          <meta
-            property="og:title"
-            content="Compare players evolution on HLTV.org Top 20"
-          />
+          <meta property="og:title" content="HLTV.org Top 20 Evolution" />
           <meta
             property="og:description"
-            content="Compare each CS:GO player featured in HLTV Top 20 across time, since 2013"
+            content="Player ranking evolution on HLTV Top 20, since 2013"
           />
           <meta
             property="og:image"
