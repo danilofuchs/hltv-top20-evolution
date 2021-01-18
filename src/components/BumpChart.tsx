@@ -17,7 +17,9 @@ interface Props {
 export function BumpChart(props: Props) {
   const { players, rankings } = props;
 
-  const years = rankings.map((ranking) => ranking.year);
+  const years = useMemo(() => rankings.map((ranking) => ranking.year), [
+    rankings,
+  ]);
 
   const playersWithHoles: Player[] = useMemo(
     () =>
@@ -31,7 +33,7 @@ export function BumpChart(props: Props) {
             }
         ),
       })),
-    [players]
+    [players, years]
   );
 
   const playersWithLabels: Player[] = useMemo(
@@ -126,6 +128,7 @@ export function BumpChart(props: Props) {
       />
       <VictoryAxis
         tickFormat={(year) => year.toString()}
+        tickValues={years}
         style={{
           tickLabels: { ...baseStyle, fontSize: "1rem" },
         }}
