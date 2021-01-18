@@ -12,9 +12,7 @@ export function PlayerCard(props: { player: Player | null }) {
     return (
       <div className={clsx(styles.card, styles.playerCard)}>
         <Avatar />
-        <p className={styles.ign}>
-          Select a player on the graph to see details
-        </p>
+        <h2>Select a player on the graph to see details</h2>
       </div>
     );
   }

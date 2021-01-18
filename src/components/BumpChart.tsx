@@ -133,9 +133,27 @@ export function BumpChart(props: Props) {
       <VictoryAxis
         tickFormat={(year) => year.toString()}
         tickValues={years}
-        style={{
-          tickLabels: { ...baseStyle, fontSize: 16 },
-        }}
+        tickLabelComponent={
+          <VictoryLabel
+            events={{
+              onClick: (e) => {
+                const year = parseInt((e.target as HTMLSpanElement).innerHTML);
+                const ranking = rankings.find(
+                  (ranking) => ranking.year === year
+                );
+                if (ranking && ranking.article) {
+                  window.open(ranking.article, "_blank");
+                }
+              },
+            }}
+            style={{
+              ...baseStyle,
+              fontSize: 16,
+              fill: "var(--link-color)",
+              cursor: "pointer",
+            }}
+          />
+        }
       />
       {playersWithPadding.map((player) => (
         <VictoryLine
