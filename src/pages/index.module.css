@@ -8,12 +8,18 @@
 }
 
 .main {
-  padding: 5rem 0;
+  padding: 2.5rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+@media only screen and (min-width: 1000px) {
+  .main {
+    padding: 5rem 0;
+  }
 }
 
 .title a {
@@ -41,7 +47,7 @@
 }
 
 .content {
-  margin-top: 5rem;
+  margin-top: 2.5rem;
 
   grid-template-columns: auto;
   grid-template-rows: auto auto;
@@ -58,6 +64,8 @@
 
 @media only screen and (min-width: 1000px) {
   .content {
+    margin-top: 5rem;
+
     grid-template-columns: 350px auto;
     grid-template-rows: 1fr;
     grid-template-areas: "player chart";
