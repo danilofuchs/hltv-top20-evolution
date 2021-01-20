@@ -1,7 +1,7 @@
 import { Player } from "@src/entities/player";
 import clsx from "clsx";
 import styles from "./PlayerCard.module.css";
-import React from "react";
+import React, { useMemo } from "react";
 import { Avatar } from "@src/assets/Avatar";
 import { getCountryFlagSrc } from "@src/utils/country";
 
@@ -16,6 +16,12 @@ export function PlayerCard(props: { player: Player | null }) {
       </div>
     );
   }
+
+  const sortedRankings = useMemo(() => {
+    const copy = [...player.rankings];
+    copy.sort((a, b) => b.year - a.year);
+    return copy;
+  }, [player.rankings]);
 
   return (
     <div
@@ -42,7 +48,7 @@ export function PlayerCard(props: { player: Player | null }) {
       </div>
       <div className={styles.divider} />
       <ul>
-        {player.rankings.map(
+        {sortedRankings.map(
           (ranking) =>
             ranking.place && (
               <li key={ranking.year}>
