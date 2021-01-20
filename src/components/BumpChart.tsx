@@ -89,8 +89,11 @@ export function BumpChart(props: Props) {
   const onActivated = useCallback((points: any[]) => {
     for (const point of points) {
       if (point.year && point.place && point.childName) {
-        const ign = point.childName;
-        const player = players.find((player) => player.ign === ign);
+        const idOrIgn = point.childName;
+        const player = players.find(
+          (player) =>
+            player.id?.toString() === idOrIgn || player.ign === idOrIgn
+        );
         if (player) {
           return props.onPlayerClick(player);
         }
@@ -157,9 +160,9 @@ export function BumpChart(props: Props) {
       />
       {playersWithPadding.map((player) => (
         <VictoryLine
-          key={player.name}
+          key={player.id || player.ign}
           data={player.rankings}
-          name={player.ign}
+          name={player.id?.toString() || player.ign}
           x="year"
           y="place"
           labels={(data) => (data.datum.shouldLabel ? player.ign : null)}

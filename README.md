@@ -27,3 +27,10 @@ This [JSON file](./src/data/rankings.json) contains information about every rank
 - `yarn install`
 - `yarn generate`
 - :tada:
+
+### Overrides
+
+Some players have duplicate names (such as `Nico`).
+
+Using [hltv-overrides.json](./src/data/hltv-overrides.json) you can override
+the HLTV API response for this specific ign (in-game-name)
