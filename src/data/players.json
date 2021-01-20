@@ -862,7 +862,8 @@
       },
       {
         "year": 2020,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/31025/top-20-players-of-2020-s1mple-2"
       }
     ],
     "country": "UA",
@@ -1296,7 +1297,8 @@
       },
       {
         "year": 2020,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/31024/top-20-players-of-2020-zywoo-1"
       }
     ],
     "country": "FR",

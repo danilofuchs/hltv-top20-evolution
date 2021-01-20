@@ -748,11 +748,13 @@
       "placings": [
         {
           "place": 1,
-          "player": "ZywOo"
+          "player": "ZywOo",
+          "article": "https://www.hltv.org/news/31024/top-20-players-of-2020-zywoo-1"
         },
         {
           "place": 2,
-          "player": "s1mple"
+          "player": "s1mple",
+          "article": "https://www.hltv.org/news/31025/top-20-players-of-2020-s1mple-2"
         },
         {
           "place": 3,
