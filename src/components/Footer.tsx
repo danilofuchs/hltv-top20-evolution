@@ -5,14 +5,24 @@ import styles from "./Footer.module.css";
 export function Footer() {
   return (
     <footer className={styles.footer}>
+      <div className={styles.author}>
+        <a
+          href="https://github.com/danilofuchs/hltv-top20-evolution"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span>
+            Made by <b>@danilofuchs</b>
+          </span>
+        </a>
+      </div>
       <div className={styles.github}>
         <a
           href="https://github.com/danilofuchs/hltv-top20-evolution"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <span>Made by @danilofuchs </span>
-          <GitHubLogo />
+          <GitHubLogo /> <span>Edit on GitHub</span>
         </a>
       </div>
       <div className={styles.victory}>

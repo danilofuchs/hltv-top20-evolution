@@ -8,6 +8,10 @@
   flex-direction: column;
 }
 
+.author {
+  margin-top: 0.5rem;
+}
+
 .github a {
   display: flex;
   justify-content: center;
@@ -15,10 +19,11 @@
 }
 
 .github span {
-  margin-right: 0.5rem;
+  margin-top: 0.1rem;
 }
 
 .github svg {
+  margin-right: 0.5rem;
   height: 1.5em;
 }
 
