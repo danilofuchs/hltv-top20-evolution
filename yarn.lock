@@ -1066,6 +1066,11 @@ core-util-is@~1.0.0:
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
 
+countries-list@^2.5.6:
+  version "2.5.6"
+  resolved "https://registry.yarnpkg.com/countries-list/-/countries-list-2.5.6.tgz#af237e7d00b2d1283fe766614a945fe5348eefbb"
+  integrity sha512-IEt6KCIzexbR1pTvSJakKCKbqlmHKkEO4oYHN6UCiNToUdN/zXy/1NxiUfZ3ktS0QO/UryCJGPoLkLdYsrAzNw==
+
 create-ecdh@^4.0.0:
   version "4.0.4"
   resolved "https://registry.yarnpkg.com/create-ecdh/-/create-ecdh-4.0.4.tgz#d6e7f4bffa66736085a0762fd3a632684dabcc4e"

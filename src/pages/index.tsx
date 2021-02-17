@@ -9,6 +9,7 @@ import { getPlayerColor } from "@src/utils/color";
 import styles from "./index.module.css";
 
 import { BumpChart } from "@src/components/BumpChart";
+import { CountriesChart } from "@src/components/CountriesChart";
 import { PlayerCard } from "@src/components/PlayerCard";
 import { Footer } from "@src/components/Footer";
 
@@ -55,6 +56,9 @@ export default function Home() {
           </div>
           <div className={styles.playerCard}>
             <PlayerCard player={selectedPlayer} />
+          </div>
+          <div className={styles.countriesCard}>
+            <CountriesChart players={players} />
           </div>
         </div>
       </main>
