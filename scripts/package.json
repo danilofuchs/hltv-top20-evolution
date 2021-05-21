@@ -8,9 +8,9 @@
     "generate": "node --loader ts-node/esm buildPlayerData.ts"
   },
   "devDependencies": {
-    "hltv": "^2.21.1",
+    "hltv": "^3.3.1",
     "ts-node": "^9.1.1",
-    "typescript": "^4.1.3"
+    "typescript": "^4.2.4"
   },
   "engines": {
     "node": ">=14"
