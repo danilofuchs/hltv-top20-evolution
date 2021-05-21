@@ -1,5 +1,5 @@
 import { HLTV } from "hltv";
-import { FullPlayer } from "hltv/lib/models/FullPlayer";
+import { FullPlayer } from "hltv";
 import * as util from "util";
 import * as path from "path";
 import * as fs from "fs";
