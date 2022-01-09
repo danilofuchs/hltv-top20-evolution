@@ -10,6 +10,16 @@
       "country": {
         "code": "DK"
       }
+    },
+    {
+      "ign": "EliGE",
+      "name": "Jonathan Jablonowski",
+      "id": 8738,
+      "profileUrl": "https://www.hltv.org/player/8738/elige",
+      "image": "https://pbs.twimg.com/media/D-5X7b_XsAAgDeZ?format=jpg&name=360x360",
+      "country": {
+        "code": "US"
+      }
     }
   ]
 }

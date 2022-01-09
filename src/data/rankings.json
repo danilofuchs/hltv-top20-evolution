@@ -847,6 +847,47 @@
           "article": "https://www.hltv.org/news/30899/top-20-players-of-2020-brehze-20"
         }
       ]
+    },
+    {
+      "year": 2021,
+      "article": "https://www.hltv.org/news/33039/top-20-players-of-2021-introduction",
+      "placings": [
+        {
+          "place": 1,
+          "player": "s1mple",
+          "article": "https://www.hltv.org/news/33039/top-20-players-of-2021-introduction"
+        },
+        {
+          "place": 15,
+          "player": "KSCERATO",
+          "article": "https://www.hltv.org/news/33082/top-20-players-of-2021-kscerato-15"
+        },
+        {
+          "place": 16,
+          "player": "stavn",
+          "article": "https://www.hltv.org/news/33074/top-20-players-of-2021-stavn-16"
+        },
+        {
+          "place": 17,
+          "player": "Twistzz",
+          "article": "https://www.hltv.org/news/33068/top-20-players-of-2021-twistzz-17"
+        },
+        {
+          "place": 18,
+          "player": "ropz",
+          "article": "https://www.hltv.org/news/33063/top-20-players-of-2021-ropz-18"
+        },
+        {
+          "place": 19,
+          "player": "EliGE",
+          "article": "https://www.hltv.org/news/33050/top-20-players-of-2021-elige-19"
+        },
+        {
+          "place": 20,
+          "player": "broky",
+          "article": "https://www.hltv.org/news/33049/top-20-players-of-2021-broky-20"
+        }
+      ]
     }
   ]
 }
