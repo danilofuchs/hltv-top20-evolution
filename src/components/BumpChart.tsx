@@ -14,7 +14,7 @@ interface Props {
   rankings: YearRanking[];
   onPlayerClick: (player: Player) => void;
 }
-export function BumpChart(props: Props) {
+export const BumpChart = React.memo((props: Props) => {
   const { players, rankings } = props;
 
   const years = useMemo(
@@ -184,4 +184,4 @@ export function BumpChart(props: Props) {
       ))}
     </VictoryChart>
   );
-}
+});
