@@ -18,7 +18,7 @@ class MyDocument extends Document {
         <Head>
           <meta
             name="description"
-            content="Player ranking evolution on HLTV Top 20, since 2013"
+            content="Best CS:GO pro players of all time, ranked across the years"
           />
           <meta
             name="keywords"
@@ -30,15 +30,15 @@ class MyDocument extends Document {
           <meta property="og:title" content="HLTV.org Top 20 Evolution" />
           <meta
             property="og:description"
-            content="Player ranking evolution on HLTV Top 20, since 2013"
+            content="Best CS:GO pro players of all time, ranked across the years"
           />
           <meta
             property="og:image"
-            content="https://hltv.vercel.app/og_image.jpeg"
+            content="https://hltv.vercel.app/og_image.png"
           />
-          <meta property="og:image:type" content="image/jpeg" />
+          <meta property="og:image:type" content="image/png" />
           <meta property="og:image:width" content="1200" />
-          <meta property="og:image:height" content="600" />
+          <meta property="og:image:height" content="630" />
 
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
