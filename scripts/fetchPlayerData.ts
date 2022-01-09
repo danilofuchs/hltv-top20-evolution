@@ -17,8 +17,12 @@ export async function* fetchPlayers(igns: string[]) {
   const json = JSON.parse(file.toString());
   const playerOverrides = json.players as FullPlayer[];
 
-  for (const ign of igns) {
-    console.log(`Fetching data for player ${ign}`);
+  console.log("===== Fetching player data from HTLV =====");
+  console.log("Progress is saved partially");
+
+  for (let i = 0; i < igns.length; i++) {
+    const ign = igns[i];
+    console.log(`[${i + 1}/${igns.length}] ${ign}`);
     try {
       const player = await fetchPlayerWithOverride(ign, playerOverrides);
       // Sleep for 4 seconds to avoid being throttled by Cloudflare
@@ -39,7 +43,12 @@ async function fetchPlayerWithOverride(ign: string, overrides: FullPlayer[]) {
 }
 
 async function fetchPlayer(ign: string) {
-  return await hltv.getPlayerByName({ name: ign });
+  try {
+    return await hltv.getPlayerByName({ name: ign });
+  } catch (error) {
+    console.error(`Error while fetching player ${ign}, retrying once`);
+    return await hltv.getPlayerByName({ name: ign });
+  }
 }
 
 async function sleep(milliseconds: number) {

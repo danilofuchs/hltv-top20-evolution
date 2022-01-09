@@ -46,6 +46,6 @@ async function savePlayersList(players: Player[]) {
   const json = JSON.stringify(players, null, 2);
 
   const outDir = path.join(currentDir, "../src/data/players.json");
-  console.log(`Saving JSON to ${outDir}`);
+
   await writeFile(outDir, json);
 }
