@@ -17,9 +17,10 @@ interface Props {
 export function BumpChart(props: Props) {
   const { players, rankings } = props;
 
-  const years = useMemo(() => rankings.map((ranking) => ranking.year), [
-    rankings,
-  ]);
+  const years = useMemo(
+    () => rankings.map((ranking) => ranking.year),
+    [rankings]
+  );
 
   const playersWithHoles: Player[] = useMemo(
     () =>
@@ -116,6 +117,7 @@ export function BumpChart(props: Props) {
       containerComponent={
         <VictoryVoronoiContainer
           voronoiPadding={5}
+          activateLabels={false}
           onActivated={onActivated}
           style={{ height: "unset" }}
         />

@@ -46,8 +46,20 @@
   }
 }
 
+.subtitle {
+  font-size: 1rem;
+  margin: 0;
+  color: var(--gray);
+}
+
+@media only screen and (min-width: 1000px) {
+  .subtitle {
+    font-size: 2rem;
+  }
+}
+
 .content {
-  margin-top: 2.5rem;
+  margin-top: 1.5rem;
 
   grid-template-columns: auto;
   grid-template-rows: auto auto;
@@ -64,7 +76,7 @@
 
 @media only screen and (min-width: 1000px) {
   .content {
-    margin-top: 5rem;
+    margin-top: 2rem;
 
     grid-template-columns: 350px auto;
     grid-template-rows: 1fr;

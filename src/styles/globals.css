@@ -17,4 +17,5 @@ a {
 :root {
   --divider-color: #e0e0e0;
   --link-color: #0061d3;
+  --gray: rgb(37, 37, 37);
 }

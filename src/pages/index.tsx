@@ -45,6 +45,7 @@ export default function Home() {
           </a>{" "}
           Top 20 Evolution
         </h1>
+        <h2 className={styles.subtitle}>Best CS:GO pro players of all time</h2>
         <div className={styles.content}>
           <div className={clsx(styles.card, styles.chartCard)}>
             <BumpChart
