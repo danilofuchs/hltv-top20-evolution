@@ -48,7 +48,7 @@ class MyDocument extends Document {
           <script
             async
             src="https://www.googletagmanager.com/gtag/js?id=G-S3NKNK22NJ"
-          ></script>
+          />
           <script
             dangerouslySetInnerHTML={{
               __html: `
@@ -58,7 +58,12 @@ class MyDocument extends Document {
 
                   gtag('config', 'G-S3NKNK22NJ');`,
             }}
-          ></script>
+          />
+          <script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9756679359419346"
+            crossOrigin="anonymous"
+          />
         </Head>
         <body>
           <Main />
