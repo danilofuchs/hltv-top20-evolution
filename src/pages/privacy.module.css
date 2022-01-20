@@ -1,0 +1,18 @@
+.privacyPolicy {
+  margin: 4rem 1rem;
+
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+@media only screen and (min-width: 1000px) {
+  .privacyPolicy {
+    max-width: calc(1000px - 8rem);
+    margin: 4rem auto;
+  }
+}
+
+.privacyPolicy a {
+  color: var(--link-color);
+  text-decoration: underline;
+}
