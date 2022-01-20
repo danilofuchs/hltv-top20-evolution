@@ -43,7 +43,7 @@ const currentDir = path.dirname(url.fileURLToPath(import.meta.url));
 })();
 
 async function savePlayersList(players: Player[]) {
-  const json = JSON.stringify(players, null, 2);
+  const json = JSON.stringify(players, null, 2) + "\n";
 
   const outDir = path.join(currentDir, "../src/data/players.json");
 

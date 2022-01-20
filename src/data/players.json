@@ -393,7 +393,7 @@
     "ign": "dupreeh",
     "id": 7398,
     "name": "Peter Rasmussen",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/91Nn_rUIcxuC-oyzUQxOSY.png?ixlib=java-2.1.0&w=400&s=344759c6631c54a68006d211a0d843de",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/w51KpKi3JwZ94xwRLjygWQ.png?ixlib=java-2.1.0&w=400&s=ee6e01de2f00ebe725545cc9e7d2b8af",
     "rankings": [
       {
         "year": 2013,
@@ -488,7 +488,7 @@
     "ign": "Snax",
     "id": 2553,
     "name": "Janusz Pogorzelski",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/sP8TFuJIMc7s160y1SXAhl.png?ixlib=java-2.1.0&w=400&s=fea46fa60b542eec2e3c9eaac9b15d1f",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/YeYCSV5YqQVunKYCxtBy6f.png?ixlib=java-2.1.0&w=400&s=510de41224ac8a1a11ef37a02941a555",
     "rankings": [
       {
         "year": 2014,
@@ -618,7 +618,7 @@
     "ign": "apEX",
     "id": 7322,
     "name": "Dan Madesclaire",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/bYbZr7IJUPf19jaBqu_86l.png?ixlib=java-2.1.0&w=400&s=481d2a087f22e10d0c6ede340166cd71",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/AZ5oMuPqA7slmzHTjeqqTX.png?ixlib=java-2.1.0&w=400&s=37b78fa3b1e7c63a195049d5cca2ef68",
     "rankings": [
       {
         "year": 2014,
@@ -704,6 +704,11 @@
         "year": 2020,
         "place": 3,
         "article": "https://www.hltv.org/news/31006/top-20-players-of-2020-device-3"
+      },
+      {
+        "year": 2021,
+        "place": 11,
+        "article": "https://www.hltv.org/news/33096/top-20-players-of-2021-device-11"
       }
     ],
     "country": "DK",
@@ -838,7 +843,7 @@
     "ign": "s1mple",
     "id": 7998,
     "name": "Aleksandr Kostyliev",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/GJO4YI4EC6L1LpNFZX13eS.png?ixlib=java-2.1.0&w=400&s=1b49753162ebf20e6d3440f7e377ec55",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/Q2u6AgnDNYQ3dyObwN4JBX.png?ixlib=java-2.1.0&w=400&s=5e19fa63867872bd78409f6e757ff6c3",
     "rankings": [
       {
         "year": 2016,
@@ -864,6 +869,10 @@
         "year": 2020,
         "place": 2,
         "article": "https://www.hltv.org/news/31025/top-20-players-of-2020-s1mple-2"
+      },
+      {
+        "year": 2021,
+        "place": 1
       }
     ],
     "country": "UA",
@@ -899,6 +908,10 @@
         "year": 2020,
         "place": 4,
         "article": "https://www.hltv.org/news/31000/top-20-players-of-2020-niko-4"
+      },
+      {
+        "year": 2021,
+        "place": 3
       }
     ],
     "country": "BA",
@@ -908,7 +921,7 @@
     "ign": "Magisk",
     "id": 9032,
     "name": "Emil Reif",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/PbU7sPhzWVnJOJ0ItLHkwr.png?ixlib=java-2.1.0&w=400&s=8a7fcaffdf8dede9110dc9f4f6466926",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/NpcTEqTRFOOFbIqfqjD9Pj.png?ixlib=java-2.1.0&w=400&s=539b9f6d91d2d91a41d724905089eded",
     "rankings": [
       {
         "year": 2016,
@@ -1025,7 +1038,7 @@
     "profileUrl": "https://www.hltv.org/player/8183/rain"
   },
   {
-    "ign": "Hobbit",
+    "ign": "HObbit",
     "id": 8528,
     "name": "Abay Khasenov",
     "image": "https://img-cdn.hltv.org/playerbodyshot/A14UdvKmEs_ixvzricq4NR.png?ixlib=java-2.1.0&w=400&s=9f1cf934c02e2e5a122258f946d4a125",
@@ -1034,10 +1047,15 @@
         "year": 2017,
         "place": 11,
         "article": "https://www.hltv.org/news/22403/top-20-players-of-2017-hobbit-11"
+      },
+      {
+        "year": 2021,
+        "place": 6,
+        "article": "https://www.hltv.org/news/33123/top-20-players-of-2021-hobbit-6"
       }
     ],
     "country": "KZ",
-    "profileUrl": "https://www.hltv.org/player/8528/Hobbit"
+    "profileUrl": "https://www.hltv.org/player/8528/HObbit"
   },
   {
     "ign": "EliGE",
@@ -1140,10 +1158,10 @@
     "profileUrl": "https://www.hltv.org/player/8568/boltz"
   },
   {
-    "ign": "electronic",
+    "ign": "electroNic",
     "id": 8918,
     "name": "Denis Sharipov",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/_zRrFpLvv9aPaLnNPEauoy.png?ixlib=java-2.1.0&w=400&s=d664fbeda3d4ff7053843e1271f05aef",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/BugxKUSuXiyJVpK4P27Ys1.png?ixlib=java-2.1.0&w=400&s=df57dc790d42aa3c5f8d9c8cd9ffb1cc",
     "rankings": [
       {
         "year": 2018,
@@ -1159,10 +1177,15 @@
         "year": 2020,
         "place": 5,
         "article": "https://www.hltv.org/news/30998/top-20-players-of-2020-electronic-5"
+      },
+      {
+        "year": 2021,
+        "place": 7,
+        "article": "https://www.hltv.org/news/33121/top-20-players-of-2021-electronic-7"
       }
     ],
     "country": "RU",
-    "profileUrl": "https://www.hltv.org/player/8918/electronic"
+    "profileUrl": "https://www.hltv.org/player/8918/electroNic"
   },
   {
     "ign": "NAF",
@@ -1179,6 +1202,11 @@
         "year": 2019,
         "place": 7,
         "article": "https://www.hltv.org/news/28837/top-20-players-of-2019-naf-7"
+      },
+      {
+        "year": 2021,
+        "place": 14,
+        "article": "https://www.hltv.org/news/33083/top-20-players-of-2021-naf-14"
       }
     ],
     "country": "CA",
@@ -1303,7 +1331,7 @@
     "ign": "ZywOo",
     "id": 11893,
     "name": "Mathieu Herbaut",
-    "image": "https://img-cdn.hltv.org/playerbodyshot/FU6cX0sBXlqI-UGYm_92sq.png?ixlib=java-2.1.0&w=400&s=0f5e9fdb4a183bcfb1b1fa7d88b43f08",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/ar42RpUCdD68IaCxZGD1eP.png?ixlib=java-2.1.0&w=400&s=c4da3b7312cb722a003cd82cb4f6c500",
     "rankings": [
       {
         "year": 2019,
@@ -1314,6 +1342,10 @@
         "year": 2020,
         "place": 1,
         "article": "https://www.hltv.org/news/31024/top-20-players-of-2020-zywoo-1"
+      },
+      {
+        "year": 2021,
+        "place": 2
       }
     ],
     "country": "FR",
@@ -1449,6 +1481,11 @@
         "year": 2020,
         "place": 6,
         "article": "https://www.hltv.org/news/30990/top-20-players-of-2020-blamef-6"
+      },
+      {
+        "year": 2021,
+        "place": 13,
+        "article": "https://www.hltv.org/news/33088/top-20-players-of-2021-blamef-13"
       }
     ],
     "country": "DK",
@@ -1499,6 +1536,11 @@
         "year": 2020,
         "place": 13,
         "article": "https://www.hltv.org/news/30931/top-20-players-of-2020-hunter-13"
+      },
+      {
+        "year": 2021,
+        "place": 12,
+        "article": "https://www.hltv.org/news/33091/top-20-players-of-2021-hunter-12"
       }
     ],
     "country": "BA",
@@ -1553,6 +1595,81 @@
     ],
     "country": "BR",
     "profileUrl": "https://www.hltv.org/player/15631/KSCERATO"
+  },
+  {
+    "ign": "sh1ro",
+    "id": 16920,
+    "name": "Dmitry Sokolov",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/BdarGeGFrVkqTeGANja0Gk.png?ixlib=java-2.1.0&w=400&s=aaefd14eb1b03d0e912140ecd65a016d",
+    "rankings": [
+      {
+        "year": 2021,
+        "place": 4,
+        "article": "https://www.hltv.org/news/33137/top-20-players-of-2021-sh1ro-4"
+      }
+    ],
+    "country": "RU",
+    "profileUrl": "https://www.hltv.org/player/16920/sh1ro"
+  },
+  {
+    "ign": "Ax1Le",
+    "id": 16555,
+    "name": "Sergey Rykhtorov",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/nfk2J6cJ_0Fq1tjerx_u_4.png?ixlib=java-2.1.0&w=400&s=c6071374cfeb9361d04bbd36ffa484bf",
+    "rankings": [
+      {
+        "year": 2021,
+        "place": 5,
+        "article": "https://www.hltv.org/news/33130/top-20-players-of-2021-ax1le-5"
+      }
+    ],
+    "country": "RU",
+    "profileUrl": "https://www.hltv.org/player/16555/Ax1Le"
+  },
+  {
+    "ign": "YEKINDAR",
+    "id": 13915,
+    "name": "Mareks Gaļinskis",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/_1usOKJ_u6OiShjeo9e5NH.png?ixlib=java-2.1.0&w=400&s=e4cd2ad913ab8b7ce1b187c7eaf75791",
+    "rankings": [
+      {
+        "year": 2021,
+        "place": 8,
+        "article": "https://www.hltv.org/news/33116/top-20-players-of-2021-yekindar-8"
+      }
+    ],
+    "country": "LV",
+    "profileUrl": "https://www.hltv.org/player/13915/YEKINDAR"
+  },
+  {
+    "ign": "b1t",
+    "id": 18987,
+    "name": "Valeriy Vakhovskiy",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/g-2t7HQ_d55I6VhRnP2URl.png?ixlib=java-2.1.0&w=400&s=90738194ed2b3fa7ded1c26ce0fcc20b",
+    "rankings": [
+      {
+        "year": 2021,
+        "place": 9,
+        "article": "https://www.hltv.org/news/33114/top-20-players-of-2021-b1t-9"
+      }
+    ],
+    "country": "UA",
+    "profileUrl": "https://www.hltv.org/player/18987/b1t"
+  },
+  {
+    "ign": "Jame",
+    "id": 13776,
+    "name": "Dzhami Ali",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/7EC4tcVjT9lW-UTBtHIZm-.png?ixlib=java-2.1.0&w=400&s=ccf790b8f2b224e230e1cc6ebf655c50",
+    "rankings": [
+      {
+        "year": 2021,
+        "place": 10,
+        "article": "https://www.hltv.org/news/33093/top-20-players-of-2021-jame-10"
+      }
+    ],
+    "country": "RU",
+    "profileUrl": "https://www.hltv.org/player/13776/Jame"
   },
   {
     "ign": "broky",
