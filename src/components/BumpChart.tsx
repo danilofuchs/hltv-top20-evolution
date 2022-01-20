@@ -14,8 +14,8 @@ interface Props {
   rankings: YearRanking[];
   onPlayerClick: (player: Player) => void;
 }
-export const BumpChart = React.memo((props: Props) => {
-  const { players, rankings } = props;
+export const BumpChart = React.memo(function BumpChart(props: Props) {
+  const { players, rankings, onPlayerClick } = props;
 
   const years = useMemo(
     () => rankings.map((ranking) => ranking.year),
@@ -87,20 +87,23 @@ export const BumpChart = React.memo((props: Props) => {
     [playersWithLabels]
   );
 
-  const onActivated = useCallback((points: any[]) => {
-    for (const point of points) {
-      if (point.year && point.place && point.childName) {
-        const idOrIgn = point.childName;
-        const player = players.find(
-          (player) =>
-            player.id?.toString() === idOrIgn || player.ign === idOrIgn
-        );
-        if (player) {
-          return props.onPlayerClick(player);
+  const onActivated = useCallback(
+    (points: any[]) => {
+      for (const point of points) {
+        if (point.year && point.place && point.childName) {
+          const idOrIgn = point.childName;
+          const player = players.find(
+            (player) =>
+              player.id?.toString() === idOrIgn || player.ign === idOrIgn
+          );
+          if (player) {
+            return onPlayerClick(player);
+          }
         }
       }
-    }
-  }, []);
+    },
+    [onPlayerClick, players]
+  );
 
   const baseStyle = {
     fontFamily: '"Poppins", sans-serif',

@@ -4,9 +4,19 @@ import styles from "./PlayerCard.module.css";
 import React, { useMemo } from "react";
 import { Avatar } from "@src/assets/Avatar";
 import { getCountryFlagSrc } from "@src/utils/country";
+import Image from "next/image";
 
 export function PlayerCard(props: { player: Player | null }) {
   const { player } = props;
+
+  const sortedRankings = useMemo(() => {
+    if (!player) {
+      return [];
+    }
+    const copy = [...player.rankings];
+    copy.sort((a, b) => b.year - a.year);
+    return copy;
+  }, [player]);
 
   if (!player) {
     return (
@@ -17,18 +27,21 @@ export function PlayerCard(props: { player: Player | null }) {
     );
   }
 
-  const sortedRankings = useMemo(() => {
-    const copy = [...player.rankings];
-    copy.sort((a, b) => b.year - a.year);
-    return copy;
-  }, [player.rankings]);
-
   return (
     <div
       className={clsx(styles.card, styles.playerCard)}
       style={{ borderColor: player.color }}
     >
-      <img className={styles.photo} src={player.image} />
+      {player.image ? (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          alt={`Player ${player.ign}`}
+          className={styles.photo}
+          src={player.image}
+        />
+      ) : (
+        <Avatar />
+      )}
       <a
         target="_blank"
         rel="noopener noreferrer"
@@ -39,12 +52,20 @@ export function PlayerCard(props: { player: Player | null }) {
       </a>
       <div className={styles.subtitle}>
         {player.country && (
-          <img
-            className={styles.flag}
+          <Image
+            alt={`Flag of the player's country (${player.country})`}
+            width={22}
+            height={22}
             src={getCountryFlagSrc(player.country)}
           />
         )}
-        <h3 className={styles.name}>{player.name}</h3>
+        <h3
+          className={clsx(styles.name, {
+            [styles.nameWithMargin]: player.country,
+          })}
+        >
+          {player.name}
+        </h3>
       </div>
       <div className={styles.divider} />
       <ul>

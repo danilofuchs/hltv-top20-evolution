@@ -80,10 +80,8 @@
   font-weight: normal;
 }
 
-.flag {
-  height: 22px;
-  width: 22px;
-  margin-right: 0.5rem;
+.nameWithMargin {
+  margin-left: 0.5rem;
 }
 
 .rankingArticleLink {

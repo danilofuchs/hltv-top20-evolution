@@ -19,7 +19,7 @@ export default function Home() {
         ...player,
         color: getPlayerColor(player.ign),
       })),
-    [playersJson]
+    []
   );
 
   const [selectedPlayer, setSelectedPlayer] = useState<Player | null>(null);
