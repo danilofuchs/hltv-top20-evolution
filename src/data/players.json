@@ -872,7 +872,8 @@
       },
       {
         "year": 2021,
-        "place": 1
+        "place": 1,
+        "article": "https://www.hltv.org/news/33151/top-20-players-of-2021-s1mple-1"
       }
     ],
     "country": "UA",
@@ -911,7 +912,8 @@
       },
       {
         "year": 2021,
-        "place": 3
+        "place": 3,
+        "article": "https://www.hltv.org/news/33154/top-20-players-of-2021-niko-3"
       }
     ],
     "country": "BA",
@@ -1345,7 +1347,8 @@
       },
       {
         "year": 2021,
-        "place": 2
+        "place": 2,
+        "article": "https://www.hltv.org/news/33152/top-20-players-of-2021-zywoo-2"
       }
     ],
     "country": "FR",
