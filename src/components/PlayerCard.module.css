@@ -1,5 +1,5 @@
 .card {
-  padding: 1.5rem;
+  padding: 1rem;
   text-align: left;
   color: inherit;
   text-decoration: none;
@@ -13,7 +13,7 @@
 
 .card p {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -21,7 +21,7 @@
   display: grid;
   row-gap: 0.5rem;
 
-  max-width: 350px;
+  max-width: 300px;
 
   justify-items: start;
 
@@ -47,6 +47,7 @@
 
 .photo {
   height: 200px;
+  width: 100%;
   object-fit: contain;
   justify-self: center;
 
@@ -68,7 +69,7 @@
 .ign {
   display: block;
 
-  margin: 0.75rem 0;
+  margin: 0;
 
   color: var(--link-color);
   font-size: 1.5rem;

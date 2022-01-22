@@ -1,6 +1,6 @@
 .container {
   min-height: 100vh;
-  padding: 0 0.5rem;
+  padding: 0 0.25rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -79,7 +79,7 @@
   .content {
     margin-top: 2rem;
 
-    grid-template-columns: 350px auto;
+    grid-template-columns: 300px auto;
     grid-template-rows: 1fr auto;
     grid-template-areas:
       "player chart"
