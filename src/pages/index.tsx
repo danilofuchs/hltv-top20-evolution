@@ -11,7 +11,6 @@ import styles from "./index.module.css";
 import { BumpChart } from "@src/components/BumpChart";
 import { PlayerCard } from "@src/components/PlayerCard";
 import { Footer } from "@src/components/Footer";
-import { BottomAd } from "@src/components/BottomAd";
 
 export default function Home() {
   const players: Player[] = useMemo(
@@ -58,9 +57,6 @@ export default function Home() {
           <div className={styles.playerCard}>
             <PlayerCard player={selectedPlayer} />
           </div>
-        </div>
-        <div className={styles.ads}>
-          <BottomAd />
         </div>
       </main>
       <Footer />

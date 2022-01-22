@@ -21,11 +21,6 @@ function MyApp({ Component, pageProps }: AppProps) {
           gtag('config', 'G-S3NKNK22NJ');`,
         }}
       />
-      <Script
-        async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9756679359419346"
-        crossOrigin="anonymous"
-      />
       <Component {...pageProps} />
     </>
   );
