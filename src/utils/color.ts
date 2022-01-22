@@ -2,7 +2,7 @@ import seedRandom from "seedrandom";
 import color from "color";
 
 export function getPlayerColor(playerName: string): string {
-  const rng = seedRandom(playerName);
+  const rng = seedRandom(playerName + "_seed");
 
   const randomColor =
     "#" +
