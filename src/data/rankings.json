@@ -953,6 +953,22 @@
           "article": "https://www.hltv.org/news/33049/top-20-players-of-2021-broky-20"
         }
       ]
+    },
+    {
+      "year": 2022,
+      "article": "https://www.hltv.org/news/35306/top-20-players-of-2022-introduction",
+      "placings": [
+        {
+          "place": 19,
+          "player": "yuurih",
+          "article": "https://www.hltv.org/news/35316/top-20-players-of-2022-yuurih-19"
+        },
+        {
+          "place": 20,
+          "player": "Jame",
+          "article": "https://www.hltv.org/news/35314/top-20-players-of-2022-jame-20"
+        }
+      ]
     }
   ]
 }

@@ -36,6 +36,7 @@ const currentDir = path.dirname(url.fileURLToPath(import.meta.url));
       rankings: playerRanking.rankings,
       country: data.country.code,
       profileUrl: `https://www.hltv.org/player/${data.id}/${data.ign}`,
+      updatedAt: new Date().toISOString(),
     });
 
     await savePlayersList(players);

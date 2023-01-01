@@ -8,6 +8,7 @@ export interface Player {
   country?: string;
   profileUrl?: string;
   color?: string;
+  updatedAt?: string;
 }
 
 export interface PlayerRank {
