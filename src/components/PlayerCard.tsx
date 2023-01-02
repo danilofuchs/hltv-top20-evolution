@@ -1,4 +1,4 @@
-import { Player } from "@src/entities/player";
+import { Player, PlayerPlacement } from "@src/entities/player";
 import clsx from "clsx";
 import styles from "./PlayerCard.module.css";
 import React, { useMemo } from "react";
@@ -68,29 +68,50 @@ export function PlayerCard(props: { player: Player | null }) {
         </h3>
       </div>
       <div className={styles.divider} />
-      <ul>
-        {sortedRankings.map(
-          (ranking) =>
-            ranking.place && (
-              <li key={ranking.year}>
-                {ranking.article ? (
-                  <a
-                    className={styles.rankingArticleLink}
-                    href={ranking.article}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    {ranking.year}: #{ranking.place}
-                  </a>
-                ) : (
-                  <>
-                    {ranking.year}: #{ranking.place}
-                  </>
-                )}
-              </li>
-            )
-        )}
-      </ul>
+      {sortedRankings.map((ranking) => (
+        <YearPlacementRow
+          key={ranking.year}
+          player={player}
+          placement={ranking}
+        />
+      ))}
     </div>
+  );
+}
+
+function YearPlacementRow(props: {
+  player: Player;
+  placement: PlayerPlacement;
+}) {
+  const { player, placement } = props;
+
+  if (placement.place === null) {
+    return null;
+  }
+
+  return (
+    <a
+      className={styles.yearPlacementRow}
+      href={placement.article}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <div>{placement.year}</div>
+      <div>#{placement.place}</div>
+      <div className={styles.yearPlacementTeams}>
+        {placement.teams?.map((team) => (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            key={team.id + team.startDate}
+            alt={team.name}
+            width={22}
+            height={22}
+            src={
+              team.logo ?? "https://hltv.org/img/static/team/placeholder.svg"
+            }
+          />
+        ))}
+      </div>
+    </a>
   );
 }

@@ -8,27 +8,58 @@
       {
         "year": 2013,
         "place": 1,
-        "article": "https://www.hltv.org/news/11966-top-20-players-of-2013-get-right-1"
+        "article": "https://www.hltv.org/news/11966-top-20-players-of-2013-get-right-1",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 1,
-        "article": "https://www.hltv.org/news/14010-top-20-players-of-2014-get-right-1"
+        "article": "https://www.hltv.org/news/14010-top-20-players-of-2014-get-right-1",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 11,
-        "article": "https://www.hltv.org/news/16761-top-20-players-of-2015-get-right-11"
+        "article": "https://www.hltv.org/news/16761-top-20-players-of-2015-get-right-11",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 18,
-        "article": "https://www.hltv.org/news/19567-top-20-players-of-2016-get-right-18"
+        "article": "https://www.hltv.org/news/19567-top-20-players-of-2016-get-right-18",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/39/GeT_RiGhT",
-    "updatedAt": "2023-01-01T21:06:42.489Z"
+    "profileUrl": "https://www.hltv.org/player/39/GeT_RiGhT"
   },
   {
     "ign": "f0rest",
@@ -39,27 +70,58 @@
       {
         "year": 2013,
         "place": 2,
-        "article": "https://www.hltv.org/news/11964-top-20-players-of-2013-f0rest-2"
+        "article": "https://www.hltv.org/news/11964-top-20-players-of-2013-f0rest-2",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 7,
-        "article": "https://www.hltv.org/news/13975-top-20-players-of-2014-f0rest-7"
+        "article": "https://www.hltv.org/news/13975-top-20-players-of-2014-f0rest-7",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 16,
-        "article": "https://www.hltv.org/news/16723-top-20-players-of-2015-f0rest-16"
+        "article": "https://www.hltv.org/news/16723-top-20-players-of-2015-f0rest-16",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 7,
-        "article": "https://www.hltv.org/news/19625-top-20-players-of-2016-f0rest-7"
+        "article": "https://www.hltv.org/news/19625-top-20-players-of-2016-f0rest-7",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/29/f0rest",
-    "updatedAt": "2023-01-01T21:06:47.098Z"
+    "profileUrl": "https://www.hltv.org/player/29/f0rest"
   },
   {
     "ign": "shox",
@@ -70,27 +132,93 @@
       {
         "year": 2013,
         "place": 3,
-        "article": "https://www.hltv.org/news/11955-top-20-players-of-2013-shox-3"
+        "article": "https://www.hltv.org/news/11955-top-20-players-of-2013-shox-3",
+        "teams": [
+          {
+            "id": 4615,
+            "name": "Imaginary",
+            "startDate": 1352847600000
+          },
+          {
+            "id": 4467,
+            "name": "VeryGames",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QCiBDngzUGklkmTWjOLJc0.svg?ixlib=java-2.1.0&s=e2902a70f02f0eb0c8ec49d1f7514c19",
+            "startDate": 1368482400000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 8,
-        "article": "https://www.hltv.org/news/13969-top-20-players-of-2014-shox-8"
+        "article": "https://www.hltv.org/news/13969-top-20-players-of-2014-shox-8",
+        "teams": [
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1389999600000
+          },
+          {
+            "id": 4456,
+            "name": "Epsilon",
+            "logo": "https://img-cdn.hltv.org/teamlogo/I-v7M4boG40QeJ6meSiedk.svg?ixlib=java-2.1.0&s=4fc0525d2fd7f2e8946718008e920562",
+            "startDate": 1402696800000
+          },
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1409695200000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 13,
-        "article": "https://www.hltv.org/news/16746-top-20-players-of-2015-shox-13"
+        "article": "https://www.hltv.org/news/16746-top-20-players-of-2015-shox-13",
+        "teams": [
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1409695200000
+          },
+          {
+            "id": 5991,
+            "name": "Envy",
+            "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8",
+            "startDate": 1423263600000
+          },
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1437861600000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 6,
-        "article": "https://www.hltv.org/news/19636-top-20-players-of-2016-shox-6"
+        "article": "https://www.hltv.org/news/19636-top-20-players-of-2016-shox-6",
+        "teams": [
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1437861600000
+          },
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1454626800000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/1225/shox",
-    "updatedAt": "2023-01-01T21:06:51.713Z"
+    "profileUrl": "https://www.hltv.org/player/1225/shox"
   },
   {
     "ign": "Dosia",
@@ -101,12 +229,24 @@
       {
         "year": 2013,
         "place": 4,
-        "article": "https://www.hltv.org/news/11948-top-20-players-of-2013-dosia-4"
+        "article": "https://www.hltv.org/news/11948-top-20-players-of-2013-dosia-4",
+        "teams": [
+          {
+            "id": 4555,
+            "name": "Virtus.pro",
+            "startDate": 1352242800000
+          },
+          {
+            "id": 4984,
+            "name": "Astana Dragons",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Wy3oFp867BXd_r4G-A81gB.png?ixlib=java-2.1.0&w=50&s=d5832b9dea274c32add50a3b8230187a",
+            "startDate": 1376258400000
+          }
+        ]
       }
     ],
     "country": "RU",
-    "profileUrl": "https://www.hltv.org/player/735/Dosia",
-    "updatedAt": "2023-01-01T21:06:56.249Z"
+    "profileUrl": "https://www.hltv.org/player/735/Dosia"
   },
   {
     "ign": "NBK",
@@ -117,22 +257,57 @@
       {
         "year": 2013,
         "place": 5,
-        "article": "https://www.hltv.org/news/11944-top-20-players-of-2013-nbk-5"
+        "article": "https://www.hltv.org/news/11944-top-20-players-of-2013-nbk-5",
+        "teams": [
+          {
+            "id": 4467,
+            "name": "VeryGames",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QCiBDngzUGklkmTWjOLJc0.svg?ixlib=java-2.1.0&s=e2902a70f02f0eb0c8ec49d1f7514c19",
+            "startDate": 1348264800000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 17,
-        "article": "https://www.hltv.org/news/13919-top-20-players-of-2014-nbk-17"
+        "article": "https://www.hltv.org/news/13919-top-20-players-of-2014-nbk-17",
+        "teams": [
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1389999600000
+          },
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1409695200000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 9,
-        "article": "https://www.hltv.org/news/16778-top-20-players-of-2015-nbk-9"
+        "article": "https://www.hltv.org/news/16778-top-20-players-of-2015-nbk-9",
+        "teams": [
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1409695200000
+          },
+          {
+            "id": 5991,
+            "name": "Envy",
+            "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8",
+            "startDate": 1423263600000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/7168/NBK-",
-    "updatedAt": "2023-01-01T21:07:01.234Z"
+    "profileUrl": "https://www.hltv.org/player/7168/NBK-"
   },
   {
     "ign": "Xizt",
@@ -143,12 +318,19 @@
       {
         "year": 2013,
         "place": 6,
-        "article": "https://www.hltv.org/news/11941-top-20-players-of-2013-xizt-6"
+        "article": "https://www.hltv.org/news/11941-top-20-players-of-2013-xizt-6",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/884/Xizt",
-    "updatedAt": "2023-01-01T21:07:06.892Z"
+    "profileUrl": "https://www.hltv.org/player/884/Xizt"
   },
   {
     "ign": "ScreaM",
@@ -159,17 +341,38 @@
       {
         "year": 2013,
         "place": 7,
-        "article": "https://www.hltv.org/news/11935-top-20-players-of-2013-scream-7"
+        "article": "https://www.hltv.org/news/11935-top-20-players-of-2013-scream-7",
+        "teams": [
+          {
+            "id": 4467,
+            "name": "VeryGames",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QCiBDngzUGklkmTWjOLJc0.svg?ixlib=java-2.1.0&s=e2902a70f02f0eb0c8ec49d1f7514c19",
+            "startDate": 1359403200000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 9,
-        "article": "https://www.hltv.org/news/19610-top-20-players-of-2016-scream-9"
+        "article": "https://www.hltv.org/news/19610-top-20-players-of-2016-scream-9",
+        "teams": [
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1443177000000
+          },
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1454626800000
+          }
+        ]
       }
     ],
     "country": "BE",
-    "profileUrl": "https://www.hltv.org/player/7390/ScreaM",
-    "updatedAt": "2023-01-01T21:07:12.106Z"
+    "profileUrl": "https://www.hltv.org/player/7390/ScreaM"
   },
   {
     "ign": "JW",
@@ -180,22 +383,51 @@
       {
         "year": 2013,
         "place": 8,
-        "article": "https://www.hltv.org/news/11934-top-20-players-of-2013-jw-8"
+        "article": "https://www.hltv.org/news/11934-top-20-players-of-2013-jw-8",
+        "teams": [
+          {
+            "id": 4688,
+            "name": "Epsilon",
+            "logo": "https://img-cdn.hltv.org/teamlogo/I-v7M4boG40QeJ6meSiedk.svg?ixlib=java-2.1.0&s=4fc0525d2fd7f2e8946718008e920562",
+            "startDate": 1360710000000
+          },
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1375912800000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 5,
-        "article": "https://www.hltv.org/news/13990-top-20-players-of-2014-jw-5"
+        "article": "https://www.hltv.org/news/13990-top-20-players-of-2014-jw-5",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1375912800000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 10,
-        "article": "https://www.hltv.org/news/16768-top-20-players-of-2015-jw-10"
+        "article": "https://www.hltv.org/news/16768-top-20-players-of-2015-jw-10",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1375912800000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/3849/JW",
-    "updatedAt": "2023-01-01T21:07:16.835Z"
+    "profileUrl": "https://www.hltv.org/player/3849/JW"
   },
   {
     "ign": "Hiko",
@@ -206,12 +438,24 @@
       {
         "year": 2013,
         "place": 9,
-        "article": "https://www.hltv.org/news/11929-top-20-players-of-2013-hiko-9"
+        "article": "https://www.hltv.org/news/11929-top-20-players-of-2013-hiko-9",
+        "teams": [
+          {
+            "id": 4647,
+            "name": "Quantic",
+            "startDate": 1364547600000
+          },
+          {
+            "id": 5005,
+            "name": "Complexity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+            "startDate": 1376690400000
+          }
+        ]
       }
     ],
     "country": "US",
-    "profileUrl": "https://www.hltv.org/player/2644/Hiko",
-    "updatedAt": "2023-01-01T21:07:22.804Z"
+    "profileUrl": "https://www.hltv.org/player/2644/Hiko"
   },
   {
     "ign": "GuardiaN",
@@ -222,37 +466,100 @@
       {
         "year": 2013,
         "place": 10,
-        "article": "https://www.hltv.org/news/11926-top-20-players-of-2013-guardian-10"
+        "article": "https://www.hltv.org/news/11926-top-20-players-of-2013-guardian-10",
+        "teams": [
+          {
+            "id": 4683,
+            "name": "3DMAX",
+            "startDate": 1360710000000
+          },
+          {
+            "id": 4555,
+            "name": "Virtus.pro",
+            "startDate": 1369692000000
+          },
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1386543600000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 11,
-        "article": "https://www.hltv.org/news/13944-top-20-players-of-2014-guardian-11"
+        "article": "https://www.hltv.org/news/13944-top-20-players-of-2014-guardian-11",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1386543600000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 2,
-        "article": "https://www.hltv.org/news/16848-top-20-players-of-2015-guardian-2"
+        "article": "https://www.hltv.org/news/16848-top-20-players-of-2015-guardian-2",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1386543600000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 17,
-        "article": "https://www.hltv.org/news/19570-top-20-players-of-2016-guardian-17"
+        "article": "https://www.hltv.org/news/19570-top-20-players-of-2016-guardian-17",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1386543600000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 9,
-        "article": "https://www.hltv.org/news/22417/top-20-players-of-2017-guardian-9"
+        "article": "https://www.hltv.org/news/22417/top-20-players-of-2017-guardian-9",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1386543600000
+          },
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1503352800000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 11,
-        "article": "https://www.hltv.org/news/25796/top-20-players-of-2018-guardian-11"
+        "article": "https://www.hltv.org/news/25796/top-20-players-of-2018-guardian-11",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1503352800000
+          }
+        ]
       }
     ],
     "country": "SK",
-    "profileUrl": "https://www.hltv.org/player/2757/GuardiaN",
-    "updatedAt": "2023-01-01T21:07:27.359Z"
+    "profileUrl": "https://www.hltv.org/player/2757/GuardiaN"
   },
   {
     "ign": "friberg",
@@ -263,17 +570,32 @@
       {
         "year": 2013,
         "place": 11,
-        "article": "https://www.hltv.org/news/11919-top-20-players-of-2013-friberg-11"
+        "article": "https://www.hltv.org/news/11919-top-20-players-of-2013-friberg-11",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 14,
-        "article": "https://www.hltv.org/news/13931-top-20-players-of-2014-friberg-14"
+        "article": "https://www.hltv.org/news/13931-top-20-players-of-2014-friberg-14",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1347487200000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/7148/friberg",
-    "updatedAt": "2023-01-01T21:07:31.961Z"
+    "profileUrl": "https://www.hltv.org/player/7148/friberg"
   },
   {
     "ign": "kennyS",
@@ -284,32 +606,99 @@
       {
         "year": 2013,
         "place": 12,
-        "article": "https://www.hltv.org/news/11918-top-20-players-of-2013-kennys-12"
+        "article": "https://www.hltv.org/news/11918-top-20-players-of-2013-kennys-12",
+        "teams": [
+          {
+            "id": 4467,
+            "name": "VeryGames",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QCiBDngzUGklkmTWjOLJc0.svg?ixlib=java-2.1.0&s=e2902a70f02f0eb0c8ec49d1f7514c19",
+            "startDate": 1348264800000
+          },
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1368482400000
+          },
+          {
+            "id": 4948,
+            "name": "Clan-Mystik",
+            "startDate": 1378764000000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 6,
-        "article": "https://www.hltv.org/news/13985-top-20-players-of-2014-kennys-6"
+        "article": "https://www.hltv.org/news/13985-top-20-players-of-2014-kennys-6",
+        "teams": [
+          {
+            "id": 4948,
+            "name": "Clan-Mystik",
+            "startDate": 1378764000000
+          },
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1398808800000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 6,
-        "article": "https://www.hltv.org/news/16813-top-20-players-of-2015-kennys-6"
+        "article": "https://www.hltv.org/news/16813-top-20-players-of-2015-kennys-6",
+        "teams": [
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1398808800000
+          },
+          {
+            "id": 5991,
+            "name": "Envy",
+            "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8",
+            "startDate": 1438725600000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 13,
-        "article": "https://www.hltv.org/news/19587-top-20-players-of-2016-kennys-13"
+        "article": "https://www.hltv.org/news/19587-top-20-players-of-2016-kennys-13",
+        "teams": [
+          {
+            "id": 5991,
+            "name": "Envy",
+            "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8",
+            "startDate": 1438725600000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 7,
-        "article": "https://www.hltv.org/news/22424/top-20-players-of-2017-kennys-7"
+        "article": "https://www.hltv.org/news/22424/top-20-players-of-2017-kennys-7",
+        "teams": [
+          {
+            "id": 5991,
+            "name": "Envy",
+            "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8",
+            "startDate": 1438725600000
+          },
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1486162800000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/7167/kennyS",
-    "updatedAt": "2023-01-01T21:07:36.596Z"
+    "profileUrl": "https://www.hltv.org/player/7167/kennyS"
   },
   {
     "ign": "flusha",
@@ -320,43 +709,97 @@
       {
         "year": 2013,
         "place": 13,
-        "article": "https://www.hltv.org/news/11914-top-20-players-of-2013-flusha-13"
+        "article": "https://www.hltv.org/news/11914-top-20-players-of-2013-flusha-13",
+        "teams": [
+          {
+            "id": 4688,
+            "name": "Epsilon",
+            "logo": "https://img-cdn.hltv.org/teamlogo/I-v7M4boG40QeJ6meSiedk.svg?ixlib=java-2.1.0&s=4fc0525d2fd7f2e8946718008e920562",
+            "startDate": 1360710000000
+          },
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1375912800000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 2,
-        "article": "https://www.hltv.org/news/13895-top-20-players-of-2014-flusha-2"
+        "article": "https://www.hltv.org/news/13895-top-20-players-of-2014-flusha-2",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1375912800000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 5,
-        "article": "https://www.hltv.org/news/16819-top-20-players-of-2015-flusha-5"
+        "article": "https://www.hltv.org/news/16819-top-20-players-of-2015-flusha-5",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1375912800000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 10,
-        "article": "https://www.hltv.org/news/19598-top-20-players-of-2016-flusha-10"
+        "article": "https://www.hltv.org/news/19598-top-20-players-of-2016-flusha-10",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1375912800000
+          },
+          {
+            "id": 6902,
+            "name": "GODSENT",
+            "logo": "https://img-cdn.hltv.org/teamlogo/WQl1L0NmsdhupV8S-fzQvA.svg?ixlib=java-2.1.0&s=7550f0c714f66781c2545e633ea582e2",
+            "startDate": 1471212000000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/3055/flusha",
-    "updatedAt": "2023-01-01T21:07:41.185Z"
+    "profileUrl": "https://www.hltv.org/player/3055/flusha"
   },
   {
     "ign": "Nico",
     "id": 7413,
     "name": "Nicolaj Jensen",
-    "image": "https://img-cdn.hltv.org/gallerypicture/_6Z8NwSLG9Vd7PWTLAwklZ.jpg?bg=3e4c54&h=400&ixlib=java-2.1.0&rect=656%2C41%2C737%2C737&w=400&s=ae85808911b9ea5f1993746109cce7a3",
+    "image": "https://img-cdn.hltv.org/gallerypicture/_6Z8NwSLG9Vd7PWTLAwklZ.jpg?bg=3e4c54&h=200&ixlib=java-2.1.0&rect=656%2C41%2C737%2C737&w=200&s=eeb2befa75ca56f697e2d9101e4459c8",
     "rankings": [
       {
         "year": 2013,
         "place": 14,
-        "article": "https://www.hltv.org/news/11913-top-20-players-of-2013-nico-14"
+        "article": "https://www.hltv.org/news/11913-top-20-players-of-2013-nico-14",
+        "teams": [
+          {
+            "id": 4547,
+            "name": "Anexis",
+            "startDate": 1357668000000
+          },
+          {
+            "id": 4775,
+            "name": "Western Wolves",
+            "startDate": 1364547600000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/7413/Nico",
-    "updatedAt": "2023-01-01T21:07:45.191Z"
+    "profileUrl": "https://www.hltv.org/player/7413/Nico"
   },
   {
     "ign": "markeloff",
@@ -367,12 +810,25 @@
       {
         "year": 2013,
         "place": 15,
-        "article": "https://www.hltv.org/news/11908-top-20-players-of-2013-markeloff-15"
+        "article": "https://www.hltv.org/news/11908-top-20-players-of-2013-markeloff-15",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1353970800000
+          },
+          {
+            "id": 4984,
+            "name": "Astana Dragons",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Wy3oFp867BXd_r4G-A81gB.png?ixlib=java-2.1.0&w=50&s=d5832b9dea274c32add50a3b8230187a",
+            "startDate": 1376330400000
+          }
+        ]
       }
     ],
     "country": "UA",
-    "profileUrl": "https://www.hltv.org/player/338/markeloff",
-    "updatedAt": "2023-01-01T21:07:49.842Z"
+    "profileUrl": "https://www.hltv.org/player/338/markeloff"
   },
   {
     "ign": "Edward",
@@ -383,12 +839,31 @@
       {
         "year": 2013,
         "place": 16,
-        "article": "https://www.hltv.org/news/11906-top-20-players-of-2013-edward-16"
+        "article": "https://www.hltv.org/news/11906-top-20-players-of-2013-edward-16",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1353970800000
+          },
+          {
+            "id": 4984,
+            "name": "Astana Dragons",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Wy3oFp867BXd_r4G-A81gB.png?ixlib=java-2.1.0&w=50&s=d5832b9dea274c32add50a3b8230187a",
+            "startDate": 1376258400000
+          },
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/kixzGZIb9IYAAv-1vGrGev.svg?ixlib=java-2.1.0&s=8f9986a391fcb1adfbfff021b824a937",
+            "startDate": 1386543600000
+          }
+        ]
       }
     ],
     "country": "UA",
-    "profileUrl": "https://www.hltv.org/player/483/Edward",
-    "updatedAt": "2023-01-01T21:07:54.891Z"
+    "profileUrl": "https://www.hltv.org/player/483/Edward"
   },
   {
     "ign": "SmithZz",
@@ -399,12 +874,19 @@
       {
         "year": 2013,
         "place": 17,
-        "article": "https://www.hltv.org/news/11904-top-20-players-of-2013-smithzz-17"
+        "article": "https://www.hltv.org/news/11904-top-20-players-of-2013-smithzz-17",
+        "teams": [
+          {
+            "id": 4467,
+            "name": "VeryGames",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QCiBDngzUGklkmTWjOLJc0.svg?ixlib=java-2.1.0&s=e2902a70f02f0eb0c8ec49d1f7514c19",
+            "startDate": 1348303800000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/7170/SmithZz",
-    "updatedAt": "2023-01-01T21:07:59.445Z"
+    "profileUrl": "https://www.hltv.org/player/7170/SmithZz"
   },
   {
     "ign": "dupreeh",
@@ -415,42 +897,114 @@
       {
         "year": 2013,
         "place": 18,
-        "article": "https://www.hltv.org/news/11899-top-20-players-of-2013-dupreeh-18"
+        "article": "https://www.hltv.org/news/11899-top-20-players-of-2013-dupreeh-18",
+        "teams": [
+          {
+            "id": 4448,
+            "name": "3DMAX",
+            "startDate": 1352588400000
+          },
+          {
+            "id": 4548,
+            "name": "CPH Wolves",
+            "logo": "https://img-cdn.hltv.org/teamlogo/YAkfXXu_VhFVsOoATpff0A.svg?ixlib=java-2.1.0&s=5803a5e72e30b6ab7a46588ea6d17778",
+            "startDate": 1364511600000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 16,
-        "article": "https://www.hltv.org/news/13924-top-20-players-of-2014-dupreeh-16"
+        "article": "https://www.hltv.org/news/13924-top-20-players-of-2014-dupreeh-16",
+        "teams": [
+          {
+            "id": 5422,
+            "name": "Dignitas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/_4q0csb9EDsrG9SAZ9k5tC.png?ixlib=java-2.1.0&w=50&s=a48d2323f5ed624a9dda2205888b5ead",
+            "startDate": 1392937200000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 12,
-        "article": "https://www.hltv.org/news/16752-top-20-players-of-2015-dupreeh-12"
+        "article": "https://www.hltv.org/news/16752-top-20-players-of-2015-dupreeh-12",
+        "teams": [
+          {
+            "id": 5422,
+            "name": "Dignitas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/_4q0csb9EDsrG9SAZ9k5tC.png?ixlib=java-2.1.0&w=50&s=a48d2323f5ed624a9dda2205888b5ead",
+            "startDate": 1392937200000
+          },
+          {
+            "id": 5996,
+            "name": "TSM",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Jnkztxfkp3Y8FQMetCLDGJ.svg?ixlib=java-2.1.0&s=8d267189d93ac9229b2ef200ffcbadca",
+            "startDate": 1424214000000
+          },
+          {
+            "id": 6548,
+            "name": "?",
+            "logo": "https://img-cdn.hltv.org/teamlogo/uIAvzek4NKEQj5urksBXCK.png?ixlib=java-2.1.0&w=50&s=7ac1599141dfecdcf67436dfd8eff06b",
+            "startDate": 1449183600000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 10,
-        "article": "https://www.hltv.org/news/22408/top-20-players-of-2017-dupreeh-10"
+        "article": "https://www.hltv.org/news/22408/top-20-players-of-2017-dupreeh-10",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 5,
-        "article": "https://www.hltv.org/news/25835/top-20-players-of-2018-dupreeh-5"
+        "article": "https://www.hltv.org/news/25835/top-20-players-of-2018-dupreeh-5",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 16,
-        "article": "https://www.hltv.org/news/28766/top-20-players-of-2019-dupreeh-16"
+        "article": "https://www.hltv.org/news/28766/top-20-players-of-2019-dupreeh-16",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 9,
-        "article": "https://www.hltv.org/news/30958/top-20-players-of-2020-dupreeh-9"
+        "article": "https://www.hltv.org/news/30958/top-20-players-of-2020-dupreeh-9",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/7398/dupreeh",
-    "updatedAt": "2023-01-01T21:08:05.446Z"
+    "profileUrl": "https://www.hltv.org/player/7398/dupreeh"
   },
   {
     "ign": "pasha",
@@ -461,17 +1015,37 @@
       {
         "year": 2013,
         "place": 19,
-        "article": "https://www.hltv.org/news/11898-top-20-players-of-2013-pasha-19"
+        "article": "https://www.hltv.org/news/11898-top-20-players-of-2013-pasha-19",
+        "teams": [
+          {
+            "id": 4532,
+            "name": "ESC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/PaLC-wire3ulXdi9zWraOW.png?ixlib=java-2.1.0&w=50&s=70ccdc454e9b1c7d6468df6573e9f232",
+            "startDate": 1349733600000
+          },
+          {
+            "id": 4533,
+            "name": "UniversalSoldiers",
+            "startDate": 1382801400000
+          }
+        ]
       },
       {
         "year": 2014,
         "place": 3,
-        "article": "https://www.hltv.org/news/14001-top-20-players-of-2014-pasha-3"
+        "article": "https://www.hltv.org/news/14001-top-20-players-of-2014-pasha-3",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1393282800000
+          }
+        ]
       }
     ],
     "country": "PL",
-    "profileUrl": "https://www.hltv.org/player/317/pashaBiceps",
-    "updatedAt": "2023-01-01T21:08:10.079Z"
+    "profileUrl": "https://www.hltv.org/player/317/pashaBiceps"
   },
   {
     "ign": "Xyp9x",
@@ -482,27 +1056,63 @@
       {
         "year": 2013,
         "place": 20,
-        "article": "https://www.hltv.org/news/11896-top-20-players-of-2013-xyp9x-20"
+        "article": "https://www.hltv.org/news/11896-top-20-players-of-2013-xyp9x-20",
+        "teams": [
+          {
+            "id": 4623,
+            "name": "fnatic",
+            "startDate": 1357668000000
+          },
+          {
+            "id": 4548,
+            "name": "CPH Wolves",
+            "logo": "https://img-cdn.hltv.org/teamlogo/YAkfXXu_VhFVsOoATpff0A.svg?ixlib=java-2.1.0&s=5803a5e72e30b6ab7a46588ea6d17778",
+            "startDate": 1376240400000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 13,
-        "article": "https://www.hltv.org/news/22391/top-20-players-of-2017-xyp9x-13"
+        "article": "https://www.hltv.org/news/22391/top-20-players-of-2017-xyp9x-13",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 13,
-        "article": "https://www.hltv.org/news/25782/top-20-players-of-2018-xyp9x-13"
+        "article": "https://www.hltv.org/news/25782/top-20-players-of-2018-xyp9x-13",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 14,
-        "article": "https://www.hltv.org/news/28786/top-20-players-of-2019-xyp9x-14"
+        "article": "https://www.hltv.org/news/28786/top-20-players-of-2019-xyp9x-14",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/4954/Xyp9x",
-    "updatedAt": "2023-01-01T21:08:14.787Z"
+    "profileUrl": "https://www.hltv.org/player/4954/Xyp9x"
   },
   {
     "ign": "Snax",
@@ -513,27 +1123,58 @@
       {
         "year": 2014,
         "place": 4,
-        "article": "https://www.hltv.org/news/13997-top-20-players-of-2014-snax-4"
+        "article": "https://www.hltv.org/news/13997-top-20-players-of-2014-snax-4",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1393282800000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 4,
-        "article": "https://www.hltv.org/news/16833-top-20-players-of-2015-snax-4"
+        "article": "https://www.hltv.org/news/16833-top-20-players-of-2015-snax-4",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1393282800000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 5,
-        "article": "https://www.hltv.org/news/19641-top-20-players-of-2016-snax-5"
+        "article": "https://www.hltv.org/news/19641-top-20-players-of-2016-snax-5",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1393282800000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 20,
-        "article": "https://www.hltv.org/news/22352/top-20-players-of-2017-snax-20"
+        "article": "https://www.hltv.org/news/22352/top-20-players-of-2017-snax-20",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1393282800000
+          }
+        ]
       }
     ],
     "country": "PL",
-    "profileUrl": "https://www.hltv.org/player/2553/Snax",
-    "updatedAt": "2023-01-01T21:08:19.584Z"
+    "profileUrl": "https://www.hltv.org/player/2553/Snax"
   },
   {
     "ign": "KRIMZ",
@@ -544,32 +1185,77 @@
       {
         "year": 2014,
         "place": 9,
-        "article": "https://www.hltv.org/news/13958-top-20-players-of-2014-krimz-9"
+        "article": "https://www.hltv.org/news/13958-top-20-players-of-2014-krimz-9",
+        "teams": [
+          {
+            "id": 5028,
+            "name": "LGB",
+            "logo": "https://img-cdn.hltv.org/teamlogo/qMND-GUX-E-Xc-hBQs1AZZ.svg?ixlib=java-2.1.0&s=6787eb2e88b321814f7c2cbaff8a2138",
+            "startDate": 1377361800000
+          },
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1404856800000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 7,
-        "article": "https://www.hltv.org/news/16800-top-20-players-of-2015-krimz-7"
+        "article": "https://www.hltv.org/news/16800-top-20-players-of-2015-krimz-7",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1404856800000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 9,
-        "article": "https://www.hltv.org/news/25813/top-20-players-of-2018-krimz-9"
+        "article": "https://www.hltv.org/news/25813/top-20-players-of-2018-krimz-9",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1478473200000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 17,
-        "article": "https://www.hltv.org/news/28764/top-20-players-of-2019-krimz-17"
+        "article": "https://www.hltv.org/news/28764/top-20-players-of-2019-krimz-17",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1478473200000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 17,
-        "article": "https://www.hltv.org/news/30908/top-20-players-of-2020-krimz-17"
+        "article": "https://www.hltv.org/news/30908/top-20-players-of-2020-krimz-17",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1478473200000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/7528/KRIMZ",
-    "updatedAt": "2023-01-01T21:08:24.424Z"
+    "profileUrl": "https://www.hltv.org/player/7528/KRIMZ"
   },
   {
     "ign": "Happy",
@@ -580,17 +1266,38 @@
       {
         "year": 2014,
         "place": 10,
-        "article": "https://www.hltv.org/news/13950-top-20-players-of-2014-happy-10"
+        "article": "https://www.hltv.org/news/13950-top-20-players-of-2014-happy-10",
+        "teams": [
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1361314800000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 8,
-        "article": "https://www.hltv.org/news/16785-top-20-players-of-2015-happy-8"
+        "article": "https://www.hltv.org/news/16785-top-20-players-of-2015-happy-8",
+        "teams": [
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1361314800000
+          },
+          {
+            "id": 5991,
+            "name": "Envy",
+            "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8",
+            "startDate": 1423306800000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/7429/Happy",
-    "updatedAt": "2023-01-01T21:08:29.589Z"
+    "profileUrl": "https://www.hltv.org/player/7429/Happy"
   },
   {
     "ign": "olofmeister",
@@ -601,27 +1308,70 @@
       {
         "year": 2014,
         "place": 12,
-        "article": "https://www.hltv.org/news/13938-top-20-players-of-2014-olofm-12"
+        "article": "https://www.hltv.org/news/13938-top-20-players-of-2014-olofm-12",
+        "teams": [
+          {
+            "id": 5028,
+            "name": "LGB",
+            "logo": "https://img-cdn.hltv.org/teamlogo/qMND-GUX-E-Xc-hBQs1AZZ.svg?ixlib=java-2.1.0&s=6787eb2e88b321814f7c2cbaff8a2138",
+            "startDate": 1377295200000
+          },
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1404856800000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 1,
-        "article": "https://www.hltv.org/news/16863-top-20-players-of-2015-olofmeister-1"
+        "article": "https://www.hltv.org/news/16863-top-20-players-of-2015-olofmeister-1",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1404856800000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 8,
-        "article": "https://www.hltv.org/news/19619-top-20-players-of-2016-olofmeister-8"
+        "article": "https://www.hltv.org/news/19619-top-20-players-of-2016-olofmeister-8",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1404856800000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 19,
-        "article": "https://www.hltv.org/news/22355/top-20-players-of-2017-olofmeister-19"
+        "article": "https://www.hltv.org/news/22355/top-20-players-of-2017-olofmeister-19",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1404856800000
+          },
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1503352800000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/885/olofmeister",
-    "updatedAt": "2023-01-01T21:08:35.727Z"
+    "profileUrl": "https://www.hltv.org/player/885/olofmeister"
   },
   {
     "ign": "byali",
@@ -632,12 +1382,19 @@
       {
         "year": 2014,
         "place": 13,
-        "article": "https://www.hltv.org/news/13934-top-20-players-of-2014-byali-13"
+        "article": "https://www.hltv.org/news/13934-top-20-players-of-2014-byali-13",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1393282800000
+          }
+        ]
       }
     ],
     "country": "PL",
-    "profileUrl": "https://www.hltv.org/player/5386/byali",
-    "updatedAt": "2023-01-01T21:08:41.713Z"
+    "profileUrl": "https://www.hltv.org/player/5386/byali"
   },
   {
     "ign": "apEX",
@@ -648,17 +1405,44 @@
       {
         "year": 2014,
         "place": 15,
-        "article": "https://www.hltv.org/news/13927-top-20-players-of-2014-apex-15"
+        "article": "https://www.hltv.org/news/13927-top-20-players-of-2014-apex-15",
+        "teams": [
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1392591600000
+          },
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1409767200000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 18,
-        "article": "https://www.hltv.org/news/16710-top-20-players-of-2015-apex-18"
+        "article": "https://www.hltv.org/news/16710-top-20-players-of-2015-apex-18",
+        "teams": [
+          {
+            "id": 5284,
+            "name": "Titan",
+            "logo": "https://img-cdn.hltv.org/teamlogo/xem4ejU2wb6vVi3LCMWLNe.svg?ixlib=java-2.1.0&s=ebda1ce5f5bdb0a5cd6acb8ecb3bc28a",
+            "startDate": 1409767200000
+          },
+          {
+            "id": 5991,
+            "name": "Envy",
+            "logo": "https://img-cdn.hltv.org/teamlogo/caSZsIlWR3MQuSWMCJDj8V.svg?ixlib=java-2.1.0&s=52dab8f2955522087be3c5d43013bea8",
+            "startDate": 1438764300000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/7322/apEX",
-    "updatedAt": "2023-01-01T21:08:46.673Z"
+    "profileUrl": "https://www.hltv.org/player/7322/apEX"
   },
   {
     "ign": "swag",
@@ -669,12 +1453,25 @@
       {
         "year": 2014,
         "place": 18,
-        "article": "https://www.hltv.org/news/13913-top-20-players-of-2014-swag-18"
+        "article": "https://www.hltv.org/news/13913-top-20-players-of-2014-swag-18",
+        "teams": [
+          {
+            "id": 5005,
+            "name": "Complexity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+            "startDate": 1376690400000
+          },
+          {
+            "id": 5231,
+            "name": "iBUYPOWER",
+            "logo": "https://img-cdn.hltv.org/teamlogo/KIzoa683-B4-yyfvpPYJKu.svg?ixlib=java-2.1.0&s=196d6e449406355a3665cdfdc6e15b41",
+            "startDate": 1403922600000
+          }
+        ]
       }
     ],
     "country": "US",
-    "profileUrl": "https://www.hltv.org/player/5021/swag",
-    "updatedAt": "2023-01-01T21:08:51.201Z"
+    "profileUrl": "https://www.hltv.org/player/5021/swag"
   },
   {
     "ign": "kioShiMa",
@@ -685,12 +1482,30 @@
       {
         "year": 2014,
         "place": 19,
-        "article": "https://www.hltv.org/news/13910-top-20-players-of-2014-kioshima-19"
+        "article": "https://www.hltv.org/news/13910-top-20-players-of-2014-kioshima-19",
+        "teams": [
+          {
+            "id": 4948,
+            "name": "Clan-Mystik",
+            "startDate": 1378832400000
+          },
+          {
+            "id": 4456,
+            "name": "Epsilon",
+            "logo": "https://img-cdn.hltv.org/teamlogo/I-v7M4boG40QeJ6meSiedk.svg?ixlib=java-2.1.0&s=4fc0525d2fd7f2e8946718008e920562",
+            "startDate": 1402750800000
+          },
+          {
+            "id": 4674,
+            "name": "LDLC",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ZhFPxp61_5B0Qv9ljo03vX.png?ixlib=java-2.1.0&w=50&s=abe18b26aada534c1640a48f0dd044f7",
+            "startDate": 1409695200000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/4959/kioShiMa",
-    "updatedAt": "2023-01-01T21:08:57.048Z"
+    "profileUrl": "https://www.hltv.org/player/4959/kioShiMa"
   },
   {
     "ign": "device",
@@ -701,47 +1516,134 @@
       {
         "year": 2014,
         "place": 20,
-        "article": "https://www.hltv.org/news/13906-top-20-players-of-2014-device-20"
+        "article": "https://www.hltv.org/news/13906-top-20-players-of-2014-device-20",
+        "teams": [
+          {
+            "id": 5422,
+            "name": "Dignitas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/_4q0csb9EDsrG9SAZ9k5tC.png?ixlib=java-2.1.0&w=50&s=a48d2323f5ed624a9dda2205888b5ead",
+            "startDate": 1392937200000
+          }
+        ]
       },
       {
         "year": 2015,
         "place": 3,
-        "article": "https://www.hltv.org/news/16841-top-20-players-of-2015-device-3"
+        "article": "https://www.hltv.org/news/16841-top-20-players-of-2015-device-3",
+        "teams": [
+          {
+            "id": 5422,
+            "name": "Dignitas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/_4q0csb9EDsrG9SAZ9k5tC.png?ixlib=java-2.1.0&w=50&s=a48d2323f5ed624a9dda2205888b5ead",
+            "startDate": 1392937200000
+          },
+          {
+            "id": 5996,
+            "name": "TSM",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Jnkztxfkp3Y8FQMetCLDGJ.svg?ixlib=java-2.1.0&s=8d267189d93ac9229b2ef200ffcbadca",
+            "startDate": 1424214000000
+          },
+          {
+            "id": 6548,
+            "name": "?",
+            "logo": "https://img-cdn.hltv.org/teamlogo/uIAvzek4NKEQj5urksBXCK.png?ixlib=java-2.1.0&w=50&s=7ac1599141dfecdcf67436dfd8eff06b",
+            "startDate": 1449183600000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 3,
-        "article": "https://www.hltv.org/news/19647-top-20-players-of-2016-device-3"
+        "article": "https://www.hltv.org/news/19647-top-20-players-of-2016-device-3",
+        "teams": [
+          {
+            "id": 6548,
+            "name": "?",
+            "logo": "https://img-cdn.hltv.org/teamlogo/uIAvzek4NKEQj5urksBXCK.png?ixlib=java-2.1.0&w=50&s=7ac1599141dfecdcf67436dfd8eff06b",
+            "startDate": 1449183600000
+          },
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 5,
-        "article": "https://www.hltv.org/news/22465/top-20-players-of-2017-device-5"
+        "article": "https://www.hltv.org/news/22465/top-20-players-of-2017-device-5",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 2,
-        "article": "https://www.hltv.org/news/25878/top-20-players-of-2018-device-2"
+        "article": "https://www.hltv.org/news/25878/top-20-players-of-2018-device-2",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 3,
-        "article": "https://www.hltv.org/news/28864/top-20-players-of-2019-device-3"
+        "article": "https://www.hltv.org/news/28864/top-20-players-of-2019-device-3",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 3,
-        "article": "https://www.hltv.org/news/31006/top-20-players-of-2020-device-3"
+        "article": "https://www.hltv.org/news/31006/top-20-players-of-2020-device-3",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 11,
-        "article": "https://www.hltv.org/news/33096/top-20-players-of-2021-device-11"
+        "article": "https://www.hltv.org/news/33096/top-20-players-of-2021-device-11",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1453417200000
+          },
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+            "startDate": 1619128800000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/7592/device",
-    "updatedAt": "2023-01-01T21:09:01.859Z"
+    "profileUrl": "https://www.hltv.org/player/7592/device"
   },
   {
     "ign": "flamie",
@@ -752,17 +1654,37 @@
       {
         "year": 2015,
         "place": 14,
-        "article": "https://www.hltv.org/news/16740-top-20-players-of-2015-flamie-14"
+        "article": "https://www.hltv.org/news/16740-top-20-players-of-2015-flamie-14",
+        "teams": [
+          {
+            "id": 5593,
+            "name": "dAT",
+            "startDate": 1406325600000
+          },
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1427065200000
+          }
+        ]
       },
       {
         "year": 2016,
         "place": 12,
-        "article": "https://www.hltv.org/news/19591-top-20-players-of-2016-flamie-12"
+        "article": "https://www.hltv.org/news/19591-top-20-players-of-2016-flamie-12",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1427065200000
+          }
+        ]
       }
     ],
     "country": "RU",
-    "profileUrl": "https://www.hltv.org/player/7594/flamie",
-    "updatedAt": "2023-01-01T21:09:08.120Z"
+    "profileUrl": "https://www.hltv.org/player/7594/flamie"
   },
   {
     "ign": "cajunb",
@@ -773,12 +1695,25 @@
       {
         "year": 2015,
         "place": 15,
-        "article": "https://www.hltv.org/news/16732-top-20-players-of-2015-cajunb-15"
+        "article": "https://www.hltv.org/news/16732-top-20-players-of-2015-cajunb-15",
+        "teams": [
+          {
+            "id": 5422,
+            "name": "Dignitas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/_4q0csb9EDsrG9SAZ9k5tC.png?ixlib=java-2.1.0&w=50&s=a48d2323f5ed624a9dda2205888b5ead",
+            "startDate": 1414450800000
+          },
+          {
+            "id": 5996,
+            "name": "TSM",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Jnkztxfkp3Y8FQMetCLDGJ.svg?ixlib=java-2.1.0&s=8d267189d93ac9229b2ef200ffcbadca",
+            "startDate": 1424214000000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/2469/cajunb",
-    "updatedAt": "2023-01-01T21:09:13.767Z"
+    "profileUrl": "https://www.hltv.org/player/2469/cajunb"
   },
   {
     "ign": "NEO",
@@ -789,12 +1724,19 @@
       {
         "year": 2015,
         "place": 17,
-        "article": "https://www.hltv.org/news/16715-top-20-players-of-2015-neo-17"
+        "article": "https://www.hltv.org/news/16715-top-20-players-of-2015-neo-17",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1393282800000
+          }
+        ]
       }
     ],
     "country": "PL",
-    "profileUrl": "https://www.hltv.org/player/165/NEO",
-    "updatedAt": "2023-01-01T21:09:19.333Z"
+    "profileUrl": "https://www.hltv.org/player/165/NEO"
   },
   {
     "ign": "allu",
@@ -805,12 +1747,19 @@
       {
         "year": 2015,
         "place": 19,
-        "article": "https://www.hltv.org/news/16707-top-20-players-of-2015-allu-19"
+        "article": "https://www.hltv.org/news/16707-top-20-players-of-2015-allu-19",
+        "teams": [
+          {
+            "id": 4411,
+            "name": "Ninjas in Pyjamas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BSmtTpoXWe5bkSQ1Xk9bBQ.svg?ixlib=java-2.1.0&s=a0edf9bc3edb8680461c858fa21fe7fe",
+            "startDate": 1424214000000
+          }
+        ]
       }
     ],
     "country": "FI",
-    "profileUrl": "https://www.hltv.org/player/695/allu",
-    "updatedAt": "2023-01-01T21:09:23.983Z"
+    "profileUrl": "https://www.hltv.org/player/695/allu"
   },
   {
     "ign": "Skadoodle",
@@ -821,12 +1770,19 @@
       {
         "year": 2015,
         "place": 20,
-        "article": "https://www.hltv.org/news/16703-top-20-players-of-2015-skadoodle-20"
+        "article": "https://www.hltv.org/news/16703-top-20-players-of-2015-skadoodle-20",
+        "teams": [
+          {
+            "id": 5752,
+            "name": "Cloud9",
+            "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c",
+            "startDate": 1430431200000
+          }
+        ]
       }
     ],
     "country": "US",
-    "profileUrl": "https://www.hltv.org/player/7440/Skadoodle",
-    "updatedAt": "2023-01-01T21:09:28.655Z"
+    "profileUrl": "https://www.hltv.org/player/7440/Skadoodle"
   },
   {
     "ign": "coldzera",
@@ -837,22 +1793,57 @@
       {
         "year": 2016,
         "place": 1,
-        "article": "https://www.hltv.org/news/19662-top-20-players-of-2016-coldzera-1"
+        "article": "https://www.hltv.org/news/19662-top-20-players-of-2016-coldzera-1",
+        "teams": [
+          {
+            "id": 6290,
+            "name": "Luminosity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/chtJ6EB33l3skLz3TELR4z.svg?ixlib=java-2.1.0&s=2919627b3f897eeab102c0a31ba1af6a",
+            "startDate": 1440021600000
+          },
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 1,
-        "article": "https://www.hltv.org/news/22516/top-20-players-of-2017-coldzera-1"
+        "article": "https://www.hltv.org/news/22516/top-20-players-of-2017-coldzera-1",
+        "teams": [
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 10,
-        "article": "https://www.hltv.org/news/25809/top-20-players-of-2018-coldzera-10"
+        "article": "https://www.hltv.org/news/25809/top-20-players-of-2018-coldzera-10",
+        "teams": [
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          },
+          {
+            "id": 9215,
+            "name": "MIBR",
+            "logo": "https://img-cdn.hltv.org/teamlogo/D76Tko1piL7Ny_y7ZCqHQJ.png?ixlib=java-2.1.0&w=50&s=945bdc2894340b134a950ad484e7150c",
+            "startDate": 1530568800000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/9216/coldzera",
-    "updatedAt": "2023-01-01T21:09:33.319Z"
+    "profileUrl": "https://www.hltv.org/player/9216/coldzera"
   },
   {
     "ign": "FalleN",
@@ -863,17 +1854,38 @@
       {
         "year": 2016,
         "place": 2,
-        "article": "https://www.hltv.org/news/19655-top-20-players-of-2016-fallen-2"
+        "article": "https://www.hltv.org/news/19655-top-20-players-of-2016-fallen-2",
+        "teams": [
+          {
+            "id": 6290,
+            "name": "Luminosity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/chtJ6EB33l3skLz3TELR4z.svg?ixlib=java-2.1.0&s=2919627b3f897eeab102c0a31ba1af6a",
+            "startDate": 1440021600000
+          },
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 6,
-        "article": "https://www.hltv.org/news/22446/top-20-players-of-2017-fallen-6"
+        "article": "https://www.hltv.org/news/22446/top-20-players-of-2017-fallen-6",
+        "teams": [
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/2023/FalleN",
-    "updatedAt": "2023-01-01T21:09:38.310Z"
+    "profileUrl": "https://www.hltv.org/player/2023/FalleN"
   },
   {
     "ign": "s1mple",
@@ -884,37 +1896,90 @@
       {
         "year": 2016,
         "place": 4,
-        "article": "https://www.hltv.org/news/19642-top-20-players-of-2016-s1mple-4"
+        "article": "https://www.hltv.org/news/19642-top-20-players-of-2016-s1mple-4",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1455145200000
+          },
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1471644000000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 8,
-        "article": "https://www.hltv.org/news/22421/top-20-players-of-2017-s1mple-8"
+        "article": "https://www.hltv.org/news/22421/top-20-players-of-2017-s1mple-8",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1471644000000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 1,
-        "article": "https://www.hltv.org/news/25880/top-20-players-of-2018-s1mple-1"
+        "article": "https://www.hltv.org/news/25880/top-20-players-of-2018-s1mple-1",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1471644000000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 2,
-        "article": "https://www.hltv.org/news/28874/top-20-players-of-2019-s1mple-2"
+        "article": "https://www.hltv.org/news/28874/top-20-players-of-2019-s1mple-2",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1471644000000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 2,
-        "article": "https://www.hltv.org/news/31025/top-20-players-of-2020-s1mple-2"
+        "article": "https://www.hltv.org/news/31025/top-20-players-of-2020-s1mple-2",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1471644000000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 1,
-        "article": "https://www.hltv.org/news/33151/top-20-players-of-2021-s1mple-1"
+        "article": "https://www.hltv.org/news/33151/top-20-players-of-2021-s1mple-1",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1471644000000
+          }
+        ]
       }
     ],
     "country": "UA",
-    "profileUrl": "https://www.hltv.org/player/7998/s1mple",
-    "updatedAt": "2023-01-01T21:09:42.985Z"
+    "profileUrl": "https://www.hltv.org/player/7998/s1mple"
   },
   {
     "ign": "NiKo",
@@ -925,37 +1990,96 @@
       {
         "year": 2016,
         "place": 11,
-        "article": "https://www.hltv.org/news/19593-top-20-players-of-2016-niko-11"
+        "article": "https://www.hltv.org/news/19593-top-20-players-of-2016-niko-11",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/1YWxVoOcvOf3R9Z0-HWyeU.svg?ixlib=java-2.1.0&s=07f948624704c960960b962a9c0416c3",
+            "startDate": 1429308000000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 2,
-        "article": "https://www.hltv.org/news/22510/top-20-players-of-2017-niko-2"
+        "article": "https://www.hltv.org/news/22510/top-20-players-of-2017-niko-2",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/1YWxVoOcvOf3R9Z0-HWyeU.svg?ixlib=java-2.1.0&s=07f948624704c960960b962a9c0416c3",
+            "startDate": 1429308000000
+          },
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1488322800000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 3,
-        "article": "https://www.hltv.org/news/25861/top-20-players-of-2018-niko-3"
+        "article": "https://www.hltv.org/news/25861/top-20-players-of-2018-niko-3",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1488322800000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 11,
-        "article": "https://www.hltv.org/news/28814/top-20-players-of-2019-niko-11"
+        "article": "https://www.hltv.org/news/28814/top-20-players-of-2019-niko-11",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1488322800000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 4,
-        "article": "https://www.hltv.org/news/31000/top-20-players-of-2020-niko-4"
+        "article": "https://www.hltv.org/news/31000/top-20-players-of-2020-niko-4",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1488322800000
+          },
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1604271600000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 3,
-        "article": "https://www.hltv.org/news/33154/top-20-players-of-2021-niko-3"
+        "article": "https://www.hltv.org/news/33154/top-20-players-of-2021-niko-3",
+        "teams": [
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1604271600000
+          }
+        ]
       }
     ],
     "country": "BA",
-    "profileUrl": "https://www.hltv.org/player/3741/NiKo",
-    "updatedAt": "2023-01-01T21:09:47.803Z"
+    "profileUrl": "https://www.hltv.org/player/3741/NiKo"
   },
   {
     "ign": "Magisk",
@@ -966,27 +2090,64 @@
       {
         "year": 2016,
         "place": 14,
-        "article": "https://www.hltv.org/news/19583-top-20-players-of-2016-magiskb0y-14"
+        "article": "https://www.hltv.org/news/19583-top-20-players-of-2016-magiskb0y-14",
+        "teams": [
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1445205600000
+          },
+          {
+            "id": 5422,
+            "name": "Dignitas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/_4q0csb9EDsrG9SAZ9k5tC.png?ixlib=java-2.1.0&w=50&s=a48d2323f5ed624a9dda2205888b5ead",
+            "startDate": 1470002400000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 7,
-        "article": "https://www.hltv.org/news/25823/top-20-players-of-2018-magisk-7"
+        "article": "https://www.hltv.org/news/25823/top-20-players-of-2018-magisk-7",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1518476400000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 5,
-        "article": "https://www.hltv.org/news/28847/top-20-players-of-2019-magisk-5"
+        "article": "https://www.hltv.org/news/28847/top-20-players-of-2019-magisk-5",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1518476400000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 11,
-        "article": "https://www.hltv.org/news/30940/top-20-players-of-2020-magisk-11"
+        "article": "https://www.hltv.org/news/30940/top-20-players-of-2020-magisk-11",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1518476400000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/9032/Magisk",
-    "updatedAt": "2023-01-01T21:09:52.408Z"
+    "profileUrl": "https://www.hltv.org/player/9032/Magisk"
   },
   {
     "ign": "fer",
@@ -997,17 +2158,38 @@
       {
         "year": 2016,
         "place": 15,
-        "article": "https://www.hltv.org/news/19581-top-20-players-of-2016-fer-15"
+        "article": "https://www.hltv.org/news/19581-top-20-players-of-2016-fer-15",
+        "teams": [
+          {
+            "id": 6290,
+            "name": "Luminosity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/chtJ6EB33l3skLz3TELR4z.svg?ixlib=java-2.1.0&s=2919627b3f897eeab102c0a31ba1af6a",
+            "startDate": 1440021600000
+          },
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 3,
-        "article": "https://www.hltv.org/news/22504/top-20-players-of-2017-fer-3"
+        "article": "https://www.hltv.org/news/22504/top-20-players-of-2017-fer-3",
+        "teams": [
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/8564/fer",
-    "updatedAt": "2023-01-01T21:09:57.460Z"
+    "profileUrl": "https://www.hltv.org/player/8564/fer"
   },
   {
     "ign": "Kjaerbye",
@@ -1018,17 +2200,38 @@
       {
         "year": 2016,
         "place": 16,
-        "article": "https://www.hltv.org/news/19575-top-20-players-of-2016-kjaerbye-16"
+        "article": "https://www.hltv.org/news/19575-top-20-players-of-2016-kjaerbye-16",
+        "teams": [
+          {
+            "id": 5422,
+            "name": "Dignitas",
+            "logo": "https://img-cdn.hltv.org/teamlogo/_4q0csb9EDsrG9SAZ9k5tC.png?ixlib=java-2.1.0&w=50&s=a48d2323f5ed624a9dda2205888b5ead",
+            "startDate": 1423954800000
+          },
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1463695200000
+          }
+        ]
       },
       {
         "year": 2017,
         "place": 15,
-        "article": "https://www.hltv.org/news/22371/top-20-players-of-2017-kjaerbye-15"
+        "article": "https://www.hltv.org/news/22371/top-20-players-of-2017-kjaerbye-15",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1463695200000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/8394/Kjaerbye",
-    "updatedAt": "2023-01-01T21:10:02.033Z"
+    "profileUrl": "https://www.hltv.org/player/8394/Kjaerbye"
   },
   {
     "ign": "fnx",
@@ -1039,12 +2242,25 @@
       {
         "year": 2016,
         "place": 19,
-        "article": "https://www.hltv.org/news/19562-top-20-players-of-2016-fnx-19"
+        "article": "https://www.hltv.org/news/19562-top-20-players-of-2016-fnx-19",
+        "teams": [
+          {
+            "id": 6290,
+            "name": "Luminosity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/chtJ6EB33l3skLz3TELR4z.svg?ixlib=java-2.1.0&s=2919627b3f897eeab102c0a31ba1af6a",
+            "startDate": 1448492400000
+          },
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1467669600000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/557/fnx",
-    "updatedAt": "2023-01-01T21:10:06.597Z"
+    "profileUrl": "https://www.hltv.org/player/557/fnx"
   },
   {
     "ign": "dennis",
@@ -1055,12 +2271,19 @@
       {
         "year": 2016,
         "place": 20,
-        "article": "https://www.hltv.org/news/19560-top-20-players-of-2016-dennis-20"
+        "article": "https://www.hltv.org/news/19560-top-20-players-of-2016-dennis-20",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1447282800000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/1146/dennis",
-    "updatedAt": "2023-01-01T21:10:11.149Z"
+    "profileUrl": "https://www.hltv.org/player/1146/dennis"
   },
   {
     "ign": "rain",
@@ -1071,17 +2294,32 @@
       {
         "year": 2017,
         "place": 4,
-        "article": "https://www.hltv.org/news/22481/top-20-players-of-2017-rain-4"
+        "article": "https://www.hltv.org/news/22481/top-20-players-of-2017-rain-4",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1453417200000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 18,
-        "article": "https://www.hltv.org/news/25754/top-20-players-of-2018-rain-18"
+        "article": "https://www.hltv.org/news/25754/top-20-players-of-2018-rain-18",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1453417200000
+          }
+        ]
       }
     ],
     "country": "NO",
-    "profileUrl": "https://www.hltv.org/player/8183/rain",
-    "updatedAt": "2023-01-01T21:10:15.673Z"
+    "profileUrl": "https://www.hltv.org/player/8183/rain"
   },
   {
     "ign": "HObbit",
@@ -1092,17 +2330,32 @@
       {
         "year": 2017,
         "place": 11,
-        "article": "https://www.hltv.org/news/22403/top-20-players-of-2017-hobbit-11"
+        "article": "https://www.hltv.org/news/22403/top-20-players-of-2017-hobbit-11",
+        "teams": [
+          {
+            "id": 6651,
+            "name": "Gambit",
+            "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "startDate": 1476223200000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 6,
-        "article": "https://www.hltv.org/news/33123/top-20-players-of-2021-hobbit-6"
+        "article": "https://www.hltv.org/news/33123/top-20-players-of-2021-hobbit-6",
+        "teams": [
+          {
+            "id": 6651,
+            "name": "Gambit",
+            "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "startDate": 1601848800000
+          }
+        ]
       }
     ],
     "country": "KZ",
-    "profileUrl": "https://www.hltv.org/player/8528/HObbit",
-    "updatedAt": "2023-01-01T21:10:20.461Z"
+    "profileUrl": "https://www.hltv.org/player/8528/HObbit"
   },
   {
     "ign": "EliGE",
@@ -1113,32 +2366,71 @@
       {
         "year": 2017,
         "place": 12,
-        "article": "https://www.hltv.org/news/22395/top-20-players-of-2017-elige-12"
+        "article": "https://www.hltv.org/news/22395/top-20-players-of-2017-elige-12",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1427238000000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 15,
-        "article": "https://www.hltv.org/news/25770/top-20-players-of-2018-elige-15"
+        "article": "https://www.hltv.org/news/25770/top-20-players-of-2018-elige-15",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1427238000000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 4,
-        "article": "https://www.hltv.org/news/28858/top-20-players-of-2019-elige-4"
+        "article": "https://www.hltv.org/news/28858/top-20-players-of-2019-elige-4",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1427238000000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 8,
-        "article": "https://www.hltv.org/news/30969/top-20-players-of-2020-elige-8"
+        "article": "https://www.hltv.org/news/30969/top-20-players-of-2020-elige-8",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1427238000000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 19,
-        "article": "https://www.hltv.org/news/33050/top-20-players-of-2021-elige-19"
+        "article": "https://www.hltv.org/news/33050/top-20-players-of-2021-elige-19",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1427238000000
+          }
+        ]
       }
     ],
     "country": "US",
-    "profileUrl": "https://www.hltv.org/player/8738/EliGE",
-    "updatedAt": "2023-01-01T21:10:24.465Z"
+    "profileUrl": "https://www.hltv.org/player/8738/EliGE"
   },
   {
     "ign": "k0nfig",
@@ -1149,12 +2441,19 @@
       {
         "year": 2017,
         "place": 14,
-        "article": "https://www.hltv.org/news/22382/top-20-players-of-2017-k0nfig-14"
+        "article": "https://www.hltv.org/news/22382/top-20-players-of-2017-k0nfig-14",
+        "teams": [
+          {
+            "id": 7533,
+            "name": "North",
+            "logo": "https://img-cdn.hltv.org/teamlogo/AK0jEb2awrq1OfnIBQ6TzO.svg?ixlib=java-2.1.0&s=d94b8814187c683142d654d1e83f6921",
+            "startDate": 1485039600000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/9078/k0nfig",
-    "updatedAt": "2023-01-01T21:10:30.649Z"
+    "profileUrl": "https://www.hltv.org/player/9078/k0nfig"
   },
   {
     "ign": "oskar",
@@ -1165,17 +2464,32 @@
       {
         "year": 2017,
         "place": 16,
-        "article": "https://www.hltv.org/news/22367/top-20-players-of-2017-oskar-16"
+        "article": "https://www.hltv.org/news/22367/top-20-players-of-2017-oskar-16",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/1YWxVoOcvOf3R9Z0-HWyeU.svg?ixlib=java-2.1.0&s=07f948624704c960960b962a9c0416c3",
+            "startDate": 1471903200000
+          }
+        ]
       },
       {
         "year": 2018,
         "place": 14,
-        "article": "https://www.hltv.org/news/25777/top-20-players-of-2018-oskar-14"
+        "article": "https://www.hltv.org/news/25777/top-20-players-of-2018-oskar-14",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/1YWxVoOcvOf3R9Z0-HWyeU.svg?ixlib=java-2.1.0&s=07f948624704c960960b962a9c0416c3",
+            "startDate": 1471903200000
+          }
+        ]
       }
     ],
     "country": "CZ",
-    "profileUrl": "https://www.hltv.org/player/798/oskar",
-    "updatedAt": "2023-01-01T21:10:35.300Z"
+    "profileUrl": "https://www.hltv.org/player/798/oskar"
   },
   {
     "ign": "AdreN",
@@ -1186,12 +2500,19 @@
       {
         "year": 2017,
         "place": 17,
-        "article": "https://www.hltv.org/news/22360/top-20-players-of-2017-adren-17"
+        "article": "https://www.hltv.org/news/22360/top-20-players-of-2017-adren-17",
+        "teams": [
+          {
+            "id": 6651,
+            "name": "Gambit",
+            "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "startDate": 1452985200000
+          }
+        ]
       }
     ],
     "country": "KZ",
-    "profileUrl": "https://www.hltv.org/player/334/AdreN",
-    "updatedAt": "2023-01-01T21:10:40.186Z"
+    "profileUrl": "https://www.hltv.org/player/334/AdreN"
   },
   {
     "ign": "boltz",
@@ -1202,12 +2523,25 @@
       {
         "year": 2017,
         "place": 18,
-        "article": "https://www.hltv.org/news/22357/top-20-players-of-2017-boltz-18"
+        "article": "https://www.hltv.org/news/22357/top-20-players-of-2017-boltz-18",
+        "teams": [
+          {
+            "id": 7010,
+            "name": "Immortals",
+            "logo": "https://img-cdn.hltv.org/teamlogo/u-cFwmfjahGRj6GNcpPR5u.svg?ixlib=java-2.1.0&s=b4015788e62cb071f58e574e3d58ebe1",
+            "startDate": 1465423200000
+          },
+          {
+            "id": 6137,
+            "name": "SK",
+            "logo": "https://img-cdn.hltv.org/teamlogo/BwZh5NvZ8Do1lX6ejFB08_.svg?ixlib=java-2.1.0&s=23a9c39ac816e1adb47746283d4ab52d",
+            "startDate": 1508796000000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/8568/boltz",
-    "updatedAt": "2023-01-01T21:10:45.035Z"
+    "profileUrl": "https://www.hltv.org/player/8568/boltz"
   },
   {
     "ign": "electroNic",
@@ -1218,27 +2552,58 @@
       {
         "year": 2018,
         "place": 4,
-        "article": "https://www.hltv.org/news/25848/top-20-players-of-2018-electronic-4"
+        "article": "https://www.hltv.org/news/25848/top-20-players-of-2018-electronic-4",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1510095600000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 6,
-        "article": "https://www.hltv.org/news/28840/top-20-players-of-2019-electronic-6"
+        "article": "https://www.hltv.org/news/28840/top-20-players-of-2019-electronic-6",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1510095600000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 5,
-        "article": "https://www.hltv.org/news/30998/top-20-players-of-2020-electronic-5"
+        "article": "https://www.hltv.org/news/30998/top-20-players-of-2020-electronic-5",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1510095600000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 7,
-        "article": "https://www.hltv.org/news/33121/top-20-players-of-2021-electronic-7"
+        "article": "https://www.hltv.org/news/33121/top-20-players-of-2021-electronic-7",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1510095600000
+          }
+        ]
       }
     ],
     "country": "RU",
-    "profileUrl": "https://www.hltv.org/player/8918/electroNic",
-    "updatedAt": "2023-01-01T21:10:49.787Z"
+    "profileUrl": "https://www.hltv.org/player/8918/electroNic"
   },
   {
     "ign": "NAF",
@@ -1249,22 +2614,51 @@
       {
         "year": 2018,
         "place": 6,
-        "article": "https://www.hltv.org/news/25827/top-20-players-of-2018-naf-6"
+        "article": "https://www.hltv.org/news/25827/top-20-players-of-2018-naf-6",
+        "teams": [
+          {
+            "id": 6211,
+            "name": "Renegades",
+            "logo": "https://img-cdn.hltv.org/teamlogo/KN-bogp5T6YcaAbR-8QuaG.svg?ixlib=java-2.1.0&s=30510c644332be4cf0b93e4df7e9afa5",
+            "startDate": 1504648800000
+          },
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1518044400000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 7,
-        "article": "https://www.hltv.org/news/28837/top-20-players-of-2019-naf-7"
+        "article": "https://www.hltv.org/news/28837/top-20-players-of-2019-naf-7",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1518044400000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 14,
-        "article": "https://www.hltv.org/news/33083/top-20-players-of-2021-naf-14"
+        "article": "https://www.hltv.org/news/33083/top-20-players-of-2021-naf-14",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1518044400000
+          }
+        ]
       }
     ],
     "country": "CA",
-    "profileUrl": "https://www.hltv.org/player/8520/NAF",
-    "updatedAt": "2023-01-01T21:10:56.958Z"
+    "profileUrl": "https://www.hltv.org/player/8520/NAF"
   },
   {
     "ign": "gla1ve",
@@ -1275,12 +2669,19 @@
       {
         "year": 2018,
         "place": 8,
-        "article": "https://www.hltv.org/news/25815/top-20-players-of-2018-gla1ve-8"
+        "article": "https://www.hltv.org/news/25815/top-20-players-of-2018-gla1ve-8",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1478041200000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/7412/gla1ve",
-    "updatedAt": "2023-01-01T21:11:02.370Z"
+    "profileUrl": "https://www.hltv.org/player/7412/gla1ve"
   },
   {
     "ign": "Twistzz",
@@ -1291,22 +2692,45 @@
       {
         "year": 2018,
         "place": 12,
-        "article": "https://www.hltv.org/news/25790/top-20-players-of-2018-twistzz-12"
+        "article": "https://www.hltv.org/news/25790/top-20-players-of-2018-twistzz-12",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1492034400000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 9,
-        "article": "https://www.hltv.org/news/28822/top-20-players-of-2019-twistzz-9"
+        "article": "https://www.hltv.org/news/28822/top-20-players-of-2019-twistzz-9",
+        "teams": [
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1492034400000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 17,
-        "article": "https://www.hltv.org/news/33068/top-20-players-of-2021-twistzz-17"
+        "article": "https://www.hltv.org/news/33068/top-20-players-of-2021-twistzz-17",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1611961200000
+          }
+        ]
       }
     ],
     "country": "CA",
-    "profileUrl": "https://www.hltv.org/player/10394/Twistzz",
-    "updatedAt": "2023-01-01T21:11:07.806Z"
+    "profileUrl": "https://www.hltv.org/player/10394/Twistzz"
   },
   {
     "ign": "suNny",
@@ -1317,12 +2741,19 @@
       {
         "year": 2018,
         "place": 16,
-        "article": "https://www.hltv.org/news/25763/top-20-players-of-2018-sunny-16"
+        "article": "https://www.hltv.org/news/25763/top-20-players-of-2018-sunny-16",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/1YWxVoOcvOf3R9Z0-HWyeU.svg?ixlib=java-2.1.0&s=07f948624704c960960b962a9c0416c3",
+            "startDate": 1503352800000
+          }
+        ]
       }
     ],
     "country": "FI",
-    "profileUrl": "https://www.hltv.org/player/5479/suNny",
-    "updatedAt": "2023-01-01T21:11:12.678Z"
+    "profileUrl": "https://www.hltv.org/player/5479/suNny"
   },
   {
     "ign": "autimatic",
@@ -1333,12 +2764,19 @@
       {
         "year": 2018,
         "place": 17,
-        "article": "https://www.hltv.org/news/25758/top-20-players-of-2018-autimatic-17"
+        "article": "https://www.hltv.org/news/25758/top-20-players-of-2018-autimatic-17",
+        "teams": [
+          {
+            "id": 5752,
+            "name": "Cloud9",
+            "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c",
+            "startDate": 1471471200000
+          }
+        ]
       }
     ],
     "country": "US",
-    "profileUrl": "https://www.hltv.org/player/8735/autimatic",
-    "updatedAt": "2023-01-01T21:11:17.283Z"
+    "profileUrl": "https://www.hltv.org/player/8735/autimatic"
   },
   {
     "ign": "ropz",
@@ -1349,27 +2787,58 @@
       {
         "year": 2018,
         "place": 19,
-        "article": "https://www.hltv.org/news/25749/top-20-players-of-2018-ropz-19"
+        "article": "https://www.hltv.org/news/25749/top-20-players-of-2018-ropz-19",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23",
+            "startDate": 1491948000000
+          }
+        ]
       },
       {
         "year": 2019,
         "place": 10,
-        "article": "https://www.hltv.org/news/28816/top-20-players-of-2019-ropz-10"
+        "article": "https://www.hltv.org/news/28816/top-20-players-of-2019-ropz-10",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23",
+            "startDate": 1491948000000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 7,
-        "article": "https://www.hltv.org/news/30978/top-20-players-of-2020-ropz-7"
+        "article": "https://www.hltv.org/news/30978/top-20-players-of-2020-ropz-7",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23",
+            "startDate": 1491948000000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 18,
-        "article": "https://www.hltv.org/news/33063/top-20-players-of-2021-ropz-18"
+        "article": "https://www.hltv.org/news/33063/top-20-players-of-2021-ropz-18",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23",
+            "startDate": 1491948000000
+          }
+        ]
       }
     ],
     "country": "EE",
-    "profileUrl": "https://www.hltv.org/player/11816/ropz",
-    "updatedAt": "2023-01-01T21:11:21.812Z"
+    "profileUrl": "https://www.hltv.org/player/11816/ropz"
   },
   {
     "ign": "valde",
@@ -1380,12 +2849,19 @@
       {
         "year": 2018,
         "place": 20,
-        "article": "https://www.hltv.org/news/25746/top-20-players-of-2018-valde-20"
+        "article": "https://www.hltv.org/news/25746/top-20-players-of-2018-valde-20",
+        "teams": [
+          {
+            "id": 7533,
+            "name": "North",
+            "logo": "https://img-cdn.hltv.org/teamlogo/AK0jEb2awrq1OfnIBQ6TzO.svg?ixlib=java-2.1.0&s=d94b8814187c683142d654d1e83f6921",
+            "startDate": 1503525600000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/9031/valde",
-    "updatedAt": "2023-01-01T21:11:26.400Z"
+    "profileUrl": "https://www.hltv.org/player/9031/valde"
   },
   {
     "ign": "ZywOo",
@@ -1396,22 +2872,45 @@
       {
         "year": 2019,
         "place": 1,
-        "article": "https://www.hltv.org/news/28877/top-20-players-of-2019-zywoo-1"
+        "article": "https://www.hltv.org/news/28877/top-20-players-of-2019-zywoo-1",
+        "teams": [
+          {
+            "id": 9565,
+            "name": "Vitality",
+            "logo": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "startDate": 1539640800000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 1,
-        "article": "https://www.hltv.org/news/31024/top-20-players-of-2020-zywoo-1"
+        "article": "https://www.hltv.org/news/31024/top-20-players-of-2020-zywoo-1",
+        "teams": [
+          {
+            "id": 9565,
+            "name": "Vitality",
+            "logo": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "startDate": 1539640800000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 2,
-        "article": "https://www.hltv.org/news/33152/top-20-players-of-2021-zywoo-2"
+        "article": "https://www.hltv.org/news/33152/top-20-players-of-2021-zywoo-2",
+        "teams": [
+          {
+            "id": 9565,
+            "name": "Vitality",
+            "logo": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "startDate": 1539640800000
+          }
+        ]
       }
     ],
     "country": "FR",
-    "profileUrl": "https://www.hltv.org/player/11893/ZywOo",
-    "updatedAt": "2023-01-01T21:11:31.965Z"
+    "profileUrl": "https://www.hltv.org/player/11893/ZywOo"
   },
   {
     "ign": "Brehze",
@@ -1422,17 +2921,38 @@
       {
         "year": 2019,
         "place": 8,
-        "article": "https://www.hltv.org/news/28827/top-20-players-of-2019-brehze-8"
+        "article": "https://www.hltv.org/news/28827/top-20-players-of-2019-brehze-8",
+        "teams": [
+          {
+            "id": 6673,
+            "name": "NRG",
+            "logo": "https://img-cdn.hltv.org/teamlogo/FWweZ99RnoooVjxfXcejyF.png?ixlib=java-2.1.0&w=50&s=988110f56625ba2bc582682f47c12027",
+            "startDate": 1485037800000
+          },
+          {
+            "id": 10399,
+            "name": "Evil Geniuses",
+            "logo": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+            "startDate": 1569448800000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 20,
-        "article": "https://www.hltv.org/news/30899/top-20-players-of-2020-brehze-20"
+        "article": "https://www.hltv.org/news/30899/top-20-players-of-2020-brehze-20",
+        "teams": [
+          {
+            "id": 10399,
+            "name": "Evil Geniuses",
+            "logo": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+            "startDate": 1569448800000
+          }
+        ]
       }
     ],
     "country": "US",
-    "profileUrl": "https://www.hltv.org/player/9136/Brehze",
-    "updatedAt": "2023-01-01T21:11:36.558Z"
+    "profileUrl": "https://www.hltv.org/player/9136/Brehze"
   },
   {
     "ign": "woxic",
@@ -1443,12 +2963,25 @@
       {
         "year": 2019,
         "place": 12,
-        "article": "https://www.hltv.org/news/28800/top-20-players-of-2019-woxic-12"
+        "article": "https://www.hltv.org/news/28800/top-20-players-of-2019-woxic-12",
+        "teams": [
+          {
+            "id": 5310,
+            "name": "HellRaisers",
+            "logo": "https://img-cdn.hltv.org/teamlogo/ybX7DRQDKOVfRYNJsh5E97.png?ixlib=java-2.1.0&w=50&s=23e9301ed79a0845740c4122e79cef68",
+            "startDate": 1502920800000
+          },
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/1YWxVoOcvOf3R9Z0-HWyeU.svg?ixlib=java-2.1.0&s=07f948624704c960960b962a9c0416c3",
+            "startDate": 1552863600000
+          }
+        ]
       }
     ],
     "country": "TR",
-    "profileUrl": "https://www.hltv.org/player/8574/woxic",
-    "updatedAt": "2023-01-01T21:11:41.236Z"
+    "profileUrl": "https://www.hltv.org/player/8574/woxic"
   },
   {
     "ign": "sergej",
@@ -1459,12 +2992,19 @@
       {
         "year": 2019,
         "place": 13,
-        "article": "https://www.hltv.org/news/28794/top-20-players-of-2019-sergej-13"
+        "article": "https://www.hltv.org/news/28794/top-20-players-of-2019-sergej-13",
+        "teams": [
+          {
+            "id": 4869,
+            "name": "ENCE",
+            "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8",
+            "startDate": 1523397600000
+          }
+        ]
       }
     ],
     "country": "FI",
-    "profileUrl": "https://www.hltv.org/player/11916/sergej",
-    "updatedAt": "2023-01-01T21:11:45.870Z"
+    "profileUrl": "https://www.hltv.org/player/11916/sergej"
   },
   {
     "ign": "jks",
@@ -1475,17 +3015,44 @@
       {
         "year": 2019,
         "place": 15,
-        "article": "https://www.hltv.org/news/28777/top-20-players-of-2019-jks-15"
+        "article": "https://www.hltv.org/news/28777/top-20-players-of-2019-jks-15",
+        "teams": [
+          {
+            "id": 6211,
+            "name": "Renegades",
+            "logo": "https://img-cdn.hltv.org/teamlogo/KN-bogp5T6YcaAbR-8QuaG.svg?ixlib=java-2.1.0&s=30510c644332be4cf0b93e4df7e9afa5",
+            "startDate": 1434751200000
+          },
+          {
+            "id": 8474,
+            "name": "100 Thieves",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87",
+            "startDate": 1573081200000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 19,
-        "article": "https://www.hltv.org/news/30902/top-20-players-of-2020-jks-19"
+        "article": "https://www.hltv.org/news/30902/top-20-players-of-2020-jks-19",
+        "teams": [
+          {
+            "id": 8474,
+            "name": "100 Thieves",
+            "logo": "https://img-cdn.hltv.org/teamlogo/QdpX-_6C2wHMgv98VAE6il.png?ixlib=java-2.1.0&w=50&s=5f34e763e5f7c7d0408a8814f42d7a87",
+            "startDate": 1573081200000
+          },
+          {
+            "id": 5005,
+            "name": "Complexity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+            "startDate": 1603926000000
+          }
+        ]
       }
     ],
     "country": "AU",
-    "profileUrl": "https://www.hltv.org/player/4679/jks",
-    "updatedAt": "2023-01-01T21:11:52.278Z"
+    "profileUrl": "https://www.hltv.org/player/4679/jks"
   },
   {
     "ign": "CeRq",
@@ -1496,12 +3063,25 @@
       {
         "year": 2019,
         "place": 18,
-        "article": "https://www.hltv.org/news/28754/top-20-players-of-2019-cerq-18"
+        "article": "https://www.hltv.org/news/28754/top-20-players-of-2019-cerq-18",
+        "teams": [
+          {
+            "id": 6673,
+            "name": "NRG",
+            "logo": "https://img-cdn.hltv.org/teamlogo/FWweZ99RnoooVjxfXcejyF.png?ixlib=java-2.1.0&w=50&s=988110f56625ba2bc582682f47c12027",
+            "startDate": 1503191400000
+          },
+          {
+            "id": 10399,
+            "name": "Evil Geniuses",
+            "logo": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+            "startDate": 1569448800000
+          }
+        ]
       }
     ],
     "country": "BG",
-    "profileUrl": "https://www.hltv.org/player/11219/CeRq",
-    "updatedAt": "2023-01-01T21:11:58.577Z"
+    "profileUrl": "https://www.hltv.org/player/11219/CeRq"
   },
   {
     "ign": "Brollan",
@@ -1512,17 +3092,32 @@
       {
         "year": 2019,
         "place": 19,
-        "article": "https://www.hltv.org/news/28753/top-20-players-of-2019-brollan-19"
+        "article": "https://www.hltv.org/news/28753/top-20-players-of-2019-brollan-19",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1539727200000
+          }
+        ]
       },
       {
         "year": 2020,
         "place": 15,
-        "article": "https://www.hltv.org/news/30916/top-20-players-of-2020-brollan-15"
+        "article": "https://www.hltv.org/news/30916/top-20-players-of-2020-brollan-15",
+        "teams": [
+          {
+            "id": 4991,
+            "name": "fnatic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+            "startDate": 1539727200000
+          }
+        ]
       }
     ],
     "country": "SE",
-    "profileUrl": "https://www.hltv.org/player/13666/Brollan",
-    "updatedAt": "2023-01-01T21:12:03.710Z"
+    "profileUrl": "https://www.hltv.org/player/13666/Brollan"
   },
   {
     "ign": "Ethan",
@@ -1533,12 +3128,25 @@
       {
         "year": 2019,
         "place": 20,
-        "article": "https://www.hltv.org/news/28751/top-20-players-of-2019-ethan-20"
+        "article": "https://www.hltv.org/news/28751/top-20-players-of-2019-ethan-20",
+        "teams": [
+          {
+            "id": 6673,
+            "name": "NRG",
+            "logo": "https://img-cdn.hltv.org/teamlogo/FWweZ99RnoooVjxfXcejyF.png?ixlib=java-2.1.0&w=50&s=988110f56625ba2bc582682f47c12027",
+            "startDate": 1517342400000
+          },
+          {
+            "id": 10399,
+            "name": "Evil Geniuses",
+            "logo": "https://img-cdn.hltv.org/teamlogo/p6OXTVsTFEhOcbTJ8gmuP6.png?ixlib=java-2.1.0&w=50&s=41a619052f610fec335d17028d1f32af",
+            "startDate": 1569448800000
+          }
+        ]
       }
     ],
     "country": "US",
-    "profileUrl": "https://www.hltv.org/player/10671/Ethan",
-    "updatedAt": "2023-01-01T21:12:08.469Z"
+    "profileUrl": "https://www.hltv.org/player/10671/Ethan"
   },
   {
     "ign": "blameF",
@@ -1549,17 +3157,38 @@
       {
         "year": 2020,
         "place": 6,
-        "article": "https://www.hltv.org/news/30990/top-20-players-of-2020-blamef-6"
+        "article": "https://www.hltv.org/news/30990/top-20-players-of-2020-blamef-6",
+        "teams": [
+          {
+            "id": 5005,
+            "name": "Complexity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+            "startDate": 1570831200000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 13,
-        "article": "https://www.hltv.org/news/33088/top-20-players-of-2021-blamef-13"
+        "article": "https://www.hltv.org/news/33088/top-20-players-of-2021-blamef-13",
+        "teams": [
+          {
+            "id": 5005,
+            "name": "Complexity",
+            "logo": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+            "startDate": 1570831200000
+          },
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1635980400000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/15165/blameF",
-    "updatedAt": "2023-01-01T21:12:14.194Z"
+    "profileUrl": "https://www.hltv.org/player/15165/blameF"
   },
   {
     "ign": "syrsoN",
@@ -1570,12 +3199,19 @@
       {
         "year": 2020,
         "place": 10,
-        "article": "https://www.hltv.org/news/30946/top-20-players-of-2020-syrson-10"
+        "article": "https://www.hltv.org/news/30946/top-20-players-of-2020-syrson-10",
+        "teams": [
+          {
+            "id": 7532,
+            "name": "BIG",
+            "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+            "startDate": 1578870000000
+          }
+        ]
       }
     ],
     "country": "DE",
-    "profileUrl": "https://www.hltv.org/player/7266/syrsoN",
-    "updatedAt": "2023-01-01T21:12:19.014Z"
+    "profileUrl": "https://www.hltv.org/player/7266/syrsoN"
   },
   {
     "ign": "stavn",
@@ -1586,17 +3222,32 @@
       {
         "year": 2020,
         "place": 12,
-        "article": "https://www.hltv.org/news/30935/top-20-players-of-2020-stavn-12"
+        "article": "https://www.hltv.org/news/30935/top-20-players-of-2020-stavn-12",
+        "teams": [
+          {
+            "id": 7175,
+            "name": "Heroic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Q6BGM_VQRz8Y9m3UgaqiUx.svg?ixlib=java-2.1.0&s=9424e99a6d77c8f154ea2d74175b3e17",
+            "startDate": 1553036400000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 16,
-        "article": "https://www.hltv.org/news/33074/top-20-players-of-2021-stavn-16"
+        "article": "https://www.hltv.org/news/33074/top-20-players-of-2021-stavn-16",
+        "teams": [
+          {
+            "id": 7175,
+            "name": "Heroic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Q6BGM_VQRz8Y9m3UgaqiUx.svg?ixlib=java-2.1.0&s=9424e99a6d77c8f154ea2d74175b3e17",
+            "startDate": 1553036400000
+          }
+        ]
       }
     ],
     "country": "DK",
-    "profileUrl": "https://www.hltv.org/player/10994/stavn",
-    "updatedAt": "2023-01-01T21:12:23.590Z"
+    "profileUrl": "https://www.hltv.org/player/10994/stavn"
   },
   {
     "ign": "huNter-",
@@ -1607,17 +3258,32 @@
       {
         "year": 2020,
         "place": 13,
-        "article": "https://www.hltv.org/news/30931/top-20-players-of-2020-hunter-13"
+        "article": "https://www.hltv.org/news/30931/top-20-players-of-2020-hunter-13",
+        "teams": [
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1569880800000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 12,
-        "article": "https://www.hltv.org/news/33091/top-20-players-of-2021-hunter-12"
+        "article": "https://www.hltv.org/news/33091/top-20-players-of-2021-hunter-12",
+        "teams": [
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1569880800000
+          }
+        ]
       }
     ],
     "country": "BA",
-    "profileUrl": "https://www.hltv.org/player/3972/huNter-",
-    "updatedAt": "2023-01-01T21:12:31.851Z"
+    "profileUrl": "https://www.hltv.org/player/3972/huNter-"
   },
   {
     "ign": "yuurih",
@@ -1628,17 +3294,32 @@
       {
         "year": 2020,
         "place": 14,
-        "article": "https://www.hltv.org/news/30925/top-20-players-of-2020-yuurih-14"
+        "article": "https://www.hltv.org/news/30925/top-20-players-of-2020-yuurih-14",
+        "teams": [
+          {
+            "id": 8297,
+            "name": "FURIA",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+            "startDate": 1510009200000
+          }
+        ]
       },
       {
         "year": 2022,
         "place": 19,
-        "article": "https://www.hltv.org/news/35316/top-20-players-of-2022-yuurih-19"
+        "article": "https://www.hltv.org/news/35316/top-20-players-of-2022-yuurih-19",
+        "teams": [
+          {
+            "id": 8297,
+            "name": "FURIA",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+            "startDate": 1510009200000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/12553/yuurih",
-    "updatedAt": "2023-01-01T21:12:36.347Z"
+    "profileUrl": "https://www.hltv.org/player/12553/yuurih"
   },
   {
     "ign": "HEN1",
@@ -1649,12 +3330,19 @@
       {
         "year": 2020,
         "place": 16,
-        "article": "https://www.hltv.org/news/30913/top-20-players-of-2020-hen1-16"
+        "article": "https://www.hltv.org/news/30913/top-20-players-of-2020-hen1-16",
+        "teams": [
+          {
+            "id": 8297,
+            "name": "FURIA",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+            "startDate": 1569880800000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/8565/HEN1",
-    "updatedAt": "2023-01-01T21:12:42.087Z"
+    "profileUrl": "https://www.hltv.org/player/8565/HEN1"
   },
   {
     "ign": "KSCERATO",
@@ -1665,17 +3353,32 @@
       {
         "year": 2020,
         "place": 18,
-        "article": "https://www.hltv.org/news/30904/top-20-players-of-2020-kscerato-18"
+        "article": "https://www.hltv.org/news/30904/top-20-players-of-2020-kscerato-18",
+        "teams": [
+          {
+            "id": 8297,
+            "name": "FURIA",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+            "startDate": 1519167600000
+          }
+        ]
       },
       {
         "year": 2021,
         "place": 15,
-        "article": "https://www.hltv.org/news/33082/top-20-players-of-2021-kscerato-15"
+        "article": "https://www.hltv.org/news/33082/top-20-players-of-2021-kscerato-15",
+        "teams": [
+          {
+            "id": 8297,
+            "name": "FURIA",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+            "startDate": 1519167600000
+          }
+        ]
       }
     ],
     "country": "BR",
-    "profileUrl": "https://www.hltv.org/player/15631/KSCERATO",
-    "updatedAt": "2023-01-01T21:12:48.174Z"
+    "profileUrl": "https://www.hltv.org/player/15631/KSCERATO"
   },
   {
     "ign": "sh1ro",
@@ -1686,12 +3389,19 @@
       {
         "year": 2021,
         "place": 4,
-        "article": "https://www.hltv.org/news/33137/top-20-players-of-2021-sh1ro-4"
+        "article": "https://www.hltv.org/news/33137/top-20-players-of-2021-sh1ro-4",
+        "teams": [
+          {
+            "id": 6651,
+            "name": "Gambit",
+            "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "startDate": 1601848800000
+          }
+        ]
       }
     ],
     "country": "RU",
-    "profileUrl": "https://www.hltv.org/player/16920/sh1ro",
-    "updatedAt": "2023-01-01T21:12:53.969Z"
+    "profileUrl": "https://www.hltv.org/player/16920/sh1ro"
   },
   {
     "ign": "Ax1Le",
@@ -1702,12 +3412,19 @@
       {
         "year": 2021,
         "place": 5,
-        "article": "https://www.hltv.org/news/33130/top-20-players-of-2021-ax1le-5"
+        "article": "https://www.hltv.org/news/33130/top-20-players-of-2021-ax1le-5",
+        "teams": [
+          {
+            "id": 6651,
+            "name": "Gambit",
+            "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "startDate": 1601848800000
+          }
+        ]
       }
     ],
     "country": "RU",
-    "profileUrl": "https://www.hltv.org/player/16555/Ax1Le",
-    "updatedAt": "2023-01-01T21:12:59.440Z"
+    "profileUrl": "https://www.hltv.org/player/16555/Ax1Le"
   },
   {
     "ign": "YEKINDAR",
@@ -1718,12 +3435,19 @@
       {
         "year": 2021,
         "place": 8,
-        "article": "https://www.hltv.org/news/33116/top-20-players-of-2021-yekindar-8"
+        "article": "https://www.hltv.org/news/33116/top-20-players-of-2021-yekindar-8",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1590357600000
+          }
+        ]
       }
     ],
     "country": "LV",
-    "profileUrl": "https://www.hltv.org/player/13915/YEKINDAR",
-    "updatedAt": "2023-01-01T21:13:04.314Z"
+    "profileUrl": "https://www.hltv.org/player/13915/YEKINDAR"
   },
   {
     "ign": "b1t",
@@ -1734,12 +3458,25 @@
       {
         "year": 2021,
         "place": 9,
-        "article": "https://www.hltv.org/news/33114/top-20-players-of-2021-b1t-9"
+        "article": "https://www.hltv.org/news/33114/top-20-players-of-2021-b1t-9",
+        "teams": [
+          {
+            "id": 10371,
+            "name": "NAVI Junior",
+            "logo": "https://img-cdn.hltv.org/teamlogo/5-1R6_tdnc-xf2F456CIbN.png?ixlib=java-2.1.0&w=50&s=5e473c72ecbb14b05abdc8bff510cb3c",
+            "startDate": 1570399200000
+          },
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1611183600000
+          }
+        ]
       }
     ],
     "country": "UA",
-    "profileUrl": "https://www.hltv.org/player/18987/b1t",
-    "updatedAt": "2023-01-01T21:13:09.074Z"
+    "profileUrl": "https://www.hltv.org/player/18987/b1t"
   },
   {
     "ign": "Jame",
@@ -1750,17 +3487,38 @@
       {
         "year": 2021,
         "place": 10,
-        "article": "https://www.hltv.org/news/33093/top-20-players-of-2021-jame-10"
+        "article": "https://www.hltv.org/news/33093/top-20-players-of-2021-jame-10",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1576623600000
+          }
+        ]
       },
       {
         "year": 2022,
         "place": 20,
-        "article": "https://www.hltv.org/news/35314/top-20-players-of-2022-jame-20"
+        "article": "https://www.hltv.org/news/35314/top-20-players-of-2022-jame-20",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1576623600000
+          },
+          {
+            "id": 11595,
+            "name": "Outsiders",
+            "logo": "https://img-cdn.hltv.org/teamlogo/K15IzjKuVPxnoWr3J3-tJ7.png?ixlib=java-2.1.0&w=50&s=d87bd1cf1f3835f152b363eecd95e3fe",
+            "startDate": 1647385200000
+          }
+        ]
       }
     ],
     "country": "RU",
-    "profileUrl": "https://www.hltv.org/player/13776/Jame",
-    "updatedAt": "2023-01-01T21:13:13.777Z"
+    "profileUrl": "https://www.hltv.org/player/13776/Jame"
   },
   {
     "ign": "broky",
@@ -1771,11 +3529,70 @@
       {
         "year": 2021,
         "place": 20,
-        "article": "https://www.hltv.org/news/33049/top-20-players-of-2021-broky-20"
+        "article": "https://www.hltv.org/news/33049/top-20-players-of-2021-broky-20",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1569448800000
+          }
+        ]
       }
     ],
     "country": "LV",
-    "profileUrl": "https://www.hltv.org/player/18053/broky",
-    "updatedAt": "2023-01-01T21:13:18.240Z"
+    "profileUrl": "https://www.hltv.org/player/18053/broky"
+  },
+  {
+    "ign": "frozen",
+    "id": 9960,
+    "name": "David Čerňanský",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/468BX6Isiy6fkAVZAQaxl5.png?ixlib=java-2.1.0&w=400&s=ff5fa86462077a77d99eb4f26a053b4d",
+    "rankings": [
+      {
+        "year": 2022,
+        "place": 17,
+        "article": "https://www.hltv.org/news/35319/top-20-players-of-2022-frozen-17",
+        "teams": [
+          {
+            "id": 4494,
+            "name": "MOUZ",
+            "logo": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23",
+            "startDate": 1552863600000
+          }
+        ]
+      }
+    ],
+    "country": "SK",
+    "profileUrl": "https://www.hltv.org/player/9960/frozen"
+  },
+  {
+    "ign": "Spinx",
+    "id": 18221,
+    "name": "Lotan Giladi",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/QsaFLKISX5s90wttevOtrG.png?ixlib=java-2.1.0&w=400&s=d63987ed2db20857216e9a87b35334c4",
+    "rankings": [
+      {
+        "year": 2022,
+        "place": 18,
+        "article": "https://www.hltv.org/news/35322/top-20-players-of-2022-spinx-18",
+        "teams": [
+          {
+            "id": 4869,
+            "name": "ENCE",
+            "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8",
+            "startDate": 1611183600000
+          },
+          {
+            "id": 9565,
+            "name": "Vitality",
+            "logo": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "startDate": 1660514400000
+          }
+        ]
+      }
+    ],
+    "country": "IL",
+    "profileUrl": "https://www.hltv.org/player/18221/Spinx"
   }
 ]

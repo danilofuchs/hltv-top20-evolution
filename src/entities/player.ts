@@ -1,21 +1,28 @@
 export interface Player {
   /** In-game name */
   ign: string;
-  rankings: PlayerRank[];
+  rankings: PlayerPlacement[];
   id?: number;
   name?: string;
   image?: string;
   country?: string;
   profileUrl?: string;
   color?: string;
-  updatedAt?: string;
 }
 
-export interface PlayerRank {
+export interface PlayerTeam {
+  id: number;
+  name: string;
+  logo?: string;
+  startDate: number;
+}
+
+export interface PlayerPlacement {
   year: number;
   place: number | null;
-  article?: string;
+  article: string;
   shouldLabel?: boolean;
+  teams?: PlayerTeam[];
 }
 
 export interface YearRanking {

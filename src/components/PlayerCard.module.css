@@ -85,6 +85,21 @@
   margin-left: 0.5rem;
 }
 
-.rankingArticleLink {
+.yearPlacementRow {
   color: var(--link-color);
+
+  display: grid;
+  grid-template-columns: 2rem 2rem auto;
+  gap: 1.5rem;
+
+  padding: 0 2rem;
+
+  width: 100%;
+}
+
+.yearPlacementTeams {
+  display: flex;
+  justify-content: flex-start;
+
+  gap: 0.5rem;
 }

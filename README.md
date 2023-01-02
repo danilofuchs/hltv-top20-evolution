@@ -28,6 +28,9 @@ This [JSON file](./src/data/rankings.json) contains information about every rank
 - `yarn generate`
 - :tada:
 
+> Note: hltv package requires the following patches:
+> https://github.com/gigobyte/HLTV/pull/626 https://github.com/gigobyte/HLTV/pull/627
+
 ### Overrides
 
 Some players have duplicate names (such as `Nico`).

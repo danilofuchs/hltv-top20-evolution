@@ -37,17 +37,32 @@ export async function* fetchPlayers(igns: string[]) {
 async function fetchPlayerWithOverride(ign: string, overrides: FullPlayer[]) {
   const override = overrides.find((player) => player.ign === ign);
   if (override) {
-    return override;
+    const player = await fetchPlayerById(override.id);
+    return {
+      ...player,
+      ...override,
+    };
   }
-  return fetchPlayer(ign);
+  return fetchPlayerByName(ign);
 }
 
-async function fetchPlayer(ign: string) {
+async function fetchPlayerByName(ign: string) {
   try {
     return await hltv.getPlayerByName({ name: ign });
   } catch (error) {
     console.error(`Error while fetching player ${ign}, retrying once`);
+    console.error(error);
     return await hltv.getPlayerByName({ name: ign });
+  }
+}
+
+async function fetchPlayerById(id: number) {
+  try {
+    return await hltv.getPlayer({ id });
+  } catch (error) {
+    console.error(`Error while fetching player ${id}, retrying once`);
+    console.error(error);
+    return await hltv.getPlayer({ id });
   }
 }
 
