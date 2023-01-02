@@ -31,6 +31,7 @@ export const BumpChart = React.memo(function BumpChart(props: Props) {
             player.rankings.find((ranking) => ranking.year === year) || {
               year,
               place: null,
+              article: "",
             }
         ),
       })),
