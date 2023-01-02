@@ -6,7 +6,7 @@ import {
   VictoryLine,
   VictoryVoronoiContainer,
 } from "victory";
-import { Player, PlayerRank, YearRanking } from "@src/entities/player";
+import { Player, PlayerPlacement, YearRanking } from "@src/entities/player";
 import React, { useCallback, useMemo } from "react";
 
 interface Props {
@@ -40,7 +40,7 @@ export const BumpChart = React.memo(function BumpChart(props: Props) {
   const playersWithLabels: Player[] = useMemo(
     () =>
       playersWithHoles.map((player) => {
-        const rankings: PlayerRank[] = [];
+        const rankings: PlayerPlacement[] = [];
         for (let i = 0; i < player.rankings.length; i++) {
           if (player.rankings[i].place !== null) {
             if (i === 0) {

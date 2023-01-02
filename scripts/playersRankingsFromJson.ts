@@ -2,7 +2,7 @@ import * as fs from "fs";
 import * as util from "util";
 import * as path from "path";
 import * as url from "url";
-import { PlayerRank, YearRanking } from "../src/entities/player";
+import { PlayerPlacement, YearRanking } from "../src/entities/player";
 
 const readFile = util.promisify(fs.readFile);
 
@@ -11,6 +11,7 @@ export interface PlayerRankings {
   rankings: {
     year: number;
     place: number | null;
+    article: string;
   }[];
 }
 
@@ -23,11 +24,11 @@ export const playersRankingsFromJson = async (): Promise<PlayerRankings[]> => {
   const json = JSON.parse(file.toString());
   const yearRankings = json.rankings as YearRanking[];
 
-  const map: Record<string, PlayerRank[]> = {};
+  const map: Record<string, PlayerPlacement[]> = {};
 
   yearRankings.forEach((ranking) => {
     ranking.placings.forEach((placing) => {
-      const playerRank: PlayerRank = {
+      const playerRank: PlayerPlacement = {
         year: ranking.year,
         place: placing.place,
         article: placing.article,
