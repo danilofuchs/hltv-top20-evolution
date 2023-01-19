@@ -880,7 +880,7 @@
             "id": 4467,
             "name": "VeryGames",
             "logo": "https://img-cdn.hltv.org/teamlogo/QCiBDngzUGklkmTWjOLJc0.svg?ixlib=java-2.1.0&s=e2902a70f02f0eb0c8ec49d1f7514c19",
-            "startDate": 1348303800000
+            "startDate": 1348264800000
           }
         ]
       }
@@ -1976,6 +1976,19 @@
             "startDate": 1471644000000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 1,
+        "article": "https://www.hltv.org/news/35380/top-20-players-of-2022-s1mple-1",
+        "teams": [
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1471644000000
+          }
+        ]
       }
     ],
     "country": "UA",
@@ -2068,6 +2081,19 @@
         "year": 2021,
         "place": 3,
         "article": "https://www.hltv.org/news/33154/top-20-players-of-2021-niko-3",
+        "teams": [
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1604271600000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "place": 5,
+        "article": "https://www.hltv.org/news/35367/top-20-players-of-2022-niko-5",
         "teams": [
           {
             "id": 5995,
@@ -2308,6 +2334,19 @@
         "year": 2018,
         "place": 18,
         "article": "https://www.hltv.org/news/25754/top-20-players-of-2018-rain-18",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1453417200000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "place": 13,
+        "article": "https://www.hltv.org/news/35329/top-20-players-of-2022-rain-13",
         "teams": [
           {
             "id": 6667,
@@ -2727,6 +2766,19 @@
             "startDate": 1611961200000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 11,
+        "article": "https://www.hltv.org/news/35343/top-20-players-of-2022-twistzz-11",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1611961200000
+          }
+        ]
       }
     ],
     "country": "CA",
@@ -2835,6 +2887,19 @@
             "startDate": 1491948000000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 8,
+        "article": "https://www.hltv.org/news/35350/top-20-players-of-2022-ropz-8",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1641164400000
+          }
+        ]
       }
     ],
     "country": "EE",
@@ -2899,6 +2964,19 @@
         "year": 2021,
         "place": 2,
         "article": "https://www.hltv.org/news/33152/top-20-players-of-2021-zywoo-2",
+        "teams": [
+          {
+            "id": 9565,
+            "name": "Vitality",
+            "logo": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb",
+            "startDate": 1539640800000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "place": 2,
+        "article": "https://www.hltv.org/news/35374/top-20-players-of-2022-zywoo-2",
         "teams": [
           {
             "id": 9565,
@@ -3069,7 +3147,7 @@
             "id": 6673,
             "name": "NRG",
             "logo": "https://img-cdn.hltv.org/teamlogo/FWweZ99RnoooVjxfXcejyF.png?ixlib=java-2.1.0&w=50&s=988110f56625ba2bc582682f47c12027",
-            "startDate": 1503191400000
+            "startDate": 1503180000000
           },
           {
             "id": 10399,
@@ -3185,6 +3263,19 @@
             "startDate": 1635980400000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 12,
+        "article": "https://www.hltv.org/news/35340/top-20-players-of-2022-blamef-12",
+        "teams": [
+          {
+            "id": 6665,
+            "name": "Astralis",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+            "startDate": 1635980400000
+          }
+        ]
       }
     ],
     "country": "DK",
@@ -3244,6 +3335,19 @@
             "startDate": 1553036400000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 10,
+        "article": "https://www.hltv.org/news/35344/top-20-players-of-2022-stavn-10",
+        "teams": [
+          {
+            "id": 7175,
+            "name": "Heroic",
+            "logo": "https://img-cdn.hltv.org/teamlogo/Q6BGM_VQRz8Y9m3UgaqiUx.svg?ixlib=java-2.1.0&s=9424e99a6d77c8f154ea2d74175b3e17",
+            "startDate": 1553036400000
+          }
+        ]
       }
     ],
     "country": "DK",
@@ -3272,6 +3376,19 @@
         "year": 2021,
         "place": 12,
         "article": "https://www.hltv.org/news/33091/top-20-players-of-2021-hunter-12",
+        "teams": [
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1569880800000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "place": 14,
+        "article": "https://www.hltv.org/news/35326/top-20-players-of-2022-hunter-14",
         "teams": [
           {
             "id": 5995,
@@ -3375,6 +3492,19 @@
             "startDate": 1519167600000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 9,
+        "article": "https://www.hltv.org/news/35347/top-20-players-of-2022-kscerato-9",
+        "teams": [
+          {
+            "id": 8297,
+            "name": "FURIA",
+            "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+            "startDate": 1519167600000
+          }
+        ]
       }
     ],
     "country": "BR",
@@ -3396,6 +3526,31 @@
             "name": "Gambit",
             "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
             "startDate": 1601848800000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "place": 3,
+        "article": "https://www.hltv.org/news/35379/top-20-players-of-2022-sh1ro-3",
+        "teams": [
+          {
+            "id": 6651,
+            "name": "Gambit",
+            "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "startDate": 1601848800000
+          },
+          {
+            "id": 11616,
+            "name": "Players",
+            "logo": "https://img-cdn.hltv.org/teamlogo/aeN7dNSmF0MT1vhGICMI__.png?ixlib=java-2.1.0&w=50&s=594a6e9b54e11dc415d85c651b891886",
+            "startDate": 1647990000000
+          },
+          {
+            "id": 5752,
+            "name": "Cloud9",
+            "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c",
+            "startDate": 1650751200000
           }
         ]
       }
@@ -3421,6 +3576,31 @@
             "startDate": 1601848800000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 4,
+        "article": "https://www.hltv.org/news/35371/top-20-players-of-2022-ax1le-4",
+        "teams": [
+          {
+            "id": 6651,
+            "name": "Gambit",
+            "logo": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76",
+            "startDate": 1601848800000
+          },
+          {
+            "id": 11616,
+            "name": "Players",
+            "logo": "https://img-cdn.hltv.org/teamlogo/aeN7dNSmF0MT1vhGICMI__.png?ixlib=java-2.1.0&w=50&s=594a6e9b54e11dc415d85c651b891886",
+            "startDate": 1647990000000
+          },
+          {
+            "id": 5752,
+            "name": "Cloud9",
+            "logo": "https://img-cdn.hltv.org/teamlogo/bEgST6XoNV4ZdenRKzCQyl.svg?ixlib=java-2.1.0&s=bd9b10a8dfe7b3640103745687389e3c",
+            "startDate": 1650751200000
+          }
+        ]
       }
     ],
     "country": "RU",
@@ -3442,6 +3622,37 @@
             "name": "Virtus.pro",
             "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
             "startDate": 1590357600000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "place": 15,
+        "article": "https://www.hltv.org/news/35321/top-20-players-of-2022-yekindar-15",
+        "teams": [
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1590357600000
+          },
+          {
+            "id": 11595,
+            "name": "Outsiders",
+            "logo": "https://img-cdn.hltv.org/teamlogo/K15IzjKuVPxnoWr3J3-tJ7.png?ixlib=java-2.1.0&w=50&s=d87bd1cf1f3835f152b363eecd95e3fe",
+            "startDate": 1647385200000
+          },
+          {
+            "id": 5378,
+            "name": "Virtus.pro",
+            "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+            "startDate": 1653256800000
+          },
+          {
+            "id": 5973,
+            "name": "Liquid",
+            "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+            "startDate": 1657144800000
           }
         ]
       }
@@ -3466,6 +3677,19 @@
             "logo": "https://img-cdn.hltv.org/teamlogo/5-1R6_tdnc-xf2F456CIbN.png?ixlib=java-2.1.0&w=50&s=5e473c72ecbb14b05abdc8bff510cb3c",
             "startDate": 1570399200000
           },
+          {
+            "id": 4608,
+            "name": "Natus Vincere",
+            "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+            "startDate": 1611183600000
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "place": 16,
+        "article": "https://www.hltv.org/news/35323/top-20-players-of-2022-b1t-16",
+        "teams": [
           {
             "id": 4608,
             "name": "Natus Vincere",
@@ -3538,10 +3762,52 @@
             "startDate": 1569448800000
           }
         ]
+      },
+      {
+        "year": 2022,
+        "place": 6,
+        "article": "https://www.hltv.org/news/35361/top-20-players-of-2022-broky-6",
+        "teams": [
+          {
+            "id": 6667,
+            "name": "FaZe",
+            "logo": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa",
+            "startDate": 1569448800000
+          }
+        ]
       }
     ],
     "country": "LV",
     "profileUrl": "https://www.hltv.org/player/18053/broky"
+  },
+  {
+    "ign": "m0NESY",
+    "id": 19230,
+    "name": "Ilya Osipov",
+    "image": "https://img-cdn.hltv.org/playerbodyshot/oTWIZoofJ9G9T8kp8wQndq.png?ixlib=java-2.1.0&w=400&s=cd15ef90fcd9921ae3f6158e31f012b6",
+    "rankings": [
+      {
+        "year": 2022,
+        "place": 7,
+        "article": "https://www.hltv.org/news/35334/top-20-players-of-2022-m0nesy-7",
+        "teams": [
+          {
+            "id": 10371,
+            "name": "NAVI Junior",
+            "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809",
+            "startDate": 1579647600000
+          },
+          {
+            "id": 5995,
+            "name": "G2",
+            "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+            "startDate": 1641164400000
+          }
+        ]
+      }
+    ],
+    "country": "RU",
+    "profileUrl": "https://www.hltv.org/player/19230/m0NESY"
   },
   {
     "ign": "frozen",
